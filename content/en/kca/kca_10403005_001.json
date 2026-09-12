@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10403005_001",
+  "title": "Wine and target archery at Cheonghwa Pavilion",
+  "topics": [
+    "Court life"
+  ],
+  "translation": [
+    "The king held a drinking gathering with royal relatives and princes at Cheonghwa Pavilion, and they shot at archery targets."
+  ],
+  "notes": [
+    {
+      "title": "A corrected reading in the source",
+      "text": "The displayed original preserves an earlier reading in parentheses and a correction in brackets: (射候)〔射侯〕. The translation follows the corrected reading, target archery."
+    }
+  ],
+  "keywords": [
+    "청화정",
+    "활",
+    "종친",
+    "연회"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "68d9f7233e2d9939b2449e192933549ed5f5dabe27200fe67ee606bf23e7944e",
+    "license": "CC-BY-SA-4.0"
+  }
+}

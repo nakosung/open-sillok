@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12308007_002",
+  "title": "Farming, granaries, and the care of livestock",
+  "topics": [
+    "Agriculture & relief",
+    "Law & administration"
+  ],
+  "translation": [
+    "Sin Cheo-gang, Pacification Commissioner of Jeju, and Gwon Ja-yong, magistrate of Jinbo, took their leave. The king received them and said: “Encouraging farming and sericulture, and managing the collection and distribution of community-granary grain, are all the foremost duties of local officials. In Jeju, the care and breeding of livestock are particularly urgent. Go and carry out your duties with respect.”"
+  ],
+  "notes": [
+    {
+      "title": "義倉 · community granaries",
+      "text": "The passage refers to both taking grain into the granaries and distributing it. Neither direction of the obligation is omitted."
+    }
+  ],
+  "keywords": [
+    "제주",
+    "농업",
+    "양잠",
+    "의창",
+    "가축"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "8d4f9e85f2c3962aecbb8603f4602500ab1daf17fe77fed451afc16cba0b6726",
+    "license": "CC-BY-SA-4.0"
+  }
+}

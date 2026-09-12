@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12403002_005",
+  "title": "Should ritual altars be built of stone or earth?",
+  "topics": [
+    "Ritual & belief",
+    "Craft & technology"
+  ],
+  "translation": [
+    "Citing a submission from the Ministry of Rites, the State Council reported: “Because the sacrificial altars in various places were easily damaged by stormy weather, it was previously ordered that they be rebuilt in stone. On carefully examining the meaning of the word dan, however, all explanations say that an altar is made by heaping up earth; none speaks of using stone. In the ancient system, a raised mound of earth was a dan and a cleared area was a shan. No system of using stone is mentioned.",
+    "“Moreover, stone provides places where insects and snakes can make their homes, making the altars less clean instead. We ask that, following the ancient system, they be firmly built of earth; that additional altar keepers be assigned; and that the Office of Sacrificial Rites strictly inspect them so that cattle and horses cannot trample them.” The king agreed."
+  ],
+  "notes": [
+    {
+      "title": "壇 and 墠",
+      "text": "Dan and shan distinguish a raised altar from a cleared ritual space. Their contrast is part of the argument, so the original terms are retained."
+    }
+  ],
+  "keywords": [
+    "제단",
+    "흙",
+    "돌",
+    "봉상시",
+    "건축"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "2816c319e58d672155d95cb579406f5f5011813258fe58a00a8dcbeb6d985352",
+    "license": "CC-BY-SA-4.0"
+  }
+}

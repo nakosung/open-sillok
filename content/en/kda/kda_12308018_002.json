@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12308018_002",
+  "title": "The Ministry of Punishments submits capital cases",
+  "topics": [
+    "Law & administration",
+    "Women & family"
+  ],
+  "translation": [
+    "The Ministry of Punishments reported: “Kim Geoji-sin, a naval serviceman imprisoned at Pyeongyang in Pyeongan Province for robbery, and Deok-ji, a free-status woman imprisoned at Deokcheon, killed people and forcibly took property. Jeong Mak-dong and two others imprisoned at Jasan deliberately burned down houses and stole property. We ask that all be beheaded according to the law.",
+    "“Seungga-i, a free-status woman imprisoned at Gunwi in Gyeongsang Province, conspired with her lover Seog-i to murder her husband. We ask that, according to the law, Seungga-i be put to death by lingchi and Seog-i be beheaded.”",
+    "The king approved all the requests."
+  ],
+  "notes": [
+    {
+      "title": "A report and approval",
+      "text": "The allegations and proposed sentences are the ministry’s report. The final sentence records royal approval; it does not independently document the carrying out of each punishment."
+    },
+    {
+      "title": "良女 and 陵遲",
+      "text": "良女 identifies a woman of free status, not a moral judgment. Lingchi names a historical form of aggravated execution; its name is retained."
+    }
+  ],
+  "keywords": [
+    "형조",
+    "사형",
+    "재판",
+    "평양",
+    "범죄"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "681f4864e38fa86847d86d182bafff32c404f487428ac968745401f2321d471a",
+    "license": "CC-BY-SA-4.0"
+  }
+}

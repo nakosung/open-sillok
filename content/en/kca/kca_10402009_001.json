@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402009_001",
+  "title": "Additional allowances during an extended hunt",
+  "topics": [
+    "Defense & borders",
+    "Labor & status"
+  ],
+  "translation": [
+    "The soldiers and the officials and clerks of the various offices were given three days’ allowances. The hunting exercise had originally been limited to the eighth day, but the limit was now set at the thirteenth; this was the reason for the grant."
+  ],
+  "notes": [
+    {
+      "title": "A date-reading to be reviewed",
+      "text": "八日 and 十三日 are read here as calendar-day limits. The terse original should be checked by a specialist before this timing is relied upon. The three-day grant is preserved as stated."
+    }
+  ],
+  "keywords": [
+    "강무",
+    "급료",
+    "군사"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "04f99a30b3b7e8c60342e9e04c1b2d0e4193670ba9604411ee9a7635f3d5c956",
+    "license": "CC-BY-SA-4.0"
+  }
+}

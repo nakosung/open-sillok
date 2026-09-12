@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402010_004",
+  "title": "Two deer are shot",
+  "topics": [
+    "Court life",
+    "Animals"
+  ],
+  "translation": [
+    "Two deer were shot."
+  ],
+  "notes": [],
+  "keywords": [
+    "노루",
+    "사냥"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "94a12a318844d51ab912f1cbdb8fbf501da57421a37bd624eef769089b35adc1",
+    "license": "CC-BY-SA-4.0"
+  }
+}

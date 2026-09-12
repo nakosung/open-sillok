@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "kva_10101006_002",
+  "title": "An armored commander is reprimanded for bowing",
+  "topics": [
+    "Defense & borders",
+    "Court life"
+  ],
+  "translation": [
+    "As the royal procession passed the troops left in position, their commander prostrated himself to receive it. The king instructed: “I have already given an order concerning the principle that a man in armor and helmet does not bow. A military formation differs from the ranks assembled at court. The commander of the Royal Guards’ formation has failed to observe the proper conduct. Investigate the commander concerned, Yi Han-eung.”"
+  ],
+  "notes": [
+    {
+      "title": "Investigate, not a stated punishment",
+      "text": "推考 orders an investigation into an official’s conduct. This entry does not state its outcome or a final penalty."
+    }
+  ],
+  "keywords": [
+    "갑옷",
+    "절",
+    "이한응",
+    "금위영",
+    "군례"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "0e8461271fde212295927f2baa97b1169f401c033feaf93cf355e8524794a176",
+    "license": "CC-BY-SA-4.0"
+  }
+}

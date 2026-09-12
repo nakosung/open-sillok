@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10403007_002",
+  "title": "A commander is held responsible for wrecked grain ships",
+  "topics": [
+    "Law & administration",
+    "Defense & borders"
+  ],
+  "translation": [
+    "The State Council was ordered to punish No Jung-je, an assistant naval commander of Gyeongsang Province, for the wrecking of grain-transport ships.",
+    "Earlier, Jung-je had led the grain fleet into the waters of Jeolla Province. Being drunk, he failed to observe the weather and did not consult the others. He had a horn sounded to send the ships out, and they met a windstorm and were wrecked. At the time, the censorial and remonstrance officials requested that he be punished, but the king did not agree. Now that the king had learned the actual circumstances, he issued this order."
+  ],
+  "notes": [
+    {
+      "title": "No modern rank equivalence",
+      "text": "“Assistant naval commander” is a descriptive rendering of 水軍僉節制使. It should not be treated as a present-day naval rank."
+    }
+  ],
+  "keywords": [
+    "노중제",
+    "조운",
+    "난파",
+    "술",
+    "재판"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "f757bbaad7932251f42ac0a23c6f4f08af3996e459b35c7453bee4df758ff51b",
+    "license": "CC-BY-SA-4.0"
+  }
+}

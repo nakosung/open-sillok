@@ -1,0 +1,24 @@
+name: Report a translation or source problem
+description: Point to a specific passage and evidence.
+title: 'Correction: ARTICLE_ID'
+body:
+  - type: input
+    id: article
+    attributes:
+      label: Article ID or permanent URL
+    validations:
+      required: true
+  - type: textarea
+    id: passage
+    attributes:
+      label: Passage and proposed correction
+      description: Quote the relevant short original passage and explain the problem. Keep uncertainty explicit.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and references
+      description: Link the original and specific references supporting your reading. Do not paste copyrighted modern translations.
+    validations:
+      required: true

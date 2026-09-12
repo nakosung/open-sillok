@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_11604001_005",
+  "title": "Cloth dues are halved after poor harvests",
+  "topics": [
+    "Agriculture & relief",
+    "Labor & status"
+  ],
+  "translation": [
+    "Because of poor harvests in the three provinces of Chungcheong, Jeolla, and Gyeongsang, the king ordered that the cloth tribute owed by enslaved people attached to the various government offices be reduced by half."
+  ],
+  "notes": [
+    {
+      "title": "貢布 · cloth dues",
+      "text": "The order concerns an obligation paid in cloth. The reduction is one half; it is not a general cancellation of taxation."
+    }
+  ],
+  "keywords": [
+    "흉년",
+    "노비",
+    "공포",
+    "세금",
+    "감면"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "293144d16e7e866ac4aadd36b759da8afa4feabd0ee81ff09079b70d3e20ef55",
+    "license": "CC-BY-SA-4.0"
+  }
+}

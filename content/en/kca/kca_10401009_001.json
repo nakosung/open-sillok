@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10401009_001",
+  "title": "Daily written reports on decided cases",
+  "topics": [
+    "Law & administration"
+  ],
+  "translation": [
+    "Han Seung-an, an inspector of the Office of the Inspector-General; Choe Gyeon, a section official in the Ministry of Punishments; Jo Hwan, a section official of that ministry’s Directorate of Slave Affairs; and Kim Jin, an official of the Gaeseong administration, were summoned. They were ordered to submit full written reports each day on the criminal cases and lawsuits they had decided.",
+    "This was because of concern that the many cases and suits were being delayed without resolution. Those who heard the order were alarmed."
+  ],
+  "notes": [
+    {
+      "title": "Office names",
+      "text": "Institutional titles are descriptive English renderings. The source retains the precise Korean offices and ranks in Chinese characters."
+    }
+  ],
+  "keywords": [
+    "재판",
+    "소송",
+    "보고",
+    "형조",
+    "개성"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "61e63be4c1dacfae3430c74d9f522f9f2a0b2451473baae638fe6900191f60c6",
+    "license": "CC-BY-SA-4.0"
+  }
+}

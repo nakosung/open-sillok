@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402008_003",
+  "title": "Deer are sent to the two retired royal courts",
+  "topics": [
+    "Court life",
+    "Animals"
+  ],
+  "translation": [
+    "The king sent someone to present deer at the residences of the senior retired king and the retired king."
+  ],
+  "notes": [],
+  "keywords": [
+    "사슴",
+    "태상전",
+    "상왕전"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "f1e45e5bdd4586e2e110c6260d21cacd4a27d0434472054f6b6e528f6a80c0e2",
+    "license": "CC-BY-SA-4.0"
+  }
+}

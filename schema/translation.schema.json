@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Open Sillok article contribution",
+  "description": "Structural contract. scripts/check-content.py additionally validates source identity, date scope and review/provenance policy.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "id",
+    "title",
+    "topics",
+    "translation",
+    "notes",
+    "provenance"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^k[a-z]{2}_[0-9]{8}_[0-9]{3}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 240
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 60
+      },
+      "minItems": 1,
+      "maxItems": 8
+    },
+    "translation": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 20000
+      },
+      "minItems": 1,
+      "maxItems": 300
+    },
+    "notes": {
+      "type": "array",
+      "maxItems": 50,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "text"
+        ],
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 160
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 6000
+          }
+        }
+      }
+    },
+    "keywords": {
+      "type": "array",
+      "maxItems": 100,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 100
+      }
+    },
+    "dateScope": {
+      "enum": [
+        "month"
+      ]
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "method",
+        "contributors",
+        "model",
+        "created",
+        "updated",
+        "guidelineVersion",
+        "sourceSha256",
+        "license"
+      ],
+      "properties": {
+        "method": {
+          "enum": [
+            "ai-generated",
+            "ai-assisted",
+            "human"
+          ]
+        },
+        "contributors": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9-]{0,38}$"
+          },
+          "minItems": 1,
+          "maxItems": 20
+        },
+        "model": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "created": {
+          "type": "string",
+          "format": "date"
+        },
+        "updated": {
+          "type": "string",
+          "format": "date"
+        },
+        "guidelineVersion": {
+          "const": "1.0"
+        },
+        "sourceSha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "license": {
+          "const": "CC-BY-SA-4.0"
+        }
+      }
+    }
+  }
+}

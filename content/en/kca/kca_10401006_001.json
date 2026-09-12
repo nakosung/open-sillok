@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10401006_001",
+  "title": "Fast boats are sent against maritime raiders",
+  "topics": [
+    "Defense & borders"
+  ],
+  "translation": [
+    "Yun Se-jin was sent to the offshore islands to command fast boats and capture Japanese raiders."
+  ],
+  "notes": [
+    {
+      "title": "倭 · Japanese raiders",
+      "text": "In this military context, the term is translated as Japanese raiders. It should not be generalized to all Japanese people."
+    }
+  ],
+  "keywords": [
+    "왜구",
+    "윤세진",
+    "배",
+    "해군"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "2eae0dc5f4541b9b6868c5bd1899f86db66414e50cbdf3653df1f4b63e463cbc",
+    "license": "CC-BY-SA-4.0"
+  }
+}

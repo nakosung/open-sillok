@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kaa_10107018_001",
+  "title": "Rain after a long drought",
+  "topics": [
+    "Sky & weather",
+    "Court life"
+  ],
+  "translation": [
+    "There was rain. Before this, there had been a long drought. When the king ascended the throne, rain fell abundantly, and the people were greatly pleased."
+  ],
+  "notes": [
+    {
+      "title": "Accession and weather",
+      "text": "The entry places the rain beside the accession. This records the annals’ framing; it does not establish that the accession caused the rain."
+    }
+  ],
+  "keywords": [
+    "비",
+    "가뭄",
+    "즉위"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "19bacc6bf3c881707ea0648a7fd382a5d018c04a44d016954bc6595019c9ae40",
+    "license": "CC-BY-SA-4.0"
+  }
+}

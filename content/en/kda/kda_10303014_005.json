@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_10303014_005",
+  "title": "Where should the elephant live?",
+  "topics": [
+    "Animals",
+    "Law & administration"
+  ],
+  "translation": [
+    "The governor of Chungcheong reported: “The enslaved man who cared for the elephant in Gongju was kicked by it and died. This creature brings no benefit to the state. The fodder and beans it consumes amount to ten times those of other animals: two du of rice and one du of beans each day, costing forty-eight seok of rice and twenty-four seok of beans in a year. When angry, it harms people. It is not merely useless but actually harmful. I ask that it be released into a pasture on an offshore island.”",
+    "The royal instruction was: “Choose a place with good water and grass and release it there. Do not let it become ill and die.”"
+  ],
+  "notes": [
+    {
+      "title": "Quantities as recorded",
+      "text": "The daily and yearly amounts are preserved as the record gives them. Du and seok are historical capacity measures; no modern conversion or recalculation has been substituted."
+    },
+    {
+      "title": "A request and a royal condition",
+      "text": "The governor argues for removal; the royal response specifies water, grazing, and keeping the animal alive. These are separate voices in the source."
+    }
+  ],
+  "keywords": [
+    "코끼리",
+    "공주",
+    "충청도",
+    "동물"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "9af97f840f5dd8e63586b0cbe708bc3fd90ff86fff290e5b0379740b0ee5f9e8",
+    "license": "CC-BY-SA-4.0"
+  }
+}

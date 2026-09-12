@@ -1,0 +1,4307 @@
+{
+  "kaa_10107018_001": {
+    "schemaVersion": 1,
+    "id": "kaa_10107018_001",
+    "kind": "review",
+    "targetPath": "content/en/kaa/kaa_10107018_001.json",
+    "source": {
+      "id": "kaa_10107018_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kaa_10107018_001",
+      "sourceTitle": "태조가 왕위에 오르자 가뭄끝에 비가 내리다",
+      "dateLabel": "태조실록1권, 태조 1년 7월 18일 정유 1/5 기사 / 1392년 명 홍무(洪武) 25년",
+      "kingKo": "태조",
+      "volume": 1,
+      "reignYear": 1,
+      "month": 7,
+      "day": 18,
+      "ordinal": 1,
+      "year": 1392,
+      "leapMonth": false,
+      "original": "○丁酉/雨。 前此久旱, 及上卽位, 霈然下雨, 人心大悅。",
+      "originalSha256": "19bacc6bf3c881707ea0648a7fd382a5d018c04a44d016954bc6595019c9ae40",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "79c43454a64191928ed388f71e2fada0bbf8a5b218d806f04986dbc71d550f6d"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kaa_10107018_001",
+      "title": "Rain after a long drought",
+      "topics": [
+        "Sky & weather",
+        "Court life"
+      ],
+      "translation": [
+        "There was rain. Before this, there had been a long drought. When the king ascended the throne, rain fell abundantly, and the people were greatly pleased."
+      ],
+      "notes": [
+        {
+          "title": "Accession and weather",
+          "text": "The entry places the rain beside the accession. This records the annals’ framing; it does not establish that the accession caused the rain."
+        }
+      ],
+      "keywords": [
+        "비",
+        "가뭄",
+        "즉위"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "19bacc6bf3c881707ea0648a7fd382a5d018c04a44d016954bc6595019c9ae40",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kaa_10107018_002": {
+    "schemaVersion": 1,
+    "id": "kaa_10107018_002",
+    "kind": "review",
+    "targetPath": "content/en/kaa/kaa_10107018_002.json",
+    "source": {
+      "id": "kaa_10107018_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kaa_10107018_002",
+      "sourceTitle": "대소 신료가 태조의 등극을 알리기 위해 명의 예부에 사신을 보내자고 청하다",
+      "dateLabel": "태조실록1권, 태조 1년 7월 18일 정유 2/5 기사 / 1392년 명 홍무(洪武) 25년",
+      "kingKo": "태조",
+      "volume": 1,
+      "reignYear": 1,
+      "month": 7,
+      "day": 18,
+      "ordinal": 2,
+      "year": 1392,
+      "leapMonth": false,
+      "original": "○都評議使司及大小臣僚、閑良、耆老等請令知密直司事趙胖赴京申禮部曰:\n竊謂小邦, 至恭愍王薨無嗣, 逆臣辛旽子禑爲權臣李仁任等所立。 禑乃昏暴狂恣, 多殺無辜, 至興師旅, 欲向遼東。 時右軍都統使李 【太祖舊諱。】 以爲不可犯上國之境, 擧義回軍, 禑乃自知寡助, 惶懼辭位, 以與子昌。 國人稟奉恭愍王妃 安氏之命, 以王氏宗親定昌府院君 瑤, 權署國事, 及今四年。 瑤又昏迷不法, 疏斥忠正, 昵比讒邪, 變亂是非, 謀陷勳舊, 諂惑佛神, 妄興土木, 糜費無度, 民不堪苦; 子奭癡騃無知, 縱于酒色, 聚會群小, 謀害忠直。 又其臣鄭夢周等潛成奸計, 欲生亂階, 乃將勳臣李 【太祖舊諱。】 、趙浚、鄭道傳、南誾等, 譖於權署國事, 令有司論劾, 以謀致害, 國人憤怨, 共誅夢周。 權署國事, 尙不悛改, 又謀殺戮。 擧國臣民實慮社稷生靈俱被其害, 惶懼失措, 無可奈何, 咸謂以若所爲, 難以主斯民奉社稷, 洪武二十五年七月十二日, 以恭愍王妃 安氏之命, 退居私第。 切念軍國之務, 不可一日無統, 擇於宗親, 無有可當輿望者, 惟門下侍中李 【太祖舊諱。】 澤被生靈, 功在社稷, 中外之心, 夙皆歸附。 於是一國大小臣僚閑良耆老軍民等咸願推戴, 令知密直司事趙胖, 前赴朝廷奏達, 伏乞照驗, 煩爲聞奏。 俯從輿意, 以安一國之民。",
+      "originalSha256": "38fdc1944dff24cfdbb0d957051ab352d70af7cea5d1e98ede19488aa65975e8",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "6a0d5e89a15e528cb36ae41a10f16e19d0f86e1f5811ed967b686c709126c9e6"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kaa_10107018_002",
+      "title": "A proposed message to the Ming court about the change of ruler",
+      "topics": [
+        "Diplomacy",
+        "Law & administration"
+      ],
+      "translation": [
+        "The Deliberative Council, officials of high and low rank, men without office, elders, and others requested that Jo Ban, an official of the Security Council, be sent to the imperial capital to submit the following to the Ministry of Rites:",
+        "“We respectfully state that, when King Gongmin of our small country died without an heir, Yi In-im and other powerful ministers installed U, the son of the treacherous minister Sin Don. U was benighted, violent, reckless, and unrestrained. He killed many innocent people and even raised an army intending to march on Liaodong. At that time, Yi, commander of the Right Army [the source identifies him as Taejo under his former personal name], held that the territory of the superior country must not be violated. He raised a righteous cause and turned the army back. Knowing that he had little support, U became fearful, relinquished the throne, and gave it to his son Chang.",
+        "“The people of the country respectfully followed the command of Lady An, consort of King Gongmin, and appointed Yo, Lord of Jeongchang and a kinsman of the Wang royal house, to administer the affairs of state provisionally. Four years have now passed. Yo too proved benighted and lawless. He alienated loyal and upright men, associated closely with slanderers and the wicked, confused right and wrong, and plotted to entrap longstanding men of merit. Beguiled by Buddhist divinities, he recklessly undertook building works and spent without restraint, so that the people could not endure their suffering. His son Seok was foolish and ignorant, indulged in drink and women, gathered petty men around him, and plotted to harm the loyal and upright.",
+        "“His minister Jeong Mong-ju and others secretly formed treacherous plans and sought to cause disorder. They slandered the meritorious ministers Yi [the source again identifies Taejo], Jo Jun, Jeong Do-jeon, and Nam Eun to the provisional administrator of state affairs, and had the authorities impeach them in order to bring them to harm. The people, indignant and resentful, together put Mong-ju to death. The provisional administrator still did not repent and again plotted killings. All the officials and people feared that the state and its living people would suffer harm. Terrified and at a loss, with no alternative, they agreed that a man who acted in this way could hardly govern the people and serve the altars of state. On the twelfth day of the seventh month of Hongwu year twenty-five, by the command of Lady An, consort of King Gongmin, he retired to a private residence.",
+        "“We earnestly considered that military and state affairs could not be left without direction for even a day. Among the royal relatives, no one could be found who met the people’s expectations. Only Yi, Chief Councillor [the source again identifies Taejo], had extended his beneficence to the people and rendered service to the state. Hearts within and outside the capital had long turned toward him. Accordingly, officials of all ranks, men without office, elders, soldiers, and people throughout the country wished to acclaim him. We are sending Jo Ban of the Security Council ahead to report to the imperial court. We humbly request that you examine this and convey it to the throne. May you graciously follow the people’s wishes and bring peace to the people of this country.”"
+      ],
+      "notes": [
+        {
+          "title": "A partisan account in a diplomatic petition",
+          "text": "The accusations about earlier rulers and ministers belong to the proposed message. They are translated as claims made by its authors, not as independently established facts."
+        },
+        {
+          "title": "The name represented as 李",
+          "text": "At several points, the displayed source gives only the surname Yi, with an annotation identifying Taejo’s former personal name. The English makes that annotation explicit rather than silently supplying a missing name."
+        },
+        {
+          "title": "社稷 · altars of state",
+          "text": "Literally the altars of soil and grain, also used to refer to the polity. The rendering follows the phrase’s role in each sentence."
+        }
+      ],
+      "keywords": [
+        "태조",
+        "명나라",
+        "즉위",
+        "조반",
+        "정도전",
+        "정몽주",
+        "공민왕"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "38fdc1944dff24cfdbb0d957051ab352d70af7cea5d1e98ede19488aa65975e8",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kaa_10107018_003": {
+    "schemaVersion": 1,
+    "id": "kaa_10107018_003",
+    "kind": "review",
+    "targetPath": "content/en/kaa/kaa_10107018_003.json",
+    "source": {
+      "id": "kaa_10107018_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kaa_10107018_003",
+      "sourceTitle": "의흥친군위를 설치하고 도총 중외 제군사부를 폐지하다",
+      "dateLabel": "태조실록1권, 태조 1년 7월 18일 정유 3/5 기사 / 1392년 명 홍무(洪武) 25년",
+      "kingKo": "태조",
+      "volume": 1,
+      "reignYear": 1,
+      "month": 7,
+      "day": 18,
+      "ordinal": 3,
+      "year": 1392,
+      "leapMonth": false,
+      "original": "○立義興親軍衛, 罷都摠中外諸軍事府。",
+      "originalSha256": "e16893bd402c5dcc1ecebacbf9aa0b95577805e1ffd6c7837b71e8b5ee410996",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "3a39d92c0657f8824d2c215fc9a96fc99de917b3ae800cc9ce01cb0a96cfc49f"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kaa_10107018_003",
+      "title": "A new royal guard replaces the general military command",
+      "topics": [
+        "Defense & borders",
+        "Law & administration"
+      ],
+      "translation": [
+        "The Uiheung Royal Guard was established, and the General Command of All Armies within and outside the capital was abolished."
+      ],
+      "notes": [
+        {
+          "title": "義興親軍衛 · Uiheung Royal Guard",
+          "text": "An institutional name. “Royal Guard” is used descriptively; it is not a modern organizational equivalent."
+        }
+      ],
+      "keywords": [
+        "의흥친군위",
+        "군사",
+        "조직"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "e16893bd402c5dcc1ecebacbf9aa0b95577805e1ffd6c7837b71e8b5ee410996",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kaa_10107018_004": {
+    "schemaVersion": 1,
+    "id": "kaa_10107018_004",
+    "kind": "review",
+    "targetPath": "content/en/kaa/kaa_10107018_004.json",
+    "source": {
+      "id": "kaa_10107018_004",
+      "sourceUrl": "https://sillok.history.go.kr/id/kaa_10107018_004",
+      "sourceTitle": "백관에게 명하여 고려조 제도의 연혁과 장단점을 아뢰게 하다",
+      "dateLabel": "태조실록1권, 태조 1년 7월 18일 정유 4/5 기사 / 1392년 명 홍무(洪武) 25년",
+      "kingKo": "태조",
+      "volume": 1,
+      "reignYear": 1,
+      "month": 7,
+      "day": 18,
+      "ordinal": 4,
+      "year": 1392,
+      "leapMonth": false,
+      "original": "○敎百官, 前朝政令法制得失、沿革事目, 具錄以聞。",
+      "originalSha256": "5f37ef6fe83a9f8e82531dcf3e0fcbc653c2d3d84952cfff898d3b64e41de12b",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "d659bee11e2a2eb7e70e945fb9059562697429358ff0f98c7935a3e9126f2189"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kaa_10107018_004",
+      "title": "Officials are asked to assess the previous dynasty’s institutions",
+      "topics": [
+        "Law & administration"
+      ],
+      "translation": [
+        "The king instructed all officials to set down and report in detail the merits and faults of the preceding dynasty’s administrative orders, laws, and institutions, together with what should be retained or changed."
+      ],
+      "notes": [
+        {
+          "title": "前朝 · the preceding dynasty",
+          "text": "In this entry from Taejo’s first year, the expression refers to Goryeo."
+        }
+      ],
+      "keywords": [
+        "고려",
+        "제도",
+        "법",
+        "개혁"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "5f37ef6fe83a9f8e82531dcf3e0fcbc653c2d3d84952cfff898d3b64e41de12b",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kaa_10107020_001": {
+    "schemaVersion": 1,
+    "id": "kaa_10107020_001",
+    "kind": "review",
+    "targetPath": "content/en/kaa/kaa_10107020_001.json",
+    "source": {
+      "id": "kaa_10107020_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kaa_10107020_001",
+      "sourceTitle": "정당 문학 정도전에게 도평의사사의 기무와 상서사의 임무를 관여케 하다",
+      "dateLabel": "태조실록1권, 태조 1년 7월 20일 기해 1/3 기사 / 1392년 명 홍무(洪武) 25년",
+      "kingKo": "태조",
+      "volume": 1,
+      "reignYear": 1,
+      "month": 7,
+      "day": 20,
+      "ordinal": 1,
+      "year": 1392,
+      "leapMonth": false,
+      "original": "○己亥/命前政堂文學鄭道傳, 參議都評議使司機務, 參掌尙瑞司事。",
+      "originalSha256": "2e9c649a3f270be4fb26521aac644b17da144fcb1ea11a09239a8caf3411843d",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "a978a31c1ecc01cccd6d9758a01388a5aa869c7926cb139072b46ebc4aa200ba"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kaa_10107020_001",
+      "title": "Jeong Do-jeon is assigned central deliberative duties",
+      "topics": [
+        "Law & administration"
+      ],
+      "translation": [
+        "Jeong Do-jeon, formerly a senior councillor with the title Jeongdang Munhak, was ordered to participate in deliberating the important affairs of the Deliberative Council and to share responsibility for the Office of Royal Seals."
+      ],
+      "notes": [
+        {
+          "title": "Office titles",
+          "text": "The English names describe the roles of 都評議使司 and 尙瑞司. The source’s exact titles remain in the parallel text."
+        }
+      ],
+      "keywords": [
+        "정도전",
+        "도평의사사",
+        "상서사"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "2e9c649a3f270be4fb26521aac644b17da144fcb1ea11a09239a8caf3411843d",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401001_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401001_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10401001_001.json",
+    "source": {
+      "id": "kca_10401001_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401001_001",
+      "sourceTitle": "임금이 백관을 거느리고 새해를 축하하는 의식을 가지다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 1일 계묘 1/1 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 1,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○癸卯朔/上率百官, 遙賀帝正, 受群臣朝賀。 京畿觀察使尹思修寫魏徵 《十漸疏》, 爲屛以獻。",
+      "originalSha256": "8bc0928557ed953fb1f22b9a1c6d835212a939203777f684532278d80626a286",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "27a0ed7d2df104a2eecea7315aa3591fe2edd79519aa997790ced3b16245d5ae"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401001_001",
+      "title": "New Year greetings and a screen of admonitions",
+      "topics": [
+        "Court life",
+        "Language & learning"
+      ],
+      "translation": [
+        "The king led the officials in offering New Year congratulations to the emperor from afar, then received the court’s congratulations. Yun Sa-su, governor of Gyeonggi, copied Wei Zheng’s Memorial on Ten Gradual Changes onto a folding screen and presented it."
+      ],
+      "notes": [
+        {
+          "title": "遙賀 · congratulations from afar",
+          "text": "The text describes a court ceremony honoring the emperor at a distance; it does not say that the emperor attended."
+        },
+        {
+          "title": "魏徵《十漸疏》",
+          "text": "Wei Zheng’s admonitory memorial is rendered by its title. The original Chinese title remains available for identifying the work."
+        }
+      ],
+      "keywords": [
+        "새해",
+        "병풍",
+        "위징",
+        "윤사수"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "8bc0928557ed953fb1f22b9a1c6d835212a939203777f684532278d80626a286",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401004_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401004_001",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401004_001.json",
+    "source": {
+      "id": "kca_10401004_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401004_001",
+      "sourceTitle": "미친병에 걸려 유언을 퍼뜨린 전 호군 최안국을 귀양보내다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 4일 병오 1/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 4,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○丙午/流前護軍崔安國于外。 安國, 前朝將臣公哲之子也。 嘗與姊夫典書禹希烈不睦, 至是發狂病, 言希烈在星州時, 欲發兵作亂。 希烈上告, 乃繫安國于巡禁司鞫之, 安國曰: \"希烈曾訴我於母, 不給奴婢, 是以怨之耳。\" 上曰: \"篤疾之人, 不可加罪。\" 命收職牒而流之。",
+      "originalSha256": "92f554105118d11635dfe93c31b9ed74da95a07b67e3086ff0631e4f9c911da0",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "f0b725e042b4dcbc376dcddda070ac818261c32f8d6e295a21d6b2dc3819c416"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401004_001",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "92f554105118d11635dfe93c31b9ed74da95a07b67e3086ff0631e4f9c911da0",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401004_002": {
+    "schemaVersion": 1,
+    "id": "kca_10401004_002",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401004_002.json",
+    "source": {
+      "id": "kca_10401004_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401004_002",
+      "sourceTitle": "각도의 사신이 공무에 대하여 계품하는 법을 제정하다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 4일 병오 2/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 4,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○立各道使臣啓稟公事之法。 議政府受判: \"各道使臣凡啓稟公事, 依朝廷之制, 開寫啓本一件、本府呈狀一件, 事關機密則實封, 其餘露封呈本府, 啓聞施行。\"",
+      "originalSha256": "f86cea840cb4393a3903094624039e90dec85e0859c1a93a8f66fce91cec3306",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "1701423bd0f46d9f9ca2067d63392754e1434e374bf262e25f1b7e2ea1e4de99"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401004_002",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "f86cea840cb4393a3903094624039e90dec85e0859c1a93a8f66fce91cec3306",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401006_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401006_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10401006_001.json",
+    "source": {
+      "id": "kca_10401006_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401006_001",
+      "sourceTitle": "윤세진에게 쾌속선을 거느리고 왜적을 잡게 하다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 6일 무신 1/1 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 6,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○戊申/遣尹世珍于海島, 領快船捕倭。",
+      "originalSha256": "2eae0dc5f4541b9b6868c5bd1899f86db66414e50cbdf3653df1f4b63e463cbc",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "4d0ace60fc0aece60ec2fcbf9e381243e135609090379bab04dc05619facda80"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401006_001",
+      "title": "Fast boats are sent against maritime raiders",
+      "topics": [
+        "Defense & borders"
+      ],
+      "translation": [
+        "Yun Se-jin was sent to the offshore islands to command fast boats and capture Japanese raiders."
+      ],
+      "notes": [
+        {
+          "title": "倭 · Japanese raiders",
+          "text": "In this military context, the term is translated as Japanese raiders. It should not be generalized to all Japanese people."
+        }
+      ],
+      "keywords": [
+        "왜구",
+        "윤세진",
+        "배",
+        "해군"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "2eae0dc5f4541b9b6868c5bd1899f86db66414e50cbdf3653df1f4b63e463cbc",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401007_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401007_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10401007_001.json",
+    "source": {
+      "id": "kca_10401007_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401007_001",
+      "sourceTitle": "달이 필성을 범하다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 7일 기유 1/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 7,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○己酉/月犯畢。",
+      "originalSha256": "4a7d84da16e5674d224843278c3c02e50d21789d9510e81c5912b1e6e8a9ab25",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "352c3027339067c2c8410a1b8e6d262592a5fd14bd890d5f67806baad192674a"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401007_001",
+      "title": "The moon approaches the Bi lunar mansion",
+      "topics": [
+        "Sky & weather"
+      ],
+      "translation": [
+        "The moon encroached upon Bi."
+      ],
+      "notes": [
+        {
+          "title": "畢 · Bi",
+          "text": "A named lunar mansion in the traditional East Asian sky. 犯 describes a close apparent approach; it does not mean a physical collision."
+        }
+      ],
+      "keywords": [
+        "달",
+        "필성",
+        "천문"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "4a7d84da16e5674d224843278c3c02e50d21789d9510e81c5912b1e6e8a9ab25",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401007_002": {
+    "schemaVersion": 1,
+    "id": "kca_10401007_002",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401007_002.json",
+    "source": {
+      "id": "kca_10401007_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401007_002",
+      "sourceTitle": "삼부의 관리들이 경연청에서 임금에게 헌수하다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 7일 기유 2/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 7,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○三府獻壽于經筵廳。",
+      "originalSha256": "e22bb58b53cfdb44e01035412f1ce8bd85637294bfe7bfecab324d184994b6fe",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "512aa8e0773b3f3e64883da8083f51ed9779ebe526e7d646d46af415725f8e70"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401007_002",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "e22bb58b53cfdb44e01035412f1ce8bd85637294bfe7bfecab324d184994b6fe",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401008_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401008_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10401008_001.json",
+    "source": {
+      "id": "kca_10401008_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401008_001",
+      "sourceTitle": "임금이 태상전에 문안하다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 8일 경술 1/1 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 8,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○庚戌/上朝太上殿。",
+      "originalSha256": "fda227a35cd95d959f0eefb8dd13a83d1f6db2c483ad85a76db7c5346b39c76d",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "e97cb85b62056b533dfa9bac47d5f451371eb26bac8cff5ddb68a0be9f6e8188"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401008_001",
+      "title": "A visit to the senior retired king",
+      "topics": [
+        "Court life"
+      ],
+      "translation": [
+        "The king paid his respects at the residence of the senior retired king."
+      ],
+      "notes": [
+        {
+          "title": "太上殿",
+          "text": "The title identifies the residence or court of the senior retired king. The source gives no further account of the visit."
+        }
+      ],
+      "keywords": [
+        "태상전",
+        "문안"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "fda227a35cd95d959f0eefb8dd13a83d1f6db2c483ad85a76db7c5346b39c76d",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401009_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401009_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10401009_001.json",
+    "source": {
+      "id": "kca_10401009_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401009_001",
+      "sourceTitle": "죄인심문과 재판에서 판결된 내용을 매일 문건으로 보고토록 하다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 9일 신해 1/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 9,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○辛亥/召司憲掌令韓承顔、刑曹正郞崔蠲、刑曹都官正郞趙環、開城留後司都事金臻, 令將每日所決獄訟, 具本啓聞。 蓋慮獄訟煩而淹延不斷故也。 聞者竦動。",
+      "originalSha256": "61e63be4c1dacfae3430c74d9f522f9f2a0b2451473baae638fe6900191f60c6",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "3a53d1bda3c894d8fe9ab799d38ebaa5a5502ad1b0224bb563e777ea108abd73"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401009_001",
+      "title": "Daily written reports on decided cases",
+      "topics": [
+        "Law & administration"
+      ],
+      "translation": [
+        "Han Seung-an, an inspector of the Office of the Inspector-General; Choe Gyeon, a section official in the Ministry of Punishments; Jo Hwan, a section official of that ministry’s Directorate of Slave Affairs; and Kim Jin, an official of the Gaeseong administration, were summoned. They were ordered to submit full written reports each day on the criminal cases and lawsuits they had decided.",
+        "This was because of concern that the many cases and suits were being delayed without resolution. Those who heard the order were alarmed."
+      ],
+      "notes": [
+        {
+          "title": "Office names",
+          "text": "Institutional titles are descriptive English renderings. The source retains the precise Korean offices and ranks in Chinese characters."
+        }
+      ],
+      "keywords": [
+        "재판",
+        "소송",
+        "보고",
+        "형조",
+        "개성"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "61e63be4c1dacfae3430c74d9f522f9f2a0b2451473baae638fe6900191f60c6",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401009_002": {
+    "schemaVersion": 1,
+    "id": "kca_10401009_002",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10401009_002.json",
+    "source": {
+      "id": "kca_10401009_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401009_002",
+      "sourceTitle": "한양에서 원단제(圓壇祭)를 지내다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 9일 신해 2/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 9,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○行祈穀圓壇祭于漢京。 歲事之常也。",
+      "originalSha256": "f2ed19b4a9507d1e29161d6926505a3e1cf0d2bd85c0bf2cce0be52531c1e04c",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "662f51bead97bbaafe37526fa3f52a91e496cae16ba9f1e9dba3f8646f5a04e6"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401009_002",
+      "title": "A regular sacrifice for a good harvest",
+      "topics": [
+        "Ritual & belief",
+        "Agriculture & relief"
+      ],
+      "translation": [
+        "A sacrifice to pray for grain was performed at the Round Altar in Hanyang. It was a regular annual observance."
+      ],
+      "notes": [],
+      "keywords": [
+        "원단제",
+        "제사",
+        "농사",
+        "한양"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "f2ed19b4a9507d1e29161d6926505a3e1cf0d2bd85c0bf2cce0be52531c1e04c",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401009_003": {
+    "schemaVersion": 1,
+    "id": "kca_10401009_003",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401009_003.json",
+    "source": {
+      "id": "kca_10401009_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401009_003",
+      "sourceTitle": "의안 대군 이화의 모친인 정안 옹주 김씨가 죽다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 9일 신해 3/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 9,
+      "ordinal": 3,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○義安大君 和之母定安翁主 金氏死, 停朝三日。",
+      "originalSha256": "184ae0c4bb182c0a96598591658cc05f5b8b71e05009b8e02195a1546d12c584",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "6998f52e915f261cab4b6eb5431d284f0ce01a95e2b9a349e35415189410379d"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401009_003",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "184ae0c4bb182c0a96598591658cc05f5b8b71e05009b8e02195a1546d12c584",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401009_004": {
+    "schemaVersion": 1,
+    "id": "kca_10401009_004",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10401009_004.json",
+    "source": {
+      "id": "kca_10401009_004",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401009_004",
+      "sourceTitle": "대마도 수호관 종정무에게 편지와 함께 모시·베 등의 물품을 보내다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 9일 신해 4/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 9,
+      "ordinal": 4,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○議政府致書于對馬島守護官宗貞茂, 仍送九升苧麻布各三匹、虎豹皮各二領、燒酒十甁、蒜十斗、乾柿子十束、黃栗十斗。",
+      "originalSha256": "2894d6f4f0d0e886f084ba7ef1281140fe237703aa093d06db91d04cbe3dee66",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "f49fd93829accc35c4379244d620fc1caa7cd10438715c6d00364cf4aec9cd19"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401009_004",
+      "title": "Cloth, skins, and provisions for Tsushima",
+      "topics": [
+        "Diplomacy"
+      ],
+      "translation": [
+        "The State Council sent a letter to Sō Sadashige, the military governor of Tsushima. It also sent three bolts each of nine-seung ramie and hemp cloth, two skins each of tiger and leopard, ten bottles of distilled liquor, ten du of garlic, ten bundles of dried persimmons, and ten du of yellow chestnuts."
+      ],
+      "notes": [
+        {
+          "title": "Textile and capacity measures",
+          "text": "Seung expresses a traditional count used in grading cloth. Du is a historical capacity measure. No modern metric conversion is assumed."
+        }
+      ],
+      "keywords": [
+        "대마도",
+        "종정무",
+        "모시",
+        "외교",
+        "Tsushima"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "2894d6f4f0d0e886f084ba7ef1281140fe237703aa093d06db91d04cbe3dee66",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401012_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401012_001",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401012_001.json",
+    "source": {
+      "id": "kca_10401012_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401012_001",
+      "sourceTitle": "전보문의 아내인 송씨의 노비상속 문제로 신문고 친 사건",
+      "dateLabel": "태종실록7권, 태종 4년 1월 12일 갑인 1/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 12,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○甲寅/命臺諫辨宋氏奴婢及趙夫女奴婢得失。 宋氏, 前朝判三司事全普門之妻也。 無後而死, 奴婢甚多。 前典醫少監許愭等, 以收養故, 傳得役使, 宋氏內外族人驪興府院君 閔霽、左政丞河崙、判司平府事李稷等訟于辨定都監, 盡奪之。 至是愭擊申聞鼓訴冤, 上進兩邊文券而覽之, 下其狀於臺諫, 命之曰: \"兩邊是非, 予已知矣。 大臣尙不親細務。 況人君乎? 爾等三日內, 辨其是非, 開具以聞。\" 臺諫以愭僞造文字; 霽等雖宋氏之族, 然非四寸, 又無傳係, 故皆屬公。",
+      "originalSha256": "75a5c45a7da66b900f56e2064a89deb1b0de679691e63c9d51a8de90affc4869",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "efa07635954d5cb8adde543bc36c5b1f79c53f95d51b5d0be3696765725b600c"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401012_001",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "75a5c45a7da66b900f56e2064a89deb1b0de679691e63c9d51a8de90affc4869",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401012_002": {
+    "schemaVersion": 1,
+    "id": "kca_10401012_002",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401012_002.json",
+    "source": {
+      "id": "kca_10401012_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401012_002",
+      "sourceTitle": "조부녀의 손자 김한제가 형조에서 노비 변정을 잘못했다고 신문고 친 사건",
+      "dateLabel": "태종실록7권, 태종 4년 1월 12일 갑인 2/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 12,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○趙夫女之孫金漢齊, 亦以刑曹誤決其奴婢, 擊鼓申呈。 初, 漢齊祖上之婢車衣加所生, 訴良, 刑曹及都官, 皆從良決之。 車衣加族女, 曾爲李居易之奴妻, 其所生多至四十餘口, 及其從良, 皆爲居易之奴婢。 至是, 上覽漢齊訴狀曰: \"趙夫女之婢夫大和尙者, 李居易之奴也。 其女良則其所生皆爲居易之奴矣。 趙夫女是則居易可恥矣, 若以居易之故, 當賤而不賤, 則豈公道耶?\" 命臺諫曰: \"奴婢決訟, 雖非爾等之職, 辨正嫌疑, 實爲臺諫之任也。 精察其實, 具錄以聞。\" 臺諫交坐推覈, 漢齊果直, 具狀以聞。",
+      "originalSha256": "7d418983317714b1d3ccf4df0c67c38b6e1bff079198cbe1850067abb219f8bf",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "d07987b454e7744825d7c65e370f83fa61f7c5fb4c1763b2c0c7211263f1b80e"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401012_002",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "7d418983317714b1d3ccf4df0c67c38b6e1bff079198cbe1850067abb219f8bf",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401013_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401013_001",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401013_001.json",
+    "source": {
+      "id": "kca_10401013_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401013_001",
+      "sourceTitle": "불상에서 땀이 났다고 왕륜사에서 기양재를 행하다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 13일 을묘 1/1 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 13,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○乙卯/行祈禳齋于王輪寺。 金人汗故也。",
+      "originalSha256": "f172b613a56ec519c59ca0e67aaeecdd471a91e882fb65ee8b695ae570ad6971",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "a64682b0f36576701f08e9143673f32eae2d7bf097d0a803016bbb7251421d97"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401013_001",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "f172b613a56ec519c59ca0e67aaeecdd471a91e882fb65ee8b695ae570ad6971",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401015_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401015_001",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401015_001.json",
+    "source": {
+      "id": "kca_10401015_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401015_001",
+      "sourceTitle": "하루종일 짙은 안개가 끼다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 15일 정사 1/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 15,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○丁巳/昏霧終日。",
+      "originalSha256": "7b22212c88fe4172da5a9c15d5a6d2ba0ba976980def5421bcc09cc894b5e9da",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "4a22d0d1f181b5d87fac113570f60e8eff9f34fcfdf5060fcd4ec0b1fa5b01fd"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401015_001",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "7b22212c88fe4172da5a9c15d5a6d2ba0ba976980def5421bcc09cc894b5e9da",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401015_002": {
+    "schemaVersion": 1,
+    "id": "kca_10401015_002",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401015_002.json",
+    "source": {
+      "id": "kca_10401015_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401015_002",
+      "sourceTitle": "경사에 가는 여성군 민무질에게 잔치를 베풀다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 15일 정사 2/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 15,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○宴驪城君 閔無疾于內樓。 以將如京師也。",
+      "originalSha256": "47e7c5ff30194b1f893350d7466c4c3dda61013a0824fb636fd254c58a7f16f9",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "67949ff87ef0cb00fb9b15419d617014893b293238d9d9cebd3f25de0942aff6"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401015_002",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "47e7c5ff30194b1f893350d7466c4c3dda61013a0824fb636fd254c58a7f16f9",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10401017_001": {
+    "schemaVersion": 1,
+    "id": "kca_10401017_001",
+    "kind": "translate",
+    "targetPath": "content/en/kca/kca_10401017_001.json",
+    "source": {
+      "id": "kca_10401017_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10401017_001",
+      "sourceTitle": "사헌부의 내부 갈등으로 집의 민약손·감찰 박하 등을 탄핵하다",
+      "dateLabel": "태종실록7권, 태종 4년 1월 17일 기미 1/1 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 1,
+      "day": 17,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○己未/司憲府劾執義閔若孫、監察朴河等五人。 禁無牌鷹子之令下, 司憲府授帖于書吏所由, 使執犯令者。 一日, 吏與所由執之以告, 非受帖者也。 執義閔若孫推之, 乃參知承樞府事辛克禮之鷹也。 若孫囚其臂鷹者, 還其鷹於克禮。 克禮怒, 至若孫家曰: \"是鷹, 上之所賜也。 汝受之乎?\" 若孫懼, 徑抵克禮家謝之, 克禮不出見。 若孫叱書吏所由曰: \"禁無牌鷹子, 非汝所受之任, 何故執之, 辱及吾身?\" 乃笞其所由, 稱疾不仕。 大司憲崔有慶、持平鄭持等劾克禮, 克禮不答。 是日, 司憲府官齊坐于本府, 持與若孫之入也, 監察朴河等五人譏之曰: \"辱命者亦仕乎?\" 一應之曰: \"諾。\" 一曰: \"勿笞所由可也。\" 一曰: \"臺綱掃地矣。\" 且以本府不能劾若孫(古)〔故〕 曰: \"無牌鷹子, 曾有禁判, 書吏所由執之是矣。 執義閔若孫畏勢不從判旨, 不堪彈糾之任。\" 掌令韓承顔、持平鄭持劾若孫及河等。",
+      "originalSha256": "e8915b089c7594e159ed22a24b77cb3a6c8aba140ae3253fbd48c075ab403544",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "34ea613126d97e17738149e58ff3fc41fe1c3ba88b477a919eb938d5fd56296c"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10401017_001",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "e8915b089c7594e159ed22a24b77cb3a6c8aba140ae3253fbd48c075ab403544",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402006_001": {
+    "schemaVersion": 1,
+    "id": "kca_10402006_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402006_001.json",
+    "source": {
+      "id": "kca_10402006_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402006_001",
+      "sourceTitle": "해주에서 강무하다. 삼성에서 수행하다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 6일 정축 1/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 6,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○丁丑/講武于海州。 初, 召司憲府掌務曰: \"府則聽訟無暇, 只令諫院刑曹隨駕。\" 憲司請曰: \"三省隨駕, 古制也。 願令扈從。\" 不聽。 翌日, 憲府又請隨駕, 不聽。 大司憲崔有慶持兄服不仕, 適以私事詣闕, 聞憲府不得隨駕, 乃以法不可廢, 入告, 上許之。 諫院詣闕上言:\n宗廟夏享, 不可不親。 今若勞軍遠狩, 又幸新都, 軍馬尤困。 況豐海道, 中國使臣往還之地, 春秋講武, 其弊不細。 請講武于京畿, 而有事于新都, 若講武豐海, 則且待明年。 上怒, 命臺省刑曹皆不隨駕。 左政丞河崙等固請, 乃命隨駕。",
+      "originalSha256": "a92460d73f2d0e6186d17e870f4a5b486226324437cb35dc2877cf5a9346ad4e",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "5c965255b75cef656a1a5f9dc82f57cb12cc6ebbdbc77e006d6518e9470762f8"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402006_001",
+      "title": "Who should accompany the king on a military hunt?",
+      "topics": [
+        "Defense & borders",
+        "Law & administration"
+      ],
+      "translation": [
+        "A military hunting exercise was held at Haeju. Earlier, the king had summoned the official in charge of the Office of the Inspector-General and said, “Your office has no time to spare from hearing lawsuits. Let only the Office of Remonstrance and the Ministry of Punishments accompany the royal procession.”",
+        "The censorial office petitioned, “It is an ancient rule that the three offices accompany the royal procession. We ask to join the escort.” The king did not listen. The following day the office again asked to accompany him, and again he did not listen. Choe Yu-gyeong, Chief Inspector-General, was absent from duty in mourning for his elder brother. He happened to visit the palace on private business and heard that the office was not permitted to accompany the king. He went in and explained that the established rule must not be abandoned. The king gave permission.",
+        "The Office of Remonstrance then came to the palace and submitted: “You must personally attend the summer sacrifice at the Royal Ancestral Shrine. If you now tire the troops by hunting far away and then also visit the new capital, the soldiers and horses will be further exhausted. Moreover, Punghae Province lies on the route traveled by Chinese envoys. The burden of holding military hunts there in spring and autumn is considerable. We ask that you hold the military hunt in Gyeonggi and attend to affairs at the new capital. If the hunt is to be held in Punghae, please wait until next year.”",
+        "The king became angry and ordered that the censorial and remonstrance offices and the Ministry of Punishments should all refrain from accompanying him. Ha Ryun, the Left State Councillor, and others pressed their request, and he then ordered them to accompany him."
+      ],
+      "notes": [
+        {
+          "title": "講武 · military hunting exercise",
+          "text": "The term concerns training through a royal hunt. Translating it simply as leisure hunting would miss its military role."
+        },
+        {
+          "title": "A complete petition",
+          "text": "The remonstrance and the king’s changing decisions are part of this single entry; they have not been reduced to a summary."
+        }
+      ],
+      "keywords": [
+        "강무",
+        "최유경",
+        "하륜",
+        "해주",
+        "간언",
+        "사헌부"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "a92460d73f2d0e6186d17e870f4a5b486226324437cb35dc2877cf5a9346ad4e",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402006_002": {
+    "schemaVersion": 1,
+    "id": "kca_10402006_002",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402006_002.json",
+    "source": {
+      "id": "kca_10402006_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402006_002",
+      "sourceTitle": "증자와 자사의 배향 위치를 공자의 배향위 곁으로 올리려 정하다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 6일 정축 2/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 6,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○陞郕國公 曾子、沂國公 子思于先聖配位。 初, 曾子在十哲之位, 子思在從祀之列。 左政丞河崙奉使入朝, 得二子圖像而來, 獻議塑像陞于配位, 又塑子張像, 列于十哲。",
+      "originalSha256": "000c57a9ae9e43d64a7ccabdd6dead81f6fea38135829f379540acda69074d54",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "8240c8255e00aee1acee693e40cf41555a1dd474fd3ea0cf4047561c7d5abe15"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402006_002",
+      "title": "Zengzi and Zisi are raised to places beside Confucius",
+      "topics": [
+        "Ritual & belief",
+        "Language & learning"
+      ],
+      "translation": [
+        "Zengzi, Duke of Cheng, and Zisi, Duke of Yi, were raised to positions of associated worship beside the First Sage. Previously, Zengzi had been among the Ten Philosophers and Zisi among the other figures receiving subsidiary sacrifices.",
+        "Ha Ryun, the Left State Councillor, had obtained portraits of the two while serving as an envoy at the imperial court and brought them back. He proposed making statues and raising them to the associated positions. A statue of Zizhang was also to be made and placed among the Ten Philosophers."
+      ],
+      "notes": [
+        {
+          "title": "The First Sage",
+          "text": "先聖 here refers to Confucius. The passage concerns ritual positions, rather than appointments to government office."
+        }
+      ],
+      "keywords": [
+        "공자",
+        "증자",
+        "자사",
+        "배향",
+        "하륜",
+        "Confucius"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "000c57a9ae9e43d64a7ccabdd6dead81f6fea38135829f379540acda69074d54",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402008_001": {
+    "schemaVersion": 1,
+    "id": "kca_10402008_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402008_001.json",
+    "source": {
+      "id": "kca_10402008_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402008_001",
+      "sourceTitle": "안개가 끼다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 8일 기묘 1/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 8,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○己卯/霧。",
+      "originalSha256": "68248b9af6bc7ff7137e7aaa4777df5cb51f74814b7c2d83fd7d0e7fee154d7a",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "fa6a82f4b028793addbf755cd50153b51613f2f811a81f47ba609cfc9d95ac9e"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402008_001",
+      "title": "Fog",
+      "topics": [
+        "Sky & weather"
+      ],
+      "translation": [
+        "There was fog."
+      ],
+      "notes": [
+        {
+          "title": "A complete short entry",
+          "text": "“There was fog” is the entire narrative. The leading characters record the sexagenary day, shown in the date metadata."
+        }
+      ],
+      "keywords": [
+        "안개",
+        "날씨"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "68248b9af6bc7ff7137e7aaa4777df5cb51f74814b7c2d83fd7d0e7fee154d7a",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402008_002": {
+    "schemaVersion": 1,
+    "id": "kca_10402008_002",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402008_002.json",
+    "source": {
+      "id": "kca_10402008_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402008_002",
+      "sourceTitle": "의정부가 행재소에서 연향을 베풀다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 8일 기묘 2/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 8,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○議政府設享于行在所。",
+      "originalSha256": "f653e6bf3996b9bbe2362c07566e5987220917faf66380a107cb5c2471bebb73",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "df9e699bab51a72905e338263451f1abaa802e0a7f026b8d660a1f2e3ae5887f"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402008_002",
+      "title": "A banquet at the temporary royal residence",
+      "topics": [
+        "Court life"
+      ],
+      "translation": [
+        "The State Council held a banquet at the king’s temporary residence."
+      ],
+      "notes": [
+        {
+          "title": "行在所 · temporary royal residence",
+          "text": "The place where the king was staying while away from his usual seat."
+        }
+      ],
+      "keywords": [
+        "연회",
+        "행재소",
+        "의정부"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "f653e6bf3996b9bbe2362c07566e5987220917faf66380a107cb5c2471bebb73",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402008_003": {
+    "schemaVersion": 1,
+    "id": "kca_10402008_003",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402008_003.json",
+    "source": {
+      "id": "kca_10402008_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402008_003",
+      "sourceTitle": "태상전과 상왕전에 사슴을 바치다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 8일 기묘 3/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 8,
+      "ordinal": 3,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○上遣人獻鹿于太上殿及上王殿。",
+      "originalSha256": "f1e45e5bdd4586e2e110c6260d21cacd4a27d0434472054f6b6e528f6a80c0e2",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "fd85d5e53ce5d2f2d5eab1be7ffc38cf69d802de0c6698a9bea9db36f4d49a61"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402008_003",
+      "title": "Deer are sent to the two retired royal courts",
+      "topics": [
+        "Court life",
+        "Animals"
+      ],
+      "translation": [
+        "The king sent someone to present deer at the residences of the senior retired king and the retired king."
+      ],
+      "notes": [],
+      "keywords": [
+        "사슴",
+        "태상전",
+        "상왕전"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "f1e45e5bdd4586e2e110c6260d21cacd4a27d0434472054f6b6e528f6a80c0e2",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402008_004": {
+    "schemaVersion": 1,
+    "id": "kca_10402008_004",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402008_004.json",
+    "source": {
+      "id": "kca_10402008_004",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402008_004",
+      "sourceTitle": "임금이 사냥하다가 말에서 떨어졌으나 사관에게 알리지 못하게 하다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 8일 기묘 4/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 8,
+      "ordinal": 4,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○親御弓矢, 馳馬射獐, 因馬仆而墜, 不傷。 顧左右曰: \"勿令史官知之。\"",
+      "originalSha256": "cdb3bf392cc34047a6815fd7938f888b2dcef594e3ec3b316b7c67c9dd1b215a",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "48d336251448edf785c6f61d6d9d53d884ba12c492b87e303098f49b8c69fb66"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402008_004",
+      "title": "A fall from a horse, and an order to keep it quiet",
+      "topics": [
+        "Court life",
+        "Historical writing"
+      ],
+      "translation": [
+        "The king personally took up his bow and arrows and galloped on horseback to shoot a deer. His horse fell and he was thrown, but he was not injured.",
+        "Looking around at his attendants, he said, “Do not let the historians know about this.”"
+      ],
+      "notes": [
+        {
+          "title": "史官 · sagwan",
+          "text": "Officials responsible for recording court affairs. The king’s instruction is itself preserved in this entry."
+        },
+        {
+          "title": "獐 · deer",
+          "text": "The source uses a specific word for a small deer. The broader English term avoids claiming a precise modern species identification."
+        }
+      ],
+      "keywords": [
+        "낙마",
+        "사관",
+        "말",
+        "사냥"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "cdb3bf392cc34047a6815fd7938f888b2dcef594e3ec3b316b7c67c9dd1b215a",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402009_001": {
+    "schemaVersion": 1,
+    "id": "kca_10402009_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402009_001.json",
+    "source": {
+      "id": "kca_10402009_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402009_001",
+      "sourceTitle": "강무의 기간 연장으로 참여한 군사 등에게 3일간의 급료를 더 주다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 9일 경진 1/1 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 9,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○庚辰/給軍士及各司員吏三日料。 初, 講武限八日, 至是定爲十三日故也。",
+      "originalSha256": "04f99a30b3b7e8c60342e9e04c1b2d0e4193670ba9604411ee9a7635f3d5c956",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "f58a58cf8c002bc2b98ab208b796afa36734bf5f5756d19477363380e0a363e7"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402009_001",
+      "title": "Additional allowances during an extended hunt",
+      "topics": [
+        "Defense & borders",
+        "Labor & status"
+      ],
+      "translation": [
+        "The soldiers and the officials and clerks of the various offices were given three days’ allowances. The hunting exercise had originally been limited to the eighth day, but the limit was now set at the thirteenth; this was the reason for the grant."
+      ],
+      "notes": [
+        {
+          "title": "A date-reading to be reviewed",
+          "text": "八日 and 十三日 are read here as calendar-day limits. The terse original should be checked by a specialist before this timing is relied upon. The three-day grant is preserved as stated."
+        }
+      ],
+      "keywords": [
+        "강무",
+        "급료",
+        "군사"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "04f99a30b3b7e8c60342e9e04c1b2d0e4193670ba9604411ee9a7635f3d5c956",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402010_001": {
+    "schemaVersion": 1,
+    "id": "kca_10402010_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402010_001.json",
+    "source": {
+      "id": "kca_10402010_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402010_001",
+      "sourceTitle": "햇무리가 지다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 10일 신사 1/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 10,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○辛巳/日暈南北珥。",
+      "originalSha256": "53cb7d52714d40bfa6f0cac46814ea66864ca8c96977146be12cf28bc4e14d4a",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "268a3fd7b4cc74f0c0f1e2a371f68ad87b07446b695d0607014ba555c4216e77"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402010_001",
+      "title": "A solar halo with luminous spots",
+      "topics": [
+        "Sky & weather"
+      ],
+      "translation": [
+        "There was a halo around the sun, with attendant luminous spots to the north and south."
+      ],
+      "notes": [
+        {
+          "title": "日暈 and 珥",
+          "text": "The wording distinguishes the halo from the additional luminous features. Their reported directions are preserved without reinterpreting the observation as a modern measurement."
+        }
+      ],
+      "keywords": [
+        "햇무리",
+        "일이",
+        "천문",
+        "날씨"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "53cb7d52714d40bfa6f0cac46814ea66864ca8c96977146be12cf28bc4e14d4a",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402010_002": {
+    "schemaVersion": 1,
+    "id": "kca_10402010_002",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402010_002.json",
+    "source": {
+      "id": "kca_10402010_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402010_002",
+      "sourceTitle": "행재소 물자 운반을 위해 민간에서 징발한 말을 돌려보내게 하다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 10일 신사 2/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 10,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○命放還民間刷馬。 上聞支應行在之物, 俱以民間牛馬輸之, 謂朴錫命曰: \"各道驛吏, 受田而備馬, 無他徭役, 轉輸官物, 乃其職也。 凡民徭役旣多, 又出牛馬以輸, 其弊不小, 是使予取怨于民也。 而今而後不復來矣。\" 乃有是命。",
+      "originalSha256": "d656e5c59ff27ea9f8104549760be4c9a4679fc47bd09b04d6c5aaa021e43dc7",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "e3db5ac077d4b038993bd90fa0f0754083478a34a606f0597cfc190c04d681b4"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402010_002",
+      "title": "Requisitioned horses are to be returned to the people",
+      "topics": [
+        "Labor & status",
+        "Law & administration"
+      ],
+      "translation": [
+        "The king ordered that horses requisitioned from the people be released and returned. He had heard that all supplies for his temporary residence were being transported using the people’s cattle and horses. He said to Bak Seok-myeong:",
+        "“The station personnel in the various provinces receive land and maintain horses. They have no other labor obligations; transporting government goods is their duty. Ordinary people already bear many labor obligations. To make them also provide cattle and horses for transport creates a considerable burden. This brings the people’s resentment upon me. From now on, I will not come again.”",
+        "It was then that this order was issued."
+      ],
+      "notes": [
+        {
+          "title": "The burden of a royal visit",
+          "text": "The complaint is directed at requisitioning from ordinary households when the transport duty belonged to station personnel."
+        }
+      ],
+      "keywords": [
+        "백성",
+        "말",
+        "부역",
+        "박석명",
+        "민폐"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "d656e5c59ff27ea9f8104549760be4c9a4679fc47bd09b04d6c5aaa021e43dc7",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402010_003": {
+    "schemaVersion": 1,
+    "id": "kca_10402010_003",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402010_003.json",
+    "source": {
+      "id": "kca_10402010_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402010_003",
+      "sourceTitle": "경기도·풍해도 찰방에게 질서 문란 행위를 단속[禁亂]케 하다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 10일 신사 3/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 10,
+      "ordinal": 3,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○命京畿及豐海道察訪禁亂。 從臺諫之請也。",
+      "originalSha256": "ab5d788d1df389b3cbd1c67d2df083dbbe80d663885b9ffcea10ee038879ea6a",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "76f2620e1e186c68b68bda376c6d4faa6f59ea7f82b370142fd65d3a92876718"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402010_003",
+      "title": "Station inspectors are ordered to curb disorder",
+      "topics": [
+        "Law & administration"
+      ],
+      "translation": [
+        "The station inspectors of Gyeonggi and Punghae were ordered to suppress disorder. This followed a request from the censorial and remonstrance officials."
+      ],
+      "notes": [],
+      "keywords": [
+        "찰방",
+        "금란",
+        "경기",
+        "풍해"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "ab5d788d1df389b3cbd1c67d2df083dbbe80d663885b9ffcea10ee038879ea6a",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402010_004": {
+    "schemaVersion": 1,
+    "id": "kca_10402010_004",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402010_004.json",
+    "source": {
+      "id": "kca_10402010_004",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402010_004",
+      "sourceTitle": "노루 두 마리를 사냥하다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 10일 신사 4/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 10,
+      "ordinal": 4,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○射獐二。",
+      "originalSha256": "94a12a318844d51ab912f1cbdb8fbf501da57421a37bd624eef769089b35adc1",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "a28274a79473c80ac76c16651e2acd34c512d0201fbd9725c68a69999ef0c241"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402010_004",
+      "title": "Two deer are shot",
+      "topics": [
+        "Court life",
+        "Animals"
+      ],
+      "translation": [
+        "Two deer were shot."
+      ],
+      "notes": [],
+      "keywords": [
+        "노루",
+        "사냥"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "94a12a318844d51ab912f1cbdb8fbf501da57421a37bd624eef769089b35adc1",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10402011_001": {
+    "schemaVersion": 1,
+    "id": "kca_10402011_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10402011_001.json",
+    "source": {
+      "id": "kca_10402011_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10402011_001",
+      "sourceTitle": "햇무리가 지다. 좌정승 하윤이 그 형상을 그려서 바치다",
+      "dateLabel": "태종실록7권, 태종 4년 2월 11일 임오 1/2 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 2,
+      "day": 11,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○壬午/日暈且珥。 左政丞河崙留都, 圖形以進。",
+      "originalSha256": "43411bcedf62c3d194839a48184f722c5a471ceeeb73d074de564efb63179127",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "f030189f85f18a64a183e920dd0e72881ca83e28ee995b29748f524a33390dc1"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10402011_001",
+      "title": "A drawing of a solar halo is presented",
+      "topics": [
+        "Sky & weather"
+      ],
+      "translation": [
+        "There was a halo around the sun, together with luminous spots. Ha Ryun, the Left State Councillor, who had remained in the capital, drew their appearance and presented the drawing."
+      ],
+      "notes": [],
+      "keywords": [
+        "햇무리",
+        "그림",
+        "하륜",
+        "천문"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "43411bcedf62c3d194839a48184f722c5a471ceeeb73d074de564efb63179127",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10403005_001": {
+    "schemaVersion": 1,
+    "id": "kca_10403005_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10403005_001.json",
+    "source": {
+      "id": "kca_10403005_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10403005_001",
+      "sourceTitle": "종친·제군과 더불어 청화정에서 술자리를 벌이고 활을 쏘다",
+      "dateLabel": "태종실록7권, 태종 4년 3월 5일 병오 1/1 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 3,
+      "day": 5,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○丙午/與宗親諸君置酒淸和亭(射候)〔射侯〕 。",
+      "originalSha256": "68d9f7233e2d9939b2449e192933549ed5f5dabe27200fe67ee606bf23e7944e",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "b497bf0490035725d04487bf968f4df3abb6e90911da24a972522ed3693595f1"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10403005_001",
+      "title": "Wine and target archery at Cheonghwa Pavilion",
+      "topics": [
+        "Court life"
+      ],
+      "translation": [
+        "The king held a drinking gathering with royal relatives and princes at Cheonghwa Pavilion, and they shot at archery targets."
+      ],
+      "notes": [
+        {
+          "title": "A corrected reading in the source",
+          "text": "The displayed original preserves an earlier reading in parentheses and a correction in brackets: (射候)〔射侯〕. The translation follows the corrected reading, target archery."
+        }
+      ],
+      "keywords": [
+        "청화정",
+        "활",
+        "종친",
+        "연회"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "68d9f7233e2d9939b2449e192933549ed5f5dabe27200fe67ee606bf23e7944e",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10403006_001": {
+    "schemaVersion": 1,
+    "id": "kca_10403006_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10403006_001.json",
+    "source": {
+      "id": "kca_10403006_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10403006_001",
+      "sourceTitle": "왜선이 충청도에 침입하여 병선을 빼앗고 군사 60여 명을 죽이다",
+      "dateLabel": "태종실록7권, 태종 4년 3월 6일 정미 1/1 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 3,
+      "day": 6,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○丁未/倭船二隻, 寇忠淸道, 奪兵船二艘, 殺軍人六十餘。",
+      "originalSha256": "effc7a3d25e94f35f86e33f097030e15a6cfe5b7c2fcd4147696bb912515ad36",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "628a1ed46fd26b8defc90565b7dcd50a067729126e84d540d70eb83b23b37d81"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10403006_001",
+      "title": "A maritime raid on Chungcheong",
+      "topics": [
+        "Defense & borders"
+      ],
+      "translation": [
+        "Two Japanese ships raided Chungcheong Province, seized two warships, and killed more than sixty soldiers."
+      ],
+      "notes": [],
+      "keywords": [
+        "왜구",
+        "충청도",
+        "병선",
+        "전투"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "effc7a3d25e94f35f86e33f097030e15a6cfe5b7c2fcd4147696bb912515ad36",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10403007_002": {
+    "schemaVersion": 1,
+    "id": "kca_10403007_002",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10403007_002.json",
+    "source": {
+      "id": "kca_10403007_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10403007_002",
+      "sourceTitle": "조운하다가 배를 파선시킨 경상도 수군 첨절제사 노중제의 죄를 다스리게 하다",
+      "dateLabel": "태종실록7권, 태종 4년 3월 7일 무신 2/3 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 3,
+      "day": 7,
+      "ordinal": 2,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○命議政府, 治慶尙道水軍僉節制使盧仲濟漕運敗船之罪。 初, 仲濟領漕運船入全羅道境, 因醉不察天氣, 不與衆謀, 吹角發船, 致使遇風而敗。 時, 臺諫請仲濟罪, 上不允, 至是乃知其實, 故有是命。",
+      "originalSha256": "f757bbaad7932251f42ac0a23c6f4f08af3996e459b35c7453bee4df758ff51b",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "3f60429d438e4e5070936d8784473c2b9163a7b7003ac6241fb73ff30c7c306f"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10403007_002",
+      "title": "A commander is held responsible for wrecked grain ships",
+      "topics": [
+        "Law & administration",
+        "Defense & borders"
+      ],
+      "translation": [
+        "The State Council was ordered to punish No Jung-je, an assistant naval commander of Gyeongsang Province, for the wrecking of grain-transport ships.",
+        "Earlier, Jung-je had led the grain fleet into the waters of Jeolla Province. Being drunk, he failed to observe the weather and did not consult the others. He had a horn sounded to send the ships out, and they met a windstorm and were wrecked. At the time, the censorial and remonstrance officials requested that he be punished, but the king did not agree. Now that the king had learned the actual circumstances, he issued this order."
+      ],
+      "notes": [
+        {
+          "title": "No modern rank equivalence",
+          "text": "“Assistant naval commander” is a descriptive rendering of 水軍僉節制使. It should not be treated as a present-day naval rank."
+        }
+      ],
+      "keywords": [
+        "노중제",
+        "조운",
+        "난파",
+        "술",
+        "재판"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "f757bbaad7932251f42ac0a23c6f4f08af3996e459b35c7453bee4df758ff51b",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10403007_003": {
+    "schemaVersion": 1,
+    "id": "kca_10403007_003",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10403007_003.json",
+    "source": {
+      "id": "kca_10403007_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10403007_003",
+      "sourceTitle": "오도리족의 동맹가첩목아 등 세 사람이 내조하다",
+      "dateLabel": "태종실록7권, 태종 4년 3월 7일 무신 3/3 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 3,
+      "day": 7,
+      "ordinal": 3,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○吾道里 童猛哥帖木兒等三人來朝。",
+      "originalSha256": "ba6c3ac1d8ab3f15575c230ddc123b18c96d2ddbe0e90c66bbd32f9926fdc0af",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "7b01fd5e1183bcf2d1d26ee131cc601fbbc991622779ce7f9cdbd91c6dc0323d"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10403007_003",
+      "title": "An Odori delegation comes to court",
+      "topics": [
+        "Diplomacy",
+        "Defense & borders"
+      ],
+      "translation": [
+        "Tong Möngke Temür of the Odori and two others came to court."
+      ],
+      "notes": [
+        {
+          "title": "Three people in total",
+          "text": "等三人 specifies a party of three including the named person, not three additional companions. The name is also preserved as 童猛哥帖木兒."
+        }
+      ],
+      "keywords": [
+        "오도리",
+        "동맹가첩목아",
+        "여진",
+        "Mongke Temur"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "ba6c3ac1d8ab3f15575c230ddc123b18c96d2ddbe0e90c66bbd32f9926fdc0af",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_10403011_001": {
+    "schemaVersion": 1,
+    "id": "kca_10403011_001",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_10403011_001.json",
+    "source": {
+      "id": "kca_10403011_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_10403011_001",
+      "sourceTitle": "삼계 대초라는 초제를 지내다",
+      "dateLabel": "태종실록7권, 태종 4년 3월 11일 임자 1/4 기사 / 1404년 명 영락(永樂) 2년",
+      "kingKo": "태종",
+      "volume": 7,
+      "reignYear": 4,
+      "month": 3,
+      "day": 11,
+      "ordinal": 1,
+      "year": 1404,
+      "leapMonth": false,
+      "original": "○壬子/行三界大醮。",
+      "originalSha256": "7e1f6590c6c4f99a7d115b1ce58a4261b9963fecdca741afbd6464dc3d8ad219",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "2c0a83f6e4f76dfb1eba30fdac7ef9869dba415c3df390684e7fc17ea8c0f9bd"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_10403011_001",
+      "title": "A great offering to the Three Realms",
+      "topics": [
+        "Ritual & belief"
+      ],
+      "translation": [
+        "A great jiao offering to the Three Realms was performed."
+      ],
+      "notes": [
+        {
+          "title": "醮 · jiao",
+          "text": "A named ritual offering. Its traditional name is retained because the brief source gives no description of the ceremony."
+        }
+      ],
+      "keywords": [
+        "삼계대초",
+        "제사",
+        "의례"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "7e1f6590c6c4f99a7d115b1ce58a4261b9963fecdca741afbd6464dc3d8ad219",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kca_11102022_002": {
+    "schemaVersion": 1,
+    "id": "kca_11102022_002",
+    "kind": "review",
+    "targetPath": "content/en/kca/kca_11102022_002.json",
+    "source": {
+      "id": "kca_11102022_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kca_11102022_002",
+      "sourceTitle": "일본 국왕이 우리 나라에 없는 코끼리를 바치니 사복시에서 기르게 하다",
+      "dateLabel": "태종실록21권, 태종 11년 2월 22일 계축 2/2 기사 / 1411년 명 영락(永樂) 9년",
+      "kingKo": "태종",
+      "volume": 21,
+      "reignYear": 11,
+      "month": 2,
+      "day": 22,
+      "ordinal": 2,
+      "year": 1411,
+      "leapMonth": false,
+      "original": "○日本國王源義持, 遣使獻象。 象, 我國未嘗有也。 命司僕養之, 日費豆四五斗。",
+      "originalSha256": "e5a88dc8c4bcb263ea88a8442e65249c496a7c8cb1994931e4c1dd71c6f868b7",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "938249268ad94f458f03ffd2e8198665c67e9449a3adc6d72efa4ae0ef22d895"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kca_11102022_002",
+      "title": "An elephant arrives from Japan",
+      "topics": [
+        "Diplomacy",
+        "Animals"
+      ],
+      "translation": [
+        "Minamoto no Yoshimochi, styled king of Japan, sent an envoy to present an elephant. There had never been an elephant in our country. The Royal Stables were ordered to care for it. It consumed four or five du of beans a day."
+      ],
+      "notes": [
+        {
+          "title": "日本國王源義持",
+          "text": "The record calls Yoshimochi “king of Japan” and uses the surname Minamoto. The wording reflects the source’s diplomatic designation, not a modern description of Japan’s imperial succession."
+        },
+        {
+          "title": "斗 · du",
+          "text": "A historical measure of capacity. The original quantity is retained without an assumed conversion into modern liters."
+        }
+      ],
+      "keywords": [
+        "코끼리",
+        "일본",
+        "외교",
+        "Yoshimochi"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "e5a88dc8c4bcb263ea88a8442e65249c496a7c8cb1994931e4c1dd71c6f868b7",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_10303014_005": {
+    "schemaVersion": 1,
+    "id": "kda_10303014_005",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_10303014_005.json",
+    "source": {
+      "id": "kda_10303014_005",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_10303014_005",
+      "sourceTitle": "충청도 관찰사가 코끼리를 섬 가운데 있는 목장으로 내놓아 달라 건의하다",
+      "dateLabel": "세종실록11권, 세종 3년 3월 14일 병자 5/7 기사 / 1421년 명 영락(永樂) 19년",
+      "kingKo": "세종",
+      "volume": 11,
+      "reignYear": 3,
+      "month": 3,
+      "day": 14,
+      "ordinal": 5,
+      "year": 1421,
+      "leapMonth": false,
+      "original": "○忠淸道觀察使啓: \"公州養象奴, 爲象所蹴而死。 其爲物, 無益於國, 所飼芻豆, 十倍於他獸, 一日米二斗、豆一斗, 一年之費, 米四十八石、豆二十四石。 怒則害人, 非徒無益, 反爲有害, 請放海島牧場。\" 宣旨: \"擇水草好處放之, 勿令病死。\"",
+      "originalSha256": "9af97f840f5dd8e63586b0cbe708bc3fd90ff86fff290e5b0379740b0ee5f9e8",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "9c56e269442484a1dfde2ce21010eec7ed44e63bd3e028d4d58d25d4cd94ded8"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_10303014_005",
+      "title": "Where should the elephant live?",
+      "topics": [
+        "Animals",
+        "Law & administration"
+      ],
+      "translation": [
+        "The governor of Chungcheong reported: “The enslaved man who cared for the elephant in Gongju was kicked by it and died. This creature brings no benefit to the state. The fodder and beans it consumes amount to ten times those of other animals: two du of rice and one du of beans each day, costing forty-eight seok of rice and twenty-four seok of beans in a year. When angry, it harms people. It is not merely useless but actually harmful. I ask that it be released into a pasture on an offshore island.”",
+        "The royal instruction was: “Choose a place with good water and grass and release it there. Do not let it become ill and die.”"
+      ],
+      "notes": [
+        {
+          "title": "Quantities as recorded",
+          "text": "The daily and yearly amounts are preserved as the record gives them. Du and seok are historical capacity measures; no modern conversion or recalculation has been substituted."
+        },
+        {
+          "title": "A request and a royal condition",
+          "text": "The governor argues for removal; the royal response specifies water, grazing, and keeping the animal alive. These are separate voices in the source."
+        }
+      ],
+      "keywords": [
+        "코끼리",
+        "공주",
+        "충청도",
+        "동물"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "9af97f840f5dd8e63586b0cbe708bc3fd90ff86fff290e5b0379740b0ee5f9e8",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_11604001_002": {
+    "schemaVersion": 1,
+    "id": "kda_11604001_002",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_11604001_002.json",
+    "source": {
+      "id": "kda_11604001_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_11604001_002",
+      "sourceTitle": "하향에 쓸 향과 축문을 전하다",
+      "dateLabel": "세종실록64권, 세종 16년 4월 1일 무신 2/6 기사 / 1434년 명 선덕(宣德) 9년",
+      "kingKo": "세종",
+      "volume": 64,
+      "reignYear": 16,
+      "month": 4,
+      "day": 1,
+      "ordinal": 2,
+      "year": 1434,
+      "leapMonth": false,
+      "original": "○親傳夏享香祝。",
+      "originalSha256": "8a38d13733b31dccc4f1820117342aba4e4870c7031652a323a00f381ba3cc70",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "6421f9cebf32a8067108a248b03f881c5571a0719f43c2451a8d84acaf00f7b6"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_11604001_002",
+      "title": "Incense and prayers for the summer sacrifice",
+      "topics": [
+        "Ritual & belief"
+      ],
+      "translation": [
+        "The king personally handed over the incense and written prayers for the summer sacrifice."
+      ],
+      "notes": [],
+      "keywords": [
+        "향",
+        "축문",
+        "하향",
+        "의례"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "8a38d13733b31dccc4f1820117342aba4e4870c7031652a323a00f381ba3cc70",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_11604001_005": {
+    "schemaVersion": 1,
+    "id": "kda_11604001_005",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_11604001_005.json",
+    "source": {
+      "id": "kda_11604001_005",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_11604001_005",
+      "sourceTitle": "충청·전라·경상의 삼도가 흉년이 들었기에 각사 노비의 공포를 반으로 감할 것을 명하다",
+      "dateLabel": "세종실록64권, 세종 16년 4월 1일 무신 5/6 기사 / 1434년 명 선덕(宣德) 9년",
+      "kingKo": "세종",
+      "volume": 64,
+      "reignYear": 16,
+      "month": 4,
+      "day": 1,
+      "ordinal": 5,
+      "year": 1434,
+      "leapMonth": false,
+      "original": "○忠淸、全羅、慶尙等三道凶歉, 命減各司奴婢貢布之半。",
+      "originalSha256": "293144d16e7e866ac4aadd36b759da8afa4feabd0ee81ff09079b70d3e20ef55",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "566bc34dd7018500df6f232a8deafefeb09f2da4a8930c9cfa5b68b7c45836f4"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_11604001_005",
+      "title": "Cloth dues are halved after poor harvests",
+      "topics": [
+        "Agriculture & relief",
+        "Labor & status"
+      ],
+      "translation": [
+        "Because of poor harvests in the three provinces of Chungcheong, Jeolla, and Gyeongsang, the king ordered that the cloth tribute owed by enslaved people attached to the various government offices be reduced by half."
+      ],
+      "notes": [
+        {
+          "title": "貢布 · cloth dues",
+          "text": "The order concerns an obligation paid in cloth. The reduction is one half; it is not a general cancellation of taxation."
+        }
+      ],
+      "keywords": [
+        "흉년",
+        "노비",
+        "공포",
+        "세금",
+        "감면"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "293144d16e7e866ac4aadd36b759da8afa4feabd0ee81ff09079b70d3e20ef55",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_11604002_001": {
+    "schemaVersion": 1,
+    "id": "kda_11604002_001",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_11604002_001.json",
+    "source": {
+      "id": "kda_11604002_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_11604002_001",
+      "sourceTitle": "상참을 받고 정사를 보고 경연에 나아가다",
+      "dateLabel": "세종실록64권, 세종 16년 4월 2일 기유 1/6 기사 / 1434년 명 선덕(宣德) 9년",
+      "kingKo": "세종",
+      "volume": 64,
+      "reignYear": 16,
+      "month": 4,
+      "day": 2,
+      "ordinal": 1,
+      "year": 1434,
+      "leapMonth": false,
+      "original": "○己酉/受常參, 視事, 御經筵。",
+      "originalSha256": "318f9192f21e36c7f81576dd93aeb8cecf7ebf568fe9f08489178e61cb68ae96",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "5908f10e617ec39ed696e258a8bf3d02483b04692997257ae548492e39e5cf61"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_11604002_001",
+      "title": "A routine audience, state business, and a royal lecture",
+      "topics": [
+        "Court life",
+        "Language & learning"
+      ],
+      "translation": [
+        "The king received the regular audience, attended to state affairs, and went to the royal lecture."
+      ],
+      "notes": [
+        {
+          "title": "經筵 · royal lecture",
+          "text": "A court setting for the ruler’s study and discussion of texts. The entry does not identify which text was discussed that day."
+        }
+      ],
+      "keywords": [
+        "상참",
+        "정사",
+        "경연"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "318f9192f21e36c7f81576dd93aeb8cecf7ebf568fe9f08489178e61cb68ae96",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_11604002_003": {
+    "schemaVersion": 1,
+    "id": "kda_11604002_003",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_11604002_003.json",
+    "source": {
+      "id": "kda_11604002_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_11604002_003",
+      "sourceTitle": "도승지 안숭선이 사직하기를 청하자 이를 허락치 않다",
+      "dateLabel": "세종실록64권, 세종 16년 4월 2일 기유 3/6 기사 / 1434년 명 선덕(宣德) 9년",
+      "kingKo": "세종",
+      "volume": 64,
+      "reignYear": 16,
+      "month": 4,
+      "day": 2,
+      "ordinal": 3,
+      "year": 1434,
+      "leapMonth": false,
+      "original": "○都承旨安崇善辭職曰: \"職任至重, 惟懼不勝, 乞解臣職。\" 不允。",
+      "originalSha256": "77c16173698fb328cbd0937de8bad89c13b41e4d513afc2ff56d2e63ea946747",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "031c3377807f094db5a6e10da677d855cc833caac1bcd2b066a1a27579b6336b"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_11604002_003",
+      "title": "An Sung-seon asks to leave office",
+      "topics": [
+        "Law & administration"
+      ],
+      "translation": [
+        "An Sung-seon, Chief Royal Secretary, tendered his resignation, saying, “The duties of this office are extremely weighty. I fear only that I cannot fulfill them. I beg to be relieved of my post.” Permission was not granted."
+      ],
+      "notes": [],
+      "keywords": [
+        "안숭선",
+        "사직",
+        "도승지"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "77c16173698fb328cbd0937de8bad89c13b41e4d513afc2ff56d2e63ea946747",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_11604002_004": {
+    "schemaVersion": 1,
+    "id": "kda_11604002_004",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_11604002_004.json",
+    "source": {
+      "id": "kda_11604002_004",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_11604002_004",
+      "sourceTitle": "부산포에서 굶주리고 있는 왜인들을 구제하는 일을 의논함",
+      "dateLabel": "세종실록64권, 세종 16년 4월 2일 기유 4/6 기사 / 1434년 명 선덕(宣德) 9년",
+      "kingKo": "세종",
+      "volume": 64,
+      "reignYear": 16,
+      "month": 4,
+      "day": 2,
+      "ordinal": 4,
+      "year": 1434,
+      "leapMonth": false,
+      "original": "○令承文院提調, 議慶尙道 富山浦恒居飢饉倭人十五戶, 給還上與否, 僉曰: \"以還上給之, 則後難還收, 如不救恤, 以至餓死, 則亦不可忍視, 依本朝詳定賑濟之數, 限兩麥之熟, 計口十日一次賑給。\" 從之。",
+      "originalSha256": "b97ca9e5f8d1578e1ed645227c827b98f431bcb07374623f3acf9a83b5808da0",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "c95aa5fc86b3d37944c8805e79c6ae97a1b5e0eb1a61fac183f1ccbf13c2b936"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_11604002_004",
+      "title": "Food relief for fifteen Japanese households at Busanpo",
+      "topics": [
+        "Agriculture & relief",
+        "Diplomacy"
+      ],
+      "translation": [
+        "The supervising officials of the Office of Diplomatic Correspondence were ordered to discuss whether to provide grain loans to fifteen famine-stricken Japanese households permanently resident at Busanpo in Gyeongsang Province.",
+        "They all said, “If grain is given as a loan, it will be difficult to recover later. Yet if they are not relieved and consequently starve to death, that too would be unbearable to watch. Following the relief amounts fixed by our state, let provisions be distributed once every ten days, calculated by the number of mouths, until barley and wheat ripen.” The king agreed."
+      ],
+      "notes": [
+        {
+          "title": "還上 · grain loans",
+          "text": "The officials distinguish repayable grain loans from relief distributions. The translation keeps that distinction."
+        },
+        {
+          "title": "兩麥 · the two grain crops",
+          "text": "Rendered here as barley and wheat. The passage sets their ripening as the endpoint for relief, rather than a fixed modern date."
+        }
+      ],
+      "keywords": [
+        "부산포",
+        "기근",
+        "왜인",
+        "구호",
+        "환곡",
+        "Busan"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "b97ca9e5f8d1578e1ed645227c827b98f431bcb07374623f3acf9a83b5808da0",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_11604026_003": {
+    "schemaVersion": 1,
+    "id": "kda_11604026_003",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_11604026_003.json",
+    "source": {
+      "id": "kda_11604026_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_11604026_003",
+      "sourceTitle": "형조에 전지하여 사역인의 아내가 아이를 낳으면 남편도 30일의 휴가를 주도록 하다",
+      "dateLabel": "세종실록64권, 세종 16년 4월 26일 계유 3/10 기사 / 1434년 명 선덕(宣德) 9년",
+      "kingKo": "세종",
+      "volume": 64,
+      "reignYear": 16,
+      "month": 4,
+      "day": 26,
+      "ordinal": 3,
+      "year": 1434,
+      "leapMonth": false,
+      "original": "○敎刑曹: \"京外婢子孕兒臨産朔與産後百日內, 勿令役使, 已曾立法。 其夫全不給暇, 仍令役使, 不得救護, 非徒有乖於夫婦相救之意, 因此或致隕命, 誠爲可恤。 自今有役人之妻産兒, 則其夫滿三十日後役使。\"",
+      "originalSha256": "3928b988969061c58455114c5e9cc77e4607a072185e46254d3e34acf3f5fce1",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "9d8c074bdc2a12f61d62faf0f6e04f2cf73bcd8220a2babd9a60cdded5958e08"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_11604026_003",
+      "title": "Thirty days away from service to care for a wife after childbirth",
+      "topics": [
+        "Women & family",
+        "Labor & status"
+      ],
+      "translation": [
+        "The king instructed the Ministry of Punishments: “It has already been established by law that enslaved women in the capital and the provinces are not to be put to work in the month when childbirth is imminent or during the hundred days after giving birth. Yet their husbands are given no leave at all and continue to be put to work, so they cannot care for and protect them. This not only runs counter to the duty of husband and wife to help one another; sometimes lives are lost as a result. This is truly deserving of concern. From now on, when the wife of a person in service gives birth, her husband is to resume service only after thirty full days.”"
+      ],
+      "notes": [
+        {
+          "title": "婢子 · enslaved women",
+          "text": "The order concerns women of servile status and their husbands. It should not be read as a universal or modern paid-leave entitlement."
+        },
+        {
+          "title": "刑曹 · Hyeongjo",
+          "text": "The Ministry of Punishments, responsible for judicial and penal affairs. Its name is translated consistently throughout this edition."
+        }
+      ],
+      "keywords": [
+        "출산",
+        "휴가",
+        "노비",
+        "여성",
+        "육아",
+        "남편"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "3928b988969061c58455114c5e9cc77e4607a072185e46254d3e34acf3f5fce1",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12308001_001": {
+    "schemaVersion": 1,
+    "id": "kda_12308001_001",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12308001_001.json",
+    "source": {
+      "id": "kda_12308001_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12308001_001",
+      "sourceTitle": "동서 양계에 감련관을 보내 화포를 교습시키게 하다",
+      "dateLabel": "세종실록93권, 세종 23년 8월 1일 을축 1/3 기사 / 1441년 명 정통(正統) 6년",
+      "kingKo": "세종",
+      "volume": 93,
+      "reignYear": 23,
+      "month": 8,
+      "day": 1,
+      "ordinal": 1,
+      "year": 1441,
+      "leapMonth": false,
+      "original": "○乙丑朔/命兵曹判書鄭淵、參判辛引孫、都鎭撫李順蒙ㆍ成達生ㆍ金宗瑞ㆍ南智ㆍ朴從愚等同議, 擇朝官詳知火炮之法者, 分遣東西兩界, 使之敎習, 以備不虞, 乃以護軍李好誠、前判官邊尙覲薦。 遂分遣兩道, 號曰監鍊官, 敎習火炮。 大小邊將守令萬戶, 若不用心, 四品以下直斷, 三品以上啓聞科罪。",
+      "originalSha256": "7fde31f4c78a65d3df6f28d8672d355495b082d686a65d6c4aa1cb6692d34450",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "ff34c0c3418fc75a53e979be6cbc5e4458f0fd8dc0fc67503505faa0ee8e7ecb"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12308001_001",
+      "title": "Firearms instructors are sent to the two frontier regions",
+      "topics": [
+        "Craft & technology",
+        "Defense & borders"
+      ],
+      "translation": [
+        "The king ordered Jeong Yeon, Minister of Military Affairs; Sin In-son, Vice Minister; and the senior military officials Yi Sun-mong, Seong Dal-saeng, Kim Jong-seo, Nam Ji, and Bak Jong-u to deliberate together. They were to select court officials thoroughly familiar with the use of firearms and send them separately to the eastern and western frontier regions to provide instruction and prepare for unforeseen events.",
+        "They recommended Yi Ho-seong, a military officer, and Byeon Sang-geun, a former administrative officer. The two were sent separately to the two provinces under the title “training inspectors” to teach the use of firearms. If frontier commanders, local magistrates, or manho commanders of any level failed to apply themselves, officials of the fourth rank or below could be dealt with directly; those of the third rank or above were to be reported to the throne for punishment."
+      ],
+      "notes": [
+        {
+          "title": "火炮 · firearms",
+          "text": "The source uses a general term for gunpowder weapons. The translation does not narrow it to a specific firearm or cannon design."
+        },
+        {
+          "title": "Ranks and authority",
+          "text": "The fourth-rank and third-rank thresholds are retained because they determine who could be disciplined locally and whose case required a royal report."
+        }
+      ],
+      "keywords": [
+        "화포",
+        "화약",
+        "김종서",
+        "훈련",
+        "국방"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "7fde31f4c78a65d3df6f28d8672d355495b082d686a65d6c4aa1cb6692d34450",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12308007_002": {
+    "schemaVersion": 1,
+    "id": "kda_12308007_002",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12308007_002.json",
+    "source": {
+      "id": "kda_12308007_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12308007_002",
+      "sourceTitle": "하직하는 제주 안무사 신처강·진보 현감 권자용을 인견하다",
+      "dateLabel": "세종실록93권, 세종 23년 8월 7일 신미 2/3 기사 / 1441년 명 정통(正統) 6년",
+      "kingKo": "세종",
+      "volume": 93,
+      "reignYear": 23,
+      "month": 8,
+      "day": 7,
+      "ordinal": 2,
+      "year": 1441,
+      "leapMonth": false,
+      "original": "○濟州按撫使辛處康、眞寶縣監權自庸辭, 引見曰: \"勸課農桑, 義倉斂散, 皆守令之先務。 且濟州牧養畜産, 尤爲急務, 往欽哉!\"",
+      "originalSha256": "8d4f9e85f2c3962aecbb8603f4602500ab1daf17fe77fed451afc16cba0b6726",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "414ea00c800728e21120f1007b952befc43b5050cb1351faebf766fb75364444"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12308007_002",
+      "title": "Farming, granaries, and the care of livestock",
+      "topics": [
+        "Agriculture & relief",
+        "Law & administration"
+      ],
+      "translation": [
+        "Sin Cheo-gang, Pacification Commissioner of Jeju, and Gwon Ja-yong, magistrate of Jinbo, took their leave. The king received them and said: “Encouraging farming and sericulture, and managing the collection and distribution of community-granary grain, are all the foremost duties of local officials. In Jeju, the care and breeding of livestock are particularly urgent. Go and carry out your duties with respect.”"
+      ],
+      "notes": [
+        {
+          "title": "義倉 · community granaries",
+          "text": "The passage refers to both taking grain into the granaries and distributing it. Neither direction of the obligation is omitted."
+        }
+      ],
+      "keywords": [
+        "제주",
+        "농업",
+        "양잠",
+        "의창",
+        "가축"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "8d4f9e85f2c3962aecbb8603f4602500ab1daf17fe77fed451afc16cba0b6726",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12308007_003": {
+    "schemaVersion": 1,
+    "id": "kda_12308007_003",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12308007_003.json",
+    "source": {
+      "id": "kda_12308007_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12308007_003",
+      "sourceTitle": "사선서 식의 최자타 등이 벼락맞아 해괴제를 지내다",
+      "dateLabel": "세종실록93권, 세종 23년 8월 7일 신미 3/3 기사 / 1441년 명 정통(正統) 6년",
+      "kingKo": "세종",
+      "volume": 93,
+      "reignYear": 23,
+      "month": 8,
+      "day": 7,
+      "ordinal": 3,
+      "year": 1441,
+      "leapMonth": false,
+      "original": "○震司膳食醫崔自沱等二人, 行解怪祭。",
+      "originalSha256": "e333dc2a37158bf7a9701559a40b0709bc7d5b6ea5be56a733316af7fa8731e5",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "d5869176b5a6df521a97549758f8f405748d43d2a4f9188f30a3fd41384b933c"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12308007_003",
+      "title": "A ritual follows a lightning strike",
+      "topics": [
+        "Sky & weather",
+        "Ritual & belief"
+      ],
+      "translation": [
+        "Lightning struck two people, including Choe Ja-ta, a dietary physician of the Office of Royal Cuisine. A ritual to dispel the anomaly was performed."
+      ],
+      "notes": [
+        {
+          "title": "What is stated",
+          "text": "The passage records a lightning strike and a ritual. It does not explicitly state that the two people died."
+        }
+      ],
+      "keywords": [
+        "벼락",
+        "번개",
+        "최자타",
+        "해괴제"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "e333dc2a37158bf7a9701559a40b0709bc7d5b6ea5be56a733316af7fa8731e5",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12308008_001": {
+    "schemaVersion": 1,
+    "id": "kda_12308008_001",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12308008_001.json",
+    "source": {
+      "id": "kda_12308008_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12308008_001",
+      "sourceTitle": "큰비가 와서 물가의 인가가 물에 잠기다",
+      "dateLabel": "세종실록93권, 세종 23년 8월 8일 임신 1/4 기사 / 1441년 명 정통(正統) 6년",
+      "kingKo": "세종",
+      "volume": 93,
+      "reignYear": 23,
+      "month": 8,
+      "day": 8,
+      "ordinal": 1,
+      "year": 1441,
+      "leapMonth": false,
+      "original": "○壬申/大雨。 是夜城中大水, 漂沒水邊人家, 平地水三尺許。",
+      "originalSha256": "93b0b92329feec6aee9ab49edf2742a6c5c8a7585d1d6ce9abaee5b277d9bda0",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "42a560638ceb5879c8435dfa9169685b9ba0fdda8e533209bfd65f60e7b760f0"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12308008_001",
+      "title": "Night flooding inundates houses in the capital",
+      "topics": [
+        "Sky & weather"
+      ],
+      "translation": [
+        "There was heavy rain. That night, a great flood occurred within the city. Houses beside the water were swept away or submerged, and water on level ground stood about three cheok deep."
+      ],
+      "notes": [
+        {
+          "title": "尺 · cheok",
+          "text": "A historical unit of length. The approximate depth is preserved in the original unit rather than converted into an assumed number of meters."
+        }
+      ],
+      "keywords": [
+        "홍수",
+        "폭우",
+        "침수",
+        "서울",
+        "한양"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "93b0b92329feec6aee9ab49edf2742a6c5c8a7585d1d6ce9abaee5b277d9bda0",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12308018_001": {
+    "schemaVersion": 1,
+    "id": "kda_12308018_001",
+    "kind": "translate",
+    "targetPath": "content/en/kda/kda_12308018_001.json",
+    "source": {
+      "id": "kda_12308018_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12308018_001",
+      "sourceTitle": "상참을 받다",
+      "dateLabel": "세종실록93권, 세종 23년 8월 18일 임오 1/4 기사 / 1441년 명 정통(正統) 6년",
+      "kingKo": "세종",
+      "volume": 93,
+      "reignYear": 23,
+      "month": 8,
+      "day": 18,
+      "ordinal": 1,
+      "year": 1441,
+      "leapMonth": false,
+      "original": "○壬午/受常參。",
+      "originalSha256": "bdc9057493d2dbc58c16399ef6cba6f5c704a30586bd4245225433912ab2bac7",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "ec1b6eff913e7190bffff41eec752fd3ab1442e56a71cb8df24aada67b0c9bdf"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12308018_001",
+      "title": "",
+      "topics": [],
+      "translation": [],
+      "notes": [],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "bdc9057493d2dbc58c16399ef6cba6f5c704a30586bd4245225433912ab2bac7",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12308018_002": {
+    "schemaVersion": 1,
+    "id": "kda_12308018_002",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12308018_002.json",
+    "source": {
+      "id": "kda_12308018_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12308018_002",
+      "sourceTitle": "평양 김거지신·덕천 덕지·자산정막동·군위 승가이를 율에 의해 처참하다",
+      "dateLabel": "세종실록93권, 세종 23년 8월 18일 임오 2/4 기사 / 1441년 명 정통(正統) 6년",
+      "kingKo": "세종",
+      "volume": 93,
+      "reignYear": 23,
+      "month": 8,
+      "day": 18,
+      "ordinal": 2,
+      "year": 1441,
+      "leapMonth": false,
+      "original": "○刑曹啓: \"平安道 平壤囚强盜船軍金巨只信、德川囚良女德只殺人, 强取財物。 慈山囚鄭莫同等三人故燒人家, 竊取財物, 請皆依律處斬。 慶尙道 軍威囚良女升加伊, 與奸夫石伊謀殺本夫, 請依律升加伊陵遲處死, 石伊處斬。\" 皆從之。",
+      "originalSha256": "681f4864e38fa86847d86d182bafff32c404f487428ac968745401f2321d471a",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "4f350242735049bae7e3e4894117ff290deda8a3dc619970b1675fb0e5eafe76"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12308018_002",
+      "title": "The Ministry of Punishments submits capital cases",
+      "topics": [
+        "Law & administration",
+        "Women & family"
+      ],
+      "translation": [
+        "The Ministry of Punishments reported: “Kim Geoji-sin, a naval serviceman imprisoned at Pyeongyang in Pyeongan Province for robbery, and Deok-ji, a free-status woman imprisoned at Deokcheon, killed people and forcibly took property. Jeong Mak-dong and two others imprisoned at Jasan deliberately burned down houses and stole property. We ask that all be beheaded according to the law.",
+        "“Seungga-i, a free-status woman imprisoned at Gunwi in Gyeongsang Province, conspired with her lover Seog-i to murder her husband. We ask that, according to the law, Seungga-i be put to death by lingchi and Seog-i be beheaded.”",
+        "The king approved all the requests."
+      ],
+      "notes": [
+        {
+          "title": "A report and approval",
+          "text": "The allegations and proposed sentences are the ministry’s report. The final sentence records royal approval; it does not independently document the carrying out of each punishment."
+        },
+        {
+          "title": "良女 and 陵遲",
+          "text": "良女 identifies a woman of free status, not a moral judgment. Lingchi names a historical form of aggravated execution; its name is retained."
+        }
+      ],
+      "keywords": [
+        "형조",
+        "사형",
+        "재판",
+        "평양",
+        "범죄"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "681f4864e38fa86847d86d182bafff32c404f487428ac968745401f2321d471a",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12308018_004": {
+    "schemaVersion": 1,
+    "id": "kda_12308018_004",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12308018_004.json",
+    "source": {
+      "id": "kda_12308018_004",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12308018_004",
+      "sourceTitle": "호조에서 서운관에 측우기를 설치할 것을 건의하다",
+      "dateLabel": "세종실록93권, 세종 23년 8월 18일 임오 4/4 기사 / 1441년 명 정통(正統) 6년",
+      "kingKo": "세종",
+      "volume": 93,
+      "reignYear": 23,
+      "month": 8,
+      "day": 18,
+      "ordinal": 4,
+      "year": 1441,
+      "leapMonth": false,
+      "original": "○戶曹啓: \"各道監司轉報雨澤, 已有成法。 然土性燥濕不同, 入土淺深, 亦難知之。 請於書雲觀作臺, 以鐵鑄器長二尺、徑八寸, 置臺上受雨, 令本觀官員尺量淺深以聞。 又於馬前橋西水中, 置薄石, 石上刻立趺石二, 中立方木柱, 以鐵鉤鏁趺石, 刻尺寸分數於柱上, 本曹郞廳審雨水淺深分數以聞。 又於漢江邊巖石上立標, 刻尺寸分數, 渡丞以此測水淺深, 告本曹以聞。 又於外方各官, 依京中鑄器例, 或用磁器, 或用瓦器, 置廨宇庭中, 守令亦量水淺深報監司, 監司傳聞。\"\n從之。",
+      "originalSha256": "fb4a0fe5a2b3f4e97d14284b3431e04da29fc8bb577764d74ec7a99a56969224",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "d2da326d8b895ea5ac506a2841f9eae543d1154840b1ca44d1f0fed02b560176"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12308018_004",
+      "title": "A proposal to measure rain and river levels",
+      "topics": [
+        "Craft & technology",
+        "Sky & weather",
+        "Agriculture & relief"
+      ],
+      "translation": [
+        "The Ministry of Revenue reported: “There is already an established rule for provincial governors to transmit reports on rainfall. But soils differ in dryness and moisture, so the depth to which rain penetrates the earth is difficult to determine. We ask that a platform be built at the Bureau of Astronomy, and that an iron vessel, two cheok high and eight chon in diameter, be cast and placed on it to collect rain. Let officials of the bureau measure the depth with a ruler and report it.",
+        "“Also, place a flat stone in the water west of Majeon Bridge. On it, set two carved base stones and erect a square wooden post between them. Fasten the base stones with iron hooks and mark the divisions of cheok, chon, and bun on the post. Officials of this ministry should examine the water depth after rain and report the measurements.",
+        "“Set another marker on a rock beside the Han River and mark it with divisions of cheok, chon, and bun. The ferry official should use it to measure the water depth and inform this ministry, which will report it to the throne.",
+        "“In the provincial offices, follow the capital’s example of the cast vessel, using either porcelain or earthenware vessels, and place them in the office courtyards. The local magistrates should likewise measure the depth of the collected water and report it to the governors, who should transmit the reports.”",
+        "The king agreed."
+      ],
+      "notes": [
+        {
+          "title": "A measurement and reporting system",
+          "text": "The proposal includes rain collection, river gauges, measurement duties, and a reporting chain. It does not name an inventor."
+        },
+        {
+          "title": "尺 · 寸 · 分",
+          "text": "Cheok, chon, and bun are historical length units. The iron vessel is specified as two cheok high and eight chon in diameter. These are not silently converted to English feet and inches."
+        },
+        {
+          "title": "書雲觀 · Bureau of Astronomy",
+          "text": "The office’s responsibilities included observing the sky and weather. The English designation is descriptive."
+        }
+      ],
+      "keywords": [
+        "측우기",
+        "수표",
+        "강우량",
+        "호조",
+        "한강",
+        "과학",
+        "rain gauge",
+        "cheugugi"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "fb4a0fe5a2b3f4e97d14284b3431e04da29fc8bb577764d74ec7a99a56969224",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12403001_003": {
+    "schemaVersion": 1,
+    "id": "kda_12403001_003",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12403001_003.json",
+    "source": {
+      "id": "kda_12403001_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12403001_003",
+      "sourceTitle": "태조가 왜구를 소탕한 상황을 상세히 기록하라고 전지하다",
+      "dateLabel": "세종실록95권, 세종 24년 3월 1일 임술 3/5 기사 / 1442년 명 정통(正統) 7년",
+      "kingKo": "세종",
+      "volume": 95,
+      "reignYear": 24,
+      "month": 3,
+      "day": 1,
+      "ordinal": 3,
+      "year": 1442,
+      "leapMonth": false,
+      "original": "○傳旨慶尙、全羅道觀察使:\n洪武十三年庚申九月, 倭寇成群下陸, 侵掠其界。 我太祖整率部伍, 直到雲峯, 一擧掃除, 神功偉烈, 不可不傳於後世也。 其軍馬之數、制敵之策、接戰次數、陷敵施爲, 必有及見之人, 卿於道內諸郡散居故老之人, 廣行訪問, 詳書以啓。\n時上方欲撰《龍飛御天歌》, 故乃下此傳旨。",
+      "originalSha256": "b88088a213664c48869eb25e08369c9be692055cb94c46ceedd565eac0c965bb",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "0b3dc225f3fb0400cc4f7566c83f7d703f6a0702c921b0680ddf18121a906aea"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12403001_003",
+      "title": "Gathering memories of Taejo’s campaign",
+      "topics": [
+        "Historical writing",
+        "Defense & borders"
+      ],
+      "translation": [
+        "A royal instruction was sent to the governors of Gyeongsang and Jeolla:",
+        "“In the ninth month of the gyeongsin year, Hongwu year thirteen, Japanese raiders landed in groups and plundered those regions. Our Taejo organized and led his troops directly to Unbong and swept them away in one action. Such extraordinary achievement and great valor must be transmitted to later generations. There must still be people who witnessed the numbers of troops and horses, the plans used against the enemy, the number of engagements, and the actions taken to defeat them. Make extensive inquiries among the elders scattered through the counties of your provinces, write down the details, and report them.”",
+        "At this time, the king wished to compose Songs of the Dragons Flying to Heaven, and therefore issued this instruction."
+      ],
+      "notes": [
+        {
+          "title": "龍飛御天歌 · Yongbieocheonga",
+          "text": "The work’s title is rendered as Songs of the Dragons Flying to Heaven. The final sentence supplies the annals’ explanation for collecting the testimony."
+        },
+        {
+          "title": "The language of commemoration",
+          "text": "The praise of Taejo belongs to the royal instruction. The translation preserves its voice without treating it as an independent modern assessment."
+        }
+      ],
+      "keywords": [
+        "태조",
+        "용비어천가",
+        "황산대첩",
+        "운봉",
+        "구술",
+        "역사"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "b88088a213664c48869eb25e08369c9be692055cb94c46ceedd565eac0c965bb",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12403001_005": {
+    "schemaVersion": 1,
+    "id": "kda_12403001_005",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12403001_005.json",
+    "source": {
+      "id": "kda_12403001_005",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12403001_005",
+      "sourceTitle": "거질다포 위에 연대를 설치하고 취각을 불 사람을 두어 적변을 알리게 하다",
+      "dateLabel": "세종실록95권, 세종 24년 3월 1일 임술 5/5 기사 / 1442년 명 정통(正統) 7년",
+      "kingKo": "세종",
+      "volume": 95,
+      "reignYear": 24,
+      "month": 3,
+      "day": 1,
+      "ordinal": 5,
+      "year": 1442,
+      "leapMonth": false,
+      "original": "○兵曹據慶尙道觀察使報啓: \"居叱多浦與對馬島烟火相望, 且防垣峴又與此浦道路相通, 請於此峴設烟臺。 又於角聲相聞之地, 置吹角人, 如有賊變, 以次報曉, 使賊不得輕進。\" 從之。",
+      "originalSha256": "b23453300d162215761e0763267317d4623bdb2f30ea9b20d0a37a0ad1041b51",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "e808c5a87427c5753017b5782ee546114327e1617faf275a36ef6e55f55a73f7"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12403001_005",
+      "title": "A relay of smoke signals and horns",
+      "topics": [
+        "Defense & borders",
+        "Craft & technology"
+      ],
+      "translation": [
+        "Citing a report from the governor of Gyeongsang, the Ministry of Military Affairs submitted: “Geojildapo and Tsushima are within sight of one another’s smoke and fires. Bangwon Pass also has a road connecting it to this port. We ask that a smoke-signal platform be set up on the pass. In addition, station horn-blowers at points within hearing distance of one another. If there is a hostile incident, let the warning pass along in sequence so that the enemy cannot advance easily.” The king agreed."
+      ],
+      "notes": [
+        {
+          "title": "A relay, not an instantaneous broadcast",
+          "text": "The proposal explicitly describes warnings being passed on in sequence. Place names are romanized from Korean readings of the source."
+        }
+      ],
+      "keywords": [
+        "봉수",
+        "연대",
+        "신호",
+        "통신",
+        "대마도",
+        "취각"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "b23453300d162215761e0763267317d4623bdb2f30ea9b20d0a37a0ad1041b51",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12403002_003": {
+    "schemaVersion": 1,
+    "id": "kda_12403002_003",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12403002_003.json",
+    "source": {
+      "id": "kda_12403002_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12403002_003",
+      "sourceTitle": "안지와 남수문에게 태조의 행적을 상세히 기록하라 이르다",
+      "dateLabel": "세종실록95권, 세종 24년 3월 2일 계해 3/7 기사 / 1442년 명 정통(正統) 7년",
+      "kingKo": "세종",
+      "volume": 95,
+      "reignYear": 24,
+      "month": 3,
+      "day": 2,
+      "ordinal": 3,
+      "year": 1442,
+      "leapMonth": false,
+      "original": "○上謂藝文提學安止、直集賢殿南秀文曰: \"太祖潛邸時神武之迹, 非一二事也。 今觀實錄, 何若是其略也?\" 止對曰: \"臣等亦有傳聞之事, 但恨記事之略。\" 上曰: \"卿等訪問故老, 從實備錄。\"",
+      "originalSha256": "54d49d07fbe0830f1d21213e8fefdaa6515177f0a09422c7a385c936cf599f49",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "6b801844b86b4eb7dbf76f7a76c01c98f33295a9a2c1ab7564b6ae9c8f89ea77"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12403002_003",
+      "title": "Sejong asks why the record of Taejo is so brief",
+      "topics": [
+        "Historical writing"
+      ],
+      "translation": [
+        "The king said to An Ji, a senior official of the Office of Royal Decrees, and Nam Su-mun, an official of the Hall of Worthies: “The instances of Taejo’s extraordinary martial prowess before he became king were not merely one or two. Looking now at the annals, why is the account so brief?”",
+        "An Ji replied, “We too have heard accounts of such matters. We only regret the brevity of the record.”",
+        "The king said, “Ask the elders and record the facts fully.”"
+      ],
+      "notes": [
+        {
+          "title": "潛邸 · before accession",
+          "text": "The expression refers to the period before Taejo became king. It does not describe a separate military office."
+        }
+      ],
+      "keywords": [
+        "세종",
+        "태조",
+        "사료",
+        "안지",
+        "남수문",
+        "집현전"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "54d49d07fbe0830f1d21213e8fefdaa6515177f0a09422c7a385c936cf599f49",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12403002_005": {
+    "schemaVersion": 1,
+    "id": "kda_12403002_005",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12403002_005.json",
+    "source": {
+      "id": "kda_12403002_005",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12403002_005",
+      "sourceTitle": "각처의 제단을 흙으로 쌓고 봉상시로 하여금 엄히 고찰하게 하다",
+      "dateLabel": "세종실록95권, 세종 24년 3월 2일 계해 5/7 기사 / 1442년 명 정통(正統) 7년",
+      "kingKo": "세종",
+      "volume": 95,
+      "reignYear": 24,
+      "month": 3,
+      "day": 2,
+      "ordinal": 5,
+      "year": 1442,
+      "leapMonth": false,
+      "original": "○議政府據禮曹呈啓: \"各處祭壇, 以霾雨易壞, 曾令以石改築。 今謹稽壇字之意, 皆曰封土而爲之, 不言用石。 且古制築地爲壇, 除地爲墠, 勿論用石之制。 且用石則蟲蛇穴處, 反爲不潔。 請依古制, 用土堅築, 加定護壇人, 令奉常寺嚴加考察, 使牛馬不得蹂踐。\" 從之。",
+      "originalSha256": "2816c319e58d672155d95cb579406f5f5011813258fe58a00a8dcbeb6d985352",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "dc1a7d6cb09569fc3c83ef312d0e718fa9f94809ac06552d58e2b9de1202e617"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12403002_005",
+      "title": "Should ritual altars be built of stone or earth?",
+      "topics": [
+        "Ritual & belief",
+        "Craft & technology"
+      ],
+      "translation": [
+        "Citing a submission from the Ministry of Rites, the State Council reported: “Because the sacrificial altars in various places were easily damaged by stormy weather, it was previously ordered that they be rebuilt in stone. On carefully examining the meaning of the word dan, however, all explanations say that an altar is made by heaping up earth; none speaks of using stone. In the ancient system, a raised mound of earth was a dan and a cleared area was a shan. No system of using stone is mentioned.",
+        "“Moreover, stone provides places where insects and snakes can make their homes, making the altars less clean instead. We ask that, following the ancient system, they be firmly built of earth; that additional altar keepers be assigned; and that the Office of Sacrificial Rites strictly inspect them so that cattle and horses cannot trample them.” The king agreed."
+      ],
+      "notes": [
+        {
+          "title": "壇 and 墠",
+          "text": "Dan and shan distinguish a raised altar from a cleared ritual space. Their contrast is part of the argument, so the original terms are retained."
+        }
+      ],
+      "keywords": [
+        "제단",
+        "흙",
+        "돌",
+        "봉상시",
+        "건축"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "2816c319e58d672155d95cb579406f5f5011813258fe58a00a8dcbeb6d985352",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12403016_002": {
+    "schemaVersion": 1,
+    "id": "kda_12403016_002",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12403016_002.json",
+    "source": {
+      "id": "kda_12403016_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12403016_002",
+      "sourceTitle": "대호군 장영실이 만든 안여가 견실하지 못하여 의금부에 내려 국문하다",
+      "dateLabel": "세종실록95권, 세종 24년 3월 16일 정축 2/2 기사 / 1442년 명 정통(正統) 7년",
+      "kingKo": "세종",
+      "volume": 95,
+      "reignYear": 24,
+      "month": 3,
+      "day": 16,
+      "ordinal": 2,
+      "year": 1442,
+      "leapMonth": false,
+      "original": "○大護軍蔣英實監造安輿, 不堅緻折毁, 下義禁府鞫之。",
+      "originalSha256": "97445ebeb4ebc94608532f2c6649338266219c33772d4841d3b95f0c466f58ca",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "1f2494322a464854d98916b305cdff98afa1bd9539a25ab035ea9ed5eb4af5d3"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12403016_002",
+      "title": "Jang Yeong-sil is questioned over a broken royal palanquin",
+      "topics": [
+        "Craft & technology",
+        "Law & administration"
+      ],
+      "translation": [
+        "Jang Yeong-sil, a senior military officer, had supervised the making of the royal palanquin. It was not firmly constructed and broke apart. He was handed over to the State Tribunal for interrogation."
+      ],
+      "notes": [
+        {
+          "title": "What this entry does not say",
+          "text": "The passage records the failure of the palanquin and an interrogation. It does not say here whether the king was riding in it, what penalty followed, or what later happened to Jang Yeong-sil."
+        },
+        {
+          "title": "大護軍 · daehogun",
+          "text": "A military office held by Jang Yeong-sil. “Senior military officer” is a broad descriptive rendering, not a claim of equivalence to a present-day rank."
+        }
+      ],
+      "keywords": [
+        "장영실",
+        "가마",
+        "안여",
+        "의금부"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "97445ebeb4ebc94608532f2c6649338266219c33772d4841d3b95f0c466f58ca",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12512001_001": {
+    "schemaVersion": 1,
+    "id": "kda_12512001_001",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12512001_001.json",
+    "source": {
+      "id": "kda_12512001_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12512001_001",
+      "sourceTitle": "진성이 동정을 범하다",
+      "dateLabel": "세종실록102권, 세종 25년 12월 1일 신사 1/2 기사 / 1443년 명 정통(正統) 8년",
+      "kingKo": "세종",
+      "volume": 102,
+      "reignYear": 25,
+      "month": 12,
+      "day": 1,
+      "ordinal": 1,
+      "year": 1443,
+      "leapMonth": false,
+      "original": "○辛巳朔/鎭星犯東井。",
+      "originalSha256": "e117c657ad51d1d7b98fce9ab97451d54cdf9b0b8a6d73659798a79e6aaf562c",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "9d3871e4183eb771b9270bfb7f2bb5d247bc7f98d1267caec7f72c0dd507893a"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12512001_001",
+      "title": "Saturn approaches the Eastern Well lunar mansion",
+      "topics": [
+        "Sky & weather"
+      ],
+      "translation": [
+        "Saturn encroached upon the Eastern Well."
+      ],
+      "notes": [
+        {
+          "title": "鎭星 and 東井",
+          "text": "鎭星 denotes Saturn; 東井 is a traditional lunar mansion. “Encroached upon” preserves the observation of apparent proximity, not a physical impact."
+        }
+      ],
+      "keywords": [
+        "토성",
+        "진성",
+        "동정",
+        "천문"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "e117c657ad51d1d7b98fce9ab97451d54cdf9b0b8a6d73659798a79e6aaf562c",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12512002_001": {
+    "schemaVersion": 1,
+    "id": "kda_12512002_001",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12512002_001.json",
+    "source": {
+      "id": "kda_12512002_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12512002_001",
+      "sourceTitle": "햇무리하다",
+      "dateLabel": "세종실록102권, 세종 25년 12월 2일 임오 1/2 기사 / 1443년 명 정통(正統) 8년",
+      "kingKo": "세종",
+      "volume": 102,
+      "reignYear": 25,
+      "month": 12,
+      "day": 2,
+      "ordinal": 1,
+      "year": 1443,
+      "leapMonth": false,
+      "original": "○壬午/日暈。",
+      "originalSha256": "e0948fd6d6974421a7682b59c82e6aae8fa4c38dc87cd69fa7d95734b9f657cd",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "2c97d60cbefe3b29d7572817ca268ebffefe0082109e587aa13da8c9b6f7c287"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12512002_001",
+      "title": "A halo around the sun",
+      "topics": [
+        "Sky & weather"
+      ],
+      "translation": [
+        "There was a halo around the sun."
+      ],
+      "notes": [],
+      "keywords": [
+        "햇무리",
+        "태양",
+        "날씨"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "e0948fd6d6974421a7682b59c82e6aae8fa4c38dc87cd69fa7d95734b9f657cd",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12512003_003": {
+    "schemaVersion": 1,
+    "id": "kda_12512003_003",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12512003_003.json",
+    "source": {
+      "id": "kda_12512003_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12512003_003",
+      "sourceTitle": "사간원에서 함길도에서의 사망 원인이 굶주림인지 질병인지를 추국해 밝힐 것을 청하다",
+      "dateLabel": "세종실록102권, 세종 25년 12월 3일 계미 3/3 기사 / 1443년 명 정통(正統) 8년",
+      "kingKo": "세종",
+      "volume": 102,
+      "reignYear": 25,
+      "month": 12,
+      "day": 3,
+      "ordinal": 3,
+      "year": 1443,
+      "leapMonth": false,
+      "original": "○司諫院啓: \"馬邊者親戚黨類, 布在咸吉道, 耳目甚廣, 凡所見聞, 必不失實, 其所啓達之辭, 甚爲詳悉, 則非是疫厲, 其爲飢死明矣。 今鄭軾推訪疎闊, 不能得情, 若以邊者親見之言, 反爲虛論。 如此則民間之弊, 後人必不上達。 且各道監司守令, 亦不力救飢民, 雖飢死者多, 必指爲疫死, 蒙蔽上聰矣。 請更遣剛明之士, 遍歷村落幽僻之處, 窮極搜訪, 則邊者直言之實自見, 而鄭軾推訪疎虞之迹, 亦將着見矣。 且一千六百餘人, 雖非飢死, 實皆疫死, 然人命至重, 一道災變。 觀察使鄭甲孫分受方面重寄, 至如馬邊者見聞上達, 而乃蒙蔽不達, 甚爲不當, 請下攸司推鞫。\n不允。 咸吉道壬戌癸亥兩年饑饉, 無異於下三道之丙辰, 甲孫以吉州、鏡城爲飢民都會所, 列飢民於庭, 親巡食之, 而翼日死者過半。 民之死亡, 誠如馬邊者所啓也, 大臣不以實啓, 强築長城, 饑饉疾疫相仍, 死者不可勝數。 鄭軾所搜覈, 亦已一千六百, 其未見者, 不知其幾千也, 而守令敷同隱諱, 上終不之知也。",
+      "originalSha256": "071c5c81f17332a061cf27b570094cfe91a7818815b04ede33d0816b639ab3f4",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "337da568544cdf79d37d34caa1cbca769db1ffc2e261c889e2f51feed9f0c229"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12512003_003",
+      "title": "Did the people die of hunger or disease?",
+      "topics": [
+        "Agriculture & relief",
+        "Historical writing",
+        "Health & medicine"
+      ],
+      "translation": [
+        "The Office of Remonstrance reported: “Ma Byeon-ja’s relatives and associates are spread throughout Hamgil Province, and his sources of information are extensive. What he sees and hears is unlikely to be false. His report is very detailed: it is clear that these were deaths from hunger, not an epidemic. Now Jeong Sik’s inquiry has been cursory and has failed to ascertain the circumstances, while Byeon-ja’s eyewitness account is instead treated as empty talk.",
+        "“If this happens, people will no longer report abuses among the population to the throne. Provincial governors and local magistrates will not work hard to save the hungry; even if many die of starvation, they will say they died of epidemic disease and conceal the truth from Your Majesty. We ask that firm and discerning men be sent again to travel through remote villages and search exhaustively. Then the truth of Byeon-ja’s frank account will become apparent, and the shortcomings of Jeong Sik’s inquiry will also be revealed.",
+        "“Moreover, even if these more than sixteen hundred people did not die of hunger but all died of disease, human life is of the greatest importance, and this is a calamity for an entire province. Governor Jeong Gap-son has been entrusted with great responsibility for the region. Yet while Ma Byeon-ja reported what he saw and heard, the governor concealed it and failed to report. This is most improper. We ask that the case be referred to the responsible authorities for investigation.”",
+        "The king did not approve.",
+        "The famine in Hamgil during the imsul and gyehae years was no different from that in the three southern provinces in the byeongjin year. Gap-son designated Gilju and Gyeongseong as places where the hungry were to gather. He lined them up in the courtyard and personally went around feeding them, but by the next day more than half were dead. The people’s deaths were indeed as Ma Byeon-ja had reported.",
+        "The high ministers did not report the truth and forced construction of the long wall. Famine and epidemic disease followed one another, and the dead were beyond counting. Those found by Jeong Sik’s inquiry alone already numbered sixteen hundred. How many thousands he had not found was unknown. The local officials acted together to conceal the matter, and in the end the king did not know."
+      ],
+      "notes": [
+        {
+          "title": "Two distinct voices",
+          "text": "The opening paragraphs translate the Office of Remonstrance’s petition. After the king refuses it, the annals’ narrative criticizes the concealment. That criticism is not the king’s own speech."
+        },
+        {
+          "title": "Numbers and their limits",
+          "text": "The petition says “more than sixteen hundred”; the later narrative gives sixteen hundred as the number located by the inquiry and says the uncounted total was unknown. The translation preserves that distinction."
+        },
+        {
+          "title": "Sexagenary year names",
+          "text": "The cyclical year names are retained in the prose. The entry is filed under Sejong’s twenty-fifth year, labeled 1443 in the source archive."
+        }
+      ],
+      "keywords": [
+        "기근",
+        "기아",
+        "전염병",
+        "함길도",
+        "마변자",
+        "정갑손",
+        "보고",
+        "은폐"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "071c5c81f17332a061cf27b570094cfe91a7818815b04ede33d0816b639ab3f4",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12512004_002": {
+    "schemaVersion": 1,
+    "id": "kda_12512004_002",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12512004_002.json",
+    "source": {
+      "id": "kda_12512004_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12512004_002",
+      "sourceTitle": "중추원 부사 유수강을 중국에 보내어 표풍인을 돌려보낸 것에 사례하다",
+      "dateLabel": "세종실록102권, 세종 25년 12월 4일 갑신 2/2 기사 / 1443년 명 정통(正統) 8년",
+      "kingKo": "세종",
+      "volume": 102,
+      "reignYear": 25,
+      "month": 12,
+      "day": 4,
+      "ordinal": 2,
+      "year": 1443,
+      "leapMonth": false,
+      "original": "○遣中樞院副使柳守剛, 謝發還漂風人, 仍獻海靑三連。 表曰:\n聖心慈愛, 育物無遺。 睿訓溫諄, 擧國知感。 懷柔旣篤, 歡忭冞深。 伏念臣猥以庸資, 叨居弊服。 曾未補於屛翰, 乃屢蒙於褒嘉。 頃有駕船之氓, 忽遇漂風之患。 至明旁燭, 渙降綸綍之音; 餘喘獲存, 復見鄕閭之舊。 又念海邦之邊(圍)〔圉〕 , 常被島倭之窺覦。 仍諭備禦之方, 益懷久長之道。 恩眷若此, 前昔罕聞。 玆蓋伏遇度廓包荒, 仁敦字小。 德同天地, 俾庶類咸遂其生; 澤洽華夷, 無一夫不得其所。 特令遐裔, 偏荷殊私。 臣謹當子子孫孫, 各守藩宣之寄; 朝朝暮暮, 恒輸頌禱之誠。\n方物表曰:\n天眷實深, 曲加矜恤。 土宜雖薄, 聊表謝忱。 謹備黃細苧布白細苧布各二十匹, 黑細麻布五十匹, 黃花席滿花席滿花方席雜彩花席各一十張、人蔘五味子松子各一百觔。 右件物等, 製造匪精, 名般甚寡。 冀諒由中之懇, 俯容享上之儀。\n皇太后進獻禮物: 白細苧布紅細苧布各一十匹、黑細麻布三十匹, 中宮禮物同。",
+      "originalSha256": "24bff0cbbe32dcd23748b98a538d5242d2262ba76915623259836ac18e16734c",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "7bbe6b78d7d2e69a426838deb7c0dd36c740bcb62100b88912cd0832f2043e08"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12512004_002",
+      "title": "Thanks for the return of people blown off course at sea",
+      "topics": [
+        "Diplomacy"
+      ],
+      "translation": [
+        "Yu Su-gang, Deputy Director of the Privy Council, was sent to offer thanks for the return of people who had been blown off course at sea. Three sea falcons were also presented. The memorial read:",
+        "“Your sacred heart is compassionate and loving, nurturing all things without omission. Your wise instructions are warm and earnest, and the whole country knows its gratitude. Your care for those afar is profound, and our joy is all the deeper. I humbly reflect that, with my mediocre abilities, I have undeservedly occupied this distant domain. Though I have not yet fulfilled my service as a protecting screen, I have repeatedly received praise. Recently some of our people traveling by boat suddenly suffered the misfortune of being driven off course. Your far-reaching discernment shone upon them, and your imperial command descended. Their remaining lives were preserved, and they again saw their old homes.",
+        "“You further considered that the borders of our maritime country are continually exposed to the designs of island raiders. You therefore instructed us in methods of defense and showed still greater concern for our lasting security. Favor such as this has rarely been heard of in the past. Your breadth embraces those afar, and your benevolence cherishes the small. Your virtue is like Heaven and Earth, enabling all beings to live out their lives; your beneficence reaches both the Chinese and the peoples beyond, leaving no one without a place. You have especially allowed this distant region to receive exceptional favor. I shall respectfully ensure that, generation after generation, we keep our charge of service as a border domain, and morning and evening offer our sincere praise and prayers.”",
+        "The memorial accompanying the local products read:",
+        "“Heavenly favor has been profound, extending particular compassion to us. Although our local products are humble, we offer them to express our thanks. We have respectfully prepared twenty bolts each of fine yellow ramie and fine white ramie, fifty bolts of fine black hemp cloth, ten each of yellow-flower mats, fully patterned flower mats, fully patterned square flower mats, and multicolored flower mats, and one hundred geun each of ginseng, schisandra berries, and pine nuts. These articles are neither finely made nor numerous in kind. We hope that you will appreciate the sincerity from which they come and graciously accept this offering to your superior position.”",
+        "Gifts presented to the empress dowager were ten bolts each of fine white and fine red ramie, and thirty bolts of fine black hemp cloth. The gifts for the empress were the same."
+      ],
+      "notes": [
+        {
+          "title": "Diplomatic voice",
+          "text": "The elaborate praise and subordinate self-description belong to the memorial. The translation preserves that historical diplomatic register."
+        },
+        {
+          "title": "Measures and presentation units",
+          "text": "Geun is a historical unit of weight. The source counts the falcons with 連, a presentation counter rendered here as individual birds; no modern weight conversion is supplied."
+        },
+        {
+          "title": "A corrected character",
+          "text": "The source marks 圍 as corrected to 圉 in the phrase concerning the country’s borders. The translation follows that correction."
+        }
+      ],
+      "keywords": [
+        "표류",
+        "유수강",
+        "명나라",
+        "외교",
+        "해청",
+        "인삼",
+        "무역"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "24bff0cbbe32dcd23748b98a538d5242d2262ba76915623259836ac18e16734c",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kda_12512030_002": {
+    "schemaVersion": 1,
+    "id": "kda_12512030_002",
+    "kind": "review",
+    "targetPath": "content/en/kda/kda_12512030_002.json",
+    "source": {
+      "id": "kda_12512030_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kda_12512030_002",
+      "sourceTitle": "훈민정음을 창제하다",
+      "dateLabel": "세종실록102권, 세종 25년 12월 30일 경술 2/2 기사 / 1443년 명 정통(正統) 8년",
+      "kingKo": "세종",
+      "volume": 102,
+      "reignYear": 25,
+      "month": 12,
+      "day": 30,
+      "ordinal": 2,
+      "year": 1443,
+      "leapMonth": false,
+      "original": "○是月, 上親制諺文二十八字, 其字倣古篆, 分爲初中終聲, 合之然後乃成字, 凡干文字及本國俚語, 皆可得而書, 字雖簡要, 轉換無窮, 是謂訓民正音。\n世宗莊憲大王實錄卷第一百二終",
+      "originalSha256": "70571be429fc59ba0918c74ec45163e1d83518231ed958a5674de2b64e5db8e5",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "7caf9aed2c3a5b2b6f5c5e238e948211579bab3b2117659e9cb9ad278de22095"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kda_12512030_002",
+      "title": "The king creates twenty-eight letters",
+      "topics": [
+        "Language & learning"
+      ],
+      "translation": [
+        "This month, the king personally devised twenty-eight letters of the vernacular script. Their forms imitated ancient seal-script characters. They were divided into initial, medial, and final sounds; only after being combined did they form a written syllable. Everything concerning written language, as well as the vernacular speech of this country, could be written with them. Although the letters were simple and concise, their combinations were inexhaustible. This was called Hunminjeongeum.",
+        "End of volume 102 of the Veritable Records of King Sejong Jangheon."
+      ],
+      "notes": [
+        {
+          "title": "An entry for the month",
+          "text": "The source begins 是月, “this month.” The archive places it under day 30 of month 12, but the text does not give an exact day of creation."
+        },
+        {
+          "title": "訓民正音 · Hunminjeongeum",
+          "text": "Literally, “Correct Sounds for Instructing the People.” The phrase names the new writing system in this entry. “Hangul” is its familiar modern name."
+        },
+        {
+          "title": "古篆 · ancient seal script",
+          "text": "This is the account given by the annals. The translation preserves that statement; it does not settle scholarly questions about the letters’ design."
+        }
+      ],
+      "dateScope": "month",
+      "keywords": [
+        "훈민정음",
+        "한글",
+        "문자",
+        "Hangul",
+        "Hangeul"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "70571be429fc59ba0918c74ec45163e1d83518231ed958a5674de2b64e5db8e5",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kka_11001003_003": {
+    "schemaVersion": 1,
+    "id": "kka_11001003_003",
+    "kind": "review",
+    "targetPath": "content/en/kka/kka_11001003_003.json",
+    "source": {
+      "id": "kka_11001003_003",
+      "sourceUrl": "https://sillok.history.go.kr/id/kka_11001003_003",
+      "sourceTitle": "여원 부원군 송일이 의식을 잃고 쓰러지다",
+      "dateLabel": "중종실록21권, 중종 10년 1월 3일 신유 3/4 기사 / 1515년 명 정덕(正德) 10년",
+      "kingKo": "중종",
+      "volume": 21,
+      "reignYear": 10,
+      "month": 1,
+      "day": 3,
+      "ordinal": 3,
+      "year": 1515,
+      "leapMonth": false,
+      "original": "○礪原府院君 宋軼在賓廳, 忽然恍惚, 不省人事。 傳曰: \"亟以內醫院救療。\"",
+      "originalSha256": "b4a7204614f08f7356348fba7d6d804c32dd64f1054c6812d517daf0999eb406",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "ce18552151d4a9d7fc03206f7185a3a84673305583b5d7de97b8182e73846ea0"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kka_11001003_003",
+      "title": "Royal physicians are summoned for Song Il",
+      "topics": [
+        "Health & medicine",
+        "Court life"
+      ],
+      "translation": [
+        "Song Il, Lord of Yeowon, was in the guest hall when he suddenly became disoriented and lost consciousness. The king ordered: “Have the Royal Medical Office treat him at once.”"
+      ],
+      "notes": [
+        {
+          "title": "Symptoms, not a diagnosis",
+          "text": "The record describes loss of awareness. This edition does not assign a modern medical diagnosis to the episode."
+        }
+      ],
+      "keywords": [
+        "송일",
+        "내의원",
+        "의료",
+        "실신"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "b4a7204614f08f7356348fba7d6d804c32dd64f1054c6812d517daf0999eb406",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kka_11001006_001": {
+    "schemaVersion": 1,
+    "id": "kka_11001006_001",
+    "kind": "review",
+    "targetPath": "content/en/kka/kka_11001006_001.json",
+    "source": {
+      "id": "kka_11001006_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kka_11001006_001",
+      "sourceTitle": "한성부 참군 안처명이 수탉으로 변한 암탉을 정원에 가지고 와서 말하다",
+      "dateLabel": "중종실록21권, 중종 10년 1월 6일 갑자 1/4 기사 / 1515년 명 정덕(正德) 10년",
+      "kingKo": "중종",
+      "volume": 21,
+      "reignYear": 10,
+      "month": 1,
+      "day": 6,
+      "ordinal": 1,
+      "year": 1515,
+      "leapMonth": false,
+      "original": "○甲子/漢城參軍安處明持民家白雞, 來告于政院曰: \"此雞本雌雞, 而今化爲雄矣。\" 政院卽以其意啓之, 傳曰: \"詳問其首末以啓, 可也。\" 院卽招雞主 【掌苑署奴亨孫。】 而問之, 則答曰: \"去夏所産之雞, 至十二月, 始生雄鷄之毛。\" 本司官員曰: \"此甚非常之事也, 故今敢來告耳。\"",
+      "originalSha256": "34aa0eda08c461c7b009fcabd7994e632d3682db28ea174b92b1cb2a21f29e0b",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "3ff28cf6b3890c30e6e3961b22eb66202cd62c5b5e99511d73333bc2c917f310"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kka_11001006_001",
+      "title": "A hen said to have become a rooster",
+      "topics": [
+        "Animals",
+        "Law & administration"
+      ],
+      "translation": [
+        "An Cheo-myeong, an official of the Hanseong administration, brought a white chicken from a private household and told the Royal Secretariat: “This bird was originally a hen, but it has now changed into a rooster.” The Secretariat immediately reported the matter. The king ordered: “Inquire carefully into the whole course of the matter and report.”",
+        "The Secretariat summoned and questioned the owner of the chicken, Hyeong-son, an enslaved man attached to the Office of Palace Gardens. He answered: “The chicken hatched last summer. In the twelfth month, it began to grow the feathers of a rooster.” An official of that office said: “This is a most unusual occurrence, so we have ventured to report it now.”"
+      ],
+      "notes": [
+        {
+          "title": "Reported observation",
+          "text": "The title and translation attribute the transformation claim to the people in the record. They do not infer a biological mechanism or establish an actual change of sex."
+        }
+      ],
+      "keywords": [
+        "닭",
+        "암탉",
+        "수탉",
+        "안처명",
+        "형손"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "34aa0eda08c461c7b009fcabd7994e632d3682db28ea174b92b1cb2a21f29e0b",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kka_11001006_002": {
+    "schemaVersion": 1,
+    "id": "kka_11001006_002",
+    "kind": "review",
+    "targetPath": "content/en/kka/kka_11001006_002.json",
+    "source": {
+      "id": "kka_11001006_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kka_11001006_002",
+      "sourceTitle": "김응기를 압연관으로 삼아 일본국 사신을 예조에서 접대하게 하다",
+      "dateLabel": "중종실록21권, 중종 10년 1월 6일 갑자 2/4 기사 / 1515년 명 정덕(正德) 10년",
+      "kingKo": "중종",
+      "volume": 21,
+      "reignYear": 10,
+      "month": 1,
+      "day": 6,
+      "ordinal": 2,
+      "year": 1515,
+      "leapMonth": false,
+      "original": "○命右議政金應箕爲狎宴官, 餉日本國使臣南湖西堂等于禮曹。",
+      "originalSha256": "6b006edc9faf37751dcad541c3194c038a471f9cb129496b33317587d4074049",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "416efc708e2d44d73a67691ac9f2034dcb86215f308f754ad9fe31fe675144af"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kka_11001006_002",
+      "title": "A reception for Japanese envoys",
+      "topics": [
+        "Diplomacy",
+        "Court life"
+      ],
+      "translation": [
+        "Kim Eung-gi, the Right State Councillor, was appointed to preside over a banquet at the Ministry of Rites for the Japanese envoys, including Nanko Seido."
+      ],
+      "notes": [
+        {
+          "title": "南湖西堂",
+          "text": "The envoy’s designation is retained in the original. Nanko Seido is a provisional reading and should receive specialist verification before scholarly use."
+        }
+      ],
+      "keywords": [
+        "일본",
+        "사신",
+        "김응기",
+        "연회"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "6b006edc9faf37751dcad541c3194c038a471f9cb129496b33317587d4074049",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kva_10101002_002": {
+    "schemaVersion": 1,
+    "id": "kva_10101002_002",
+    "kind": "review",
+    "targetPath": "content/en/kva/kva_10101002_002.json",
+    "source": {
+      "id": "kva_10101002_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kva_10101002_002",
+      "sourceTitle": "함경·강원도의 도신과 북도의 감진 어사에게 어려운 백성을 진제하라고 하유하다",
+      "dateLabel": "정조실록3권, 정조 1년 1월 2일 기사 2/4 기사 / 1777년 청 건륭(乾隆) 42년",
+      "kingKo": "정조",
+      "volume": 3,
+      "reignYear": 1,
+      "month": 1,
+      "day": 2,
+      "ordinal": 2,
+      "year": 1777,
+      "leapMonth": false,
+      "original": "○諭咸鏡、江原道臣及北道監賑御史曰: \"予以寡昧, 纉承我列祖丕丕基, 志切愛民, 政先利物, 而治不及於朞月, 化未洽於生民, 夙夜祗懼, 罔或暇逸。 矧玆新正, 卽余元年, 陽春布和, 萬物方暢, 思欲對天之時, 體天之仁, 普濟我億兆生靈, 而不幸東北二方, 饑饉最甚。 旱澇風雹, 收穫無幾, 凍餒殿屎, 流散居多, 有土之民, 無穀可食, 無土之民, 失所靡依。 催稅納租, 室家如罄, 扶老携幼, 道路行丐。 噫! 予爲牧民之主, 一夫之飢, 猶己之飢, 一夫之寒, 猶己之寒, 況今萬姓顑頷, 如在涸轍? 爲民父母, 使赤子不獲其所, 靜念厥咎, 玉食靡甘。 賙賑之策, 夙宵講究, 旣付於道臣, 申之以御史、守令之辭陛者, 亦莫不諄諄面飭。 凡任分憂之責者, 體予至意, 竭誠撫摩, 盡心賙恤, 使飢困者免於溝壑, 流亡者得以安堵。 種糧之俱乏者, 耕牛之未備者, 區劃勸分, 毋令東作失期, 以貽嗣歲之憂。 嗚呼! 一命之士, 存心愛物, 猶有所濟, 況予爲一國之主, 豈不能活我兩道之民乎? 咨爾監司曁御史, 申飭列邑, 布告父老, 凡可以利吾民而濟吾民者, 或以便宜, 或以狀聞, 俾有實效。 東北子大夫之有私積者, 苟能體朝廷之德意, 以獨活爲恥, 周急恤窮, 多所拯濟, 則豈惜褒賞之典乎? 嗚呼! 德未能格天, 惠未能及民, 至於蕩析離居, 今雖發倉移粟, 蕫飭分賑, 是不過使飢者免死, 走者復還而已。 是豈足爲安生樂業之實惠也哉?\"",
+      "originalSha256": "9949c9696ad825c06ed4b8e81a8e8757fbbcf9513f199bc9cec07e058c967526",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "7b1fc3e980b2bcd36a10d1cc774ee2fae430a979c0cf1ed9bd7f44748bf76c1e"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kva_10101002_002",
+      "title": "Relief must let people live securely, not merely survive",
+      "topics": [
+        "Agriculture & relief",
+        "Law & administration"
+      ],
+      "translation": [
+        "The king instructed the governors of Hamgyeong and Gangwon and the royal inspector overseeing relief in the northern region:",
+        "“With my limited understanding, I have inherited the great foundation of our ancestors. My resolve is to love the people, and my first concern in government is to benefit living beings. Yet my rule has not lasted a full year, and its influence has not reached the people. Day and night I remain reverently fearful, without a moment of ease. Now, at the New Year, the first year of my reign, the warming spring brings harmony and all things begin to flourish. I wish to respond to Heaven’s seasons, embody Heaven’s benevolence, and bring relief to all our people. Unfortunately, famine is most severe in the eastern and northern regions.",
+        "“Drought, flooding, wind, and hail have left almost no harvest. People groan with cold and hunger, and many have scattered from their homes. Those with land have no grain to eat; those without land have lost their place and have no one on whom to depend. Taxes and rents are pressed upon them, and their households are empty. Supporting the old and leading the young, they beg along the roads. Alas! As ruler and shepherd of the people, I feel one person’s hunger as my own hunger and one person’s cold as my own cold. How much more so now, when so many are emaciated, like fish in a dried-up rut? As a parent to the people, I have failed to let my children find a place of security. When I quietly consider my fault, even fine food has no savor.",
+        "“I have studied measures for relief day and night. I have entrusted them to the governors and reinforced them through royal inspectors. Whenever local magistrates take leave of the court, I have earnestly instructed them face to face. All who share the responsibility of relieving my concern must understand my intention, devote themselves sincerely to comforting the people, and give their whole hearts to helping them. Let those suffering hunger escape death in the ditches, and let those who have fled settle in peace again.",
+        "“For those lacking both seed and food grain, and those not equipped with plow oxen, make arrangements and encourage sharing. Do not let the season of spring cultivation be missed and thereby bring anxiety upon the coming year. Alas! Even a man in the lowest office can do some good if he keeps the welfare of living beings in his heart. As ruler of a whole country, can I not save the people of these two provinces?",
+        "“You governors and royal inspectors must instruct the counties and make this known to the elders. In whatever can benefit and save our people, act as circumstances require or report for authorization, so that real results are achieved. If gentlemen in the eastern and northern regions who have private stores understand the court’s benevolent intention, regard saving only themselves as shameful, and help those in urgent need and poverty, saving many people, why should I withhold rewards and recognition?",
+        "“Alas! My virtue has not moved Heaven, nor has my kindness reached the people, and they have been driven from their homes and scattered. Even if we now open the granaries, transfer grain, and supervise its distribution, this does no more than keep the hungry from dying and bring back those who have fled. How can that suffice as the true benefit of enabling people to live securely and work with contentment?”"
+      ],
+      "notes": [
+        {
+          "title": "Emergency relief and recovery",
+          "text": "The instruction distinguishes immediate survival from restoring secure life and work. Seed grain, food grain, and plow oxen are all expressly mentioned."
+        },
+        {
+          "title": "“Like fish in a dried-up rut”",
+          "text": "The source uses the image of being in a dried wheel rut. The English makes the implied fish image explicit to convey the allusion; the original wording remains available."
+        },
+        {
+          "title": "A royal statement of intention",
+          "text": "This entry records an instruction. It does not by itself establish how much relief was delivered or what outcomes followed."
+        }
+      ],
+      "keywords": [
+        "정조",
+        "구휼",
+        "기근",
+        "함경도",
+        "강원도",
+        "종자",
+        "농업",
+        "회복"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "9949c9696ad825c06ed4b8e81a8e8757fbbcf9513f199bc9cec07e058c967526",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kva_10101003_001": {
+    "schemaVersion": 1,
+    "id": "kva_10101003_001",
+    "kind": "review",
+    "targetPath": "content/en/kva/kva_10101003_001.json",
+    "source": {
+      "id": "kva_10101003_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kva_10101003_001",
+      "sourceTitle": "전례를 따라 증광시를 설행하게 하고 식년의 복시는 물려서 가을에 정하게 하다",
+      "dateLabel": "정조실록3권, 정조 1년 1월 3일 경오 1/1 기사 / 1777년 청 건륭(乾隆) 42년",
+      "kingKo": "정조",
+      "volume": 3,
+      "reignYear": 1,
+      "month": 1,
+      "day": 3,
+      "ordinal": 1,
+      "year": 1777,
+      "leapMonth": false,
+      "original": "○庚午/禮曹啓言: \"今年卽聖上卽位元年。 祖宗朝元年設科取士, 卽應行之彝典, 而乙卯辛丑乙巳, 皆行增廣, 今亦依例設行爲宜。\" 允之, 式年覆試, 退定於秋間。",
+      "originalSha256": "db0e6a7f84fb471de47b64352e3469c458c90a1a351bf70e5efa41b5b1087ac8",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "fe07a9b3d6630a8202850abcf52893cf38e8590d8b82d597928599ea94667662"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kva_10101003_001",
+      "title": "An extraordinary examination in the king’s first year",
+      "topics": [
+        "Language & learning",
+        "Law & administration"
+      ],
+      "translation": [
+        "The Ministry of Rites reported: “This year is the first year of Your Majesty’s accession. Holding an examination to select men in the first year was an established practice under the ancestral kings. Extraordinary examinations were held in the eulmyo, sinchuk, and eulsa years. It would be appropriate to follow those precedents now.”",
+        "The king approved. The second stage of the regular triennial examination was postponed and set for the autumn."
+      ],
+      "notes": [
+        {
+          "title": "Examination cycles",
+          "text": "The source gives the precedent years by their sexagenary names. They are retained without guessing which sixty-year cycle is intended."
+        }
+      ],
+      "keywords": [
+        "과거",
+        "증광시",
+        "식년시",
+        "시험"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "db0e6a7f84fb471de47b64352e3469c458c90a1a351bf70e5efa41b5b1087ac8",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kva_10101004_001": {
+    "schemaVersion": 1,
+    "id": "kva_10101004_001",
+    "kind": "review",
+    "targetPath": "content/en/kva/kva_10101004_001.json",
+    "source": {
+      "id": "kva_10101004_001",
+      "sourceUrl": "https://sillok.history.go.kr/id/kva_10101004_001",
+      "sourceTitle": "춘도기에 의한 유생들의 강경과 제술을 친시하다",
+      "dateLabel": "정조실록3권, 정조 1년 1월 4일 신미 1/1 기사 / 1777년 청 건륭(乾隆) 42년",
+      "kingKo": "정조",
+      "volume": 3,
+      "reignYear": 1,
+      "month": 1,
+      "day": 4,
+      "ordinal": 1,
+      "year": 1777,
+      "leapMonth": false,
+      "original": "○辛未/親試春到記儒生講製。 製居首李百亨、講居首李升運竝直赴殿試。",
+      "originalSha256": "bd0b9e3d7334618208349fea6bf2383d4d2cf9fec69b2b6f93df6db5efd8c7ea",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "34d72223c014fe460245c2212dcd323baf3c10f6131d2c07af266b70c40be932"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kva_10101004_001",
+      "title": "Top candidates proceed directly to the palace examination",
+      "topics": [
+        "Language & learning"
+      ],
+      "translation": [
+        "The king personally examined the scholars in textual exposition and composition at the spring dogi examination. Yi Baek-hyeong, who placed first in composition, and Yi Seung-un, who placed first in exposition, were both allowed to proceed directly to the palace examination."
+      ],
+      "notes": [
+        {
+          "title": "Two forms of assessment",
+          "text": "講 refers to exposition of a text and 製 to composition. The entry names a separate top candidate in each."
+        }
+      ],
+      "keywords": [
+        "유생",
+        "과거",
+        "강경",
+        "제술",
+        "전시"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "bd0b9e3d7334618208349fea6bf2383d4d2cf9fec69b2b6f93df6db5efd8c7ea",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  },
+  "kva_10101006_002": {
+    "schemaVersion": 1,
+    "id": "kva_10101006_002",
+    "kind": "review",
+    "targetPath": "content/en/kva/kva_10101006_002.json",
+    "source": {
+      "id": "kva_10101006_002",
+      "sourceUrl": "https://sillok.history.go.kr/id/kva_10101006_002",
+      "sourceTitle": "갑옷을 입은 장수는 절하지 않는다는 하교를 어긴 이한응을 추고하게 하다",
+      "dateLabel": "정조실록3권, 정조 1년 1월 6일 계유 2/2 기사 / 1777년 청 건륭(乾隆) 42년",
+      "kingKo": "정조",
+      "volume": 3,
+      "reignYear": 1,
+      "month": 1,
+      "day": 6,
+      "ordinal": 2,
+      "year": 1777,
+      "leapMonth": false,
+      "original": "○御駕過留陣, 留陣大將俯伏祗迎, 敎曰: \"介冑不拜之義, 曾已下敎。 行陣旣與班列有異, 則禁營陣中大將失儀, 該大將李漢膺推考。\"",
+      "originalSha256": "0e8461271fde212295927f2baa97b1169f401c033feaf93cf355e8524794a176",
+      "sourceRetrieved": "2026-09-12",
+      "reuseMark": "공공누리 공공저작물 자유이용허락",
+      "reusePolicyUrl": "https://sillok.history.go.kr/intro/people.do",
+      "sourceHtmlSha256": "6e0bb9eaba81ab8f93f0a1303f2bd3fd000696fdd4e7d445b404531386685ef6"
+    },
+    "translation": {
+      "schemaVersion": 1,
+      "id": "kva_10101006_002",
+      "title": "An armored commander is reprimanded for bowing",
+      "topics": [
+        "Defense & borders",
+        "Court life"
+      ],
+      "translation": [
+        "As the royal procession passed the troops left in position, their commander prostrated himself to receive it. The king instructed: “I have already given an order concerning the principle that a man in armor and helmet does not bow. A military formation differs from the ranks assembled at court. The commander of the Royal Guards’ formation has failed to observe the proper conduct. Investigate the commander concerned, Yi Han-eung.”"
+      ],
+      "notes": [
+        {
+          "title": "Investigate, not a stated punishment",
+          "text": "推考 orders an investigation into an official’s conduct. This entry does not state its outcome or a final penalty."
+        }
+      ],
+      "keywords": [
+        "갑옷",
+        "절",
+        "이한응",
+        "금위영",
+        "군례"
+      ],
+      "provenance": {
+        "method": "ai-generated",
+        "contributors": [
+          "seed-edition"
+        ],
+        "model": "not-recorded",
+        "created": "2026-09-12",
+        "updated": "2026-09-12",
+        "guidelineVersion": "1.0",
+        "sourceSha256": "0e8461271fde212295927f2baa97b1169f401c033feaf93cf355e8524794a176",
+        "license": "CC-BY-SA-4.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10403007_003",
+  "title": "An Odori delegation comes to court",
+  "topics": [
+    "Diplomacy",
+    "Defense & borders"
+  ],
+  "translation": [
+    "Tong Möngke Temür of the Odori and two others came to court."
+  ],
+  "notes": [
+    {
+      "title": "Three people in total",
+      "text": "等三人 specifies a party of three including the named person, not three additional companions. The name is also preserved as 童猛哥帖木兒."
+    }
+  ],
+  "keywords": [
+    "오도리",
+    "동맹가첩목아",
+    "여진",
+    "Mongke Temur"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "ba6c3ac1d8ab3f15575c230ddc123b18c96d2ddbe0e90c66bbd32f9926fdc0af",
+    "license": "CC-BY-SA-4.0"
+  }
+}

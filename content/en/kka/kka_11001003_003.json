@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "kka_11001003_003",
+  "title": "Royal physicians are summoned for Song Il",
+  "topics": [
+    "Health & medicine",
+    "Court life"
+  ],
+  "translation": [
+    "Song Il, Lord of Yeowon, was in the guest hall when he suddenly became disoriented and lost consciousness. The king ordered: “Have the Royal Medical Office treat him at once.”"
+  ],
+  "notes": [
+    {
+      "title": "Symptoms, not a diagnosis",
+      "text": "The record describes loss of awareness. This edition does not assign a modern medical diagnosis to the episode."
+    }
+  ],
+  "keywords": [
+    "송일",
+    "내의원",
+    "의료",
+    "실신"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "b4a7204614f08f7356348fba7d6d804c32dd64f1054c6812d517daf0999eb406",
+    "license": "CC-BY-SA-4.0"
+  }
+}

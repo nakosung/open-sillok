@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "kva_10101004_001",
+  "title": "Top candidates proceed directly to the palace examination",
+  "topics": [
+    "Language & learning"
+  ],
+  "translation": [
+    "The king personally examined the scholars in textual exposition and composition at the spring dogi examination. Yi Baek-hyeong, who placed first in composition, and Yi Seung-un, who placed first in exposition, were both allowed to proceed directly to the palace examination."
+  ],
+  "notes": [
+    {
+      "title": "Two forms of assessment",
+      "text": "講 refers to exposition of a text and 製 to composition. The entry names a separate top candidate in each."
+    }
+  ],
+  "keywords": [
+    "유생",
+    "과거",
+    "강경",
+    "제술",
+    "전시"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "bd0b9e3d7334618208349fea6bf2383d4d2cf9fec69b2b6f93df6db5efd8c7ea",
+    "license": "CC-BY-SA-4.0"
+  }
+}

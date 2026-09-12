@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10403006_001",
+  "title": "A maritime raid on Chungcheong",
+  "topics": [
+    "Defense & borders"
+  ],
+  "translation": [
+    "Two Japanese ships raided Chungcheong Province, seized two warships, and killed more than sixty soldiers."
+  ],
+  "notes": [],
+  "keywords": [
+    "왜구",
+    "충청도",
+    "병선",
+    "전투"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "effc7a3d25e94f35f86e33f097030e15a6cfe5b7c2fcd4147696bb912515ad36",
+    "license": "CC-BY-SA-4.0"
+  }
+}

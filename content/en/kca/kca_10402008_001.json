@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402008_001",
+  "title": "Fog",
+  "topics": [
+    "Sky & weather"
+  ],
+  "translation": [
+    "There was fog."
+  ],
+  "notes": [
+    {
+      "title": "A complete short entry",
+      "text": "“There was fog” is the entire narrative. The leading characters record the sexagenary day, shown in the date metadata."
+    }
+  ],
+  "keywords": [
+    "안개",
+    "날씨"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "68248b9af6bc7ff7137e7aaa4777df5cb51f74814b7c2d83fd7d0e7fee154d7a",
+    "license": "CC-BY-SA-4.0"
+  }
+}

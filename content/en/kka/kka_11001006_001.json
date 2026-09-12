@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "kka_11001006_001",
+  "title": "A hen said to have become a rooster",
+  "topics": [
+    "Animals",
+    "Law & administration"
+  ],
+  "translation": [
+    "An Cheo-myeong, an official of the Hanseong administration, brought a white chicken from a private household and told the Royal Secretariat: “This bird was originally a hen, but it has now changed into a rooster.” The Secretariat immediately reported the matter. The king ordered: “Inquire carefully into the whole course of the matter and report.”",
+    "The Secretariat summoned and questioned the owner of the chicken, Hyeong-son, an enslaved man attached to the Office of Palace Gardens. He answered: “The chicken hatched last summer. In the twelfth month, it began to grow the feathers of a rooster.” An official of that office said: “This is a most unusual occurrence, so we have ventured to report it now.”"
+  ],
+  "notes": [
+    {
+      "title": "Reported observation",
+      "text": "The title and translation attribute the transformation claim to the people in the record. They do not infer a biological mechanism or establish an actual change of sex."
+    }
+  ],
+  "keywords": [
+    "닭",
+    "암탉",
+    "수탉",
+    "안처명",
+    "형손"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "34aa0eda08c461c7b009fcabd7994e632d3682db28ea174b92b1cb2a21f29e0b",
+    "license": "CC-BY-SA-4.0"
+  }
+}

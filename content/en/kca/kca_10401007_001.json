@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10401007_001",
+  "title": "The moon approaches the Bi lunar mansion",
+  "topics": [
+    "Sky & weather"
+  ],
+  "translation": [
+    "The moon encroached upon Bi."
+  ],
+  "notes": [
+    {
+      "title": "畢 · Bi",
+      "text": "A named lunar mansion in the traditional East Asian sky. 犯 describes a close apparent approach; it does not mean a physical collision."
+    }
+  ],
+  "keywords": [
+    "달",
+    "필성",
+    "천문"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "4a7d84da16e5674d224843278c3c02e50d21789d9510e81c5912b1e6e8a9ab25",
+    "license": "CC-BY-SA-4.0"
+  }
+}

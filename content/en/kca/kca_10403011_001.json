@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10403011_001",
+  "title": "A great offering to the Three Realms",
+  "topics": [
+    "Ritual & belief"
+  ],
+  "translation": [
+    "A great jiao offering to the Three Realms was performed."
+  ],
+  "notes": [
+    {
+      "title": "醮 · jiao",
+      "text": "A named ritual offering. Its traditional name is retained because the brief source gives no description of the ceremony."
+    }
+  ],
+  "keywords": [
+    "삼계대초",
+    "제사",
+    "의례"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "7e1f6590c6c4f99a7d115b1ce58a4261b9963fecdca741afbd6464dc3d8ad219",
+    "license": "CC-BY-SA-4.0"
+  }
+}

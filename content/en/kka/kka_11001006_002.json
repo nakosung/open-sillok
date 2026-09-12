@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "kka_11001006_002",
+  "title": "A reception for Japanese envoys",
+  "topics": [
+    "Diplomacy",
+    "Court life"
+  ],
+  "translation": [
+    "Kim Eung-gi, the Right State Councillor, was appointed to preside over a banquet at the Ministry of Rites for the Japanese envoys, including Nanko Seido."
+  ],
+  "notes": [
+    {
+      "title": "南湖西堂",
+      "text": "The envoy’s designation is retained in the original. Nanko Seido is a provisional reading and should receive specialist verification before scholarly use."
+    }
+  ],
+  "keywords": [
+    "일본",
+    "사신",
+    "김응기",
+    "연회"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "6b006edc9faf37751dcad541c3194c038a471f9cb129496b33317587d4074049",
+    "license": "CC-BY-SA-4.0"
+  }
+}

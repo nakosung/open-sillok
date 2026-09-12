@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10401008_001",
+  "title": "A visit to the senior retired king",
+  "topics": [
+    "Court life"
+  ],
+  "translation": [
+    "The king paid his respects at the residence of the senior retired king."
+  ],
+  "notes": [
+    {
+      "title": "太上殿",
+      "text": "The title identifies the residence or court of the senior retired king. The source gives no further account of the visit."
+    }
+  ],
+  "keywords": [
+    "태상전",
+    "문안"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "fda227a35cd95d959f0eefb8dd13a83d1f6db2c483ad85a76db7c5346b39c76d",
+    "license": "CC-BY-SA-4.0"
+  }
+}

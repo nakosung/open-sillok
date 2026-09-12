@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_11604002_004",
+  "title": "Food relief for fifteen Japanese households at Busanpo",
+  "topics": [
+    "Agriculture & relief",
+    "Diplomacy"
+  ],
+  "translation": [
+    "The supervising officials of the Office of Diplomatic Correspondence were ordered to discuss whether to provide grain loans to fifteen famine-stricken Japanese households permanently resident at Busanpo in Gyeongsang Province.",
+    "They all said, “If grain is given as a loan, it will be difficult to recover later. Yet if they are not relieved and consequently starve to death, that too would be unbearable to watch. Following the relief amounts fixed by our state, let provisions be distributed once every ten days, calculated by the number of mouths, until barley and wheat ripen.” The king agreed."
+  ],
+  "notes": [
+    {
+      "title": "還上 · grain loans",
+      "text": "The officials distinguish repayable grain loans from relief distributions. The translation keeps that distinction."
+    },
+    {
+      "title": "兩麥 · the two grain crops",
+      "text": "Rendered here as barley and wheat. The passage sets their ripening as the endpoint for relief, rather than a fixed modern date."
+    }
+  ],
+  "keywords": [
+    "부산포",
+    "기근",
+    "왜인",
+    "구호",
+    "환곡",
+    "Busan"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "b97ca9e5f8d1578e1ed645227c827b98f431bcb07374623f3acf9a83b5808da0",
+    "license": "CC-BY-SA-4.0"
+  }
+}

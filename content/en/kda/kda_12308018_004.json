@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12308018_004",
+  "title": "A proposal to measure rain and river levels",
+  "topics": [
+    "Craft & technology",
+    "Sky & weather",
+    "Agriculture & relief"
+  ],
+  "translation": [
+    "The Ministry of Revenue reported: “There is already an established rule for provincial governors to transmit reports on rainfall. But soils differ in dryness and moisture, so the depth to which rain penetrates the earth is difficult to determine. We ask that a platform be built at the Bureau of Astronomy, and that an iron vessel, two cheok high and eight chon in diameter, be cast and placed on it to collect rain. Let officials of the bureau measure the depth with a ruler and report it.",
+    "“Also, place a flat stone in the water west of Majeon Bridge. On it, set two carved base stones and erect a square wooden post between them. Fasten the base stones with iron hooks and mark the divisions of cheok, chon, and bun on the post. Officials of this ministry should examine the water depth after rain and report the measurements.",
+    "“Set another marker on a rock beside the Han River and mark it with divisions of cheok, chon, and bun. The ferry official should use it to measure the water depth and inform this ministry, which will report it to the throne.",
+    "“In the provincial offices, follow the capital’s example of the cast vessel, using either porcelain or earthenware vessels, and place them in the office courtyards. The local magistrates should likewise measure the depth of the collected water and report it to the governors, who should transmit the reports.”",
+    "The king agreed."
+  ],
+  "notes": [
+    {
+      "title": "A measurement and reporting system",
+      "text": "The proposal includes rain collection, river gauges, measurement duties, and a reporting chain. It does not name an inventor."
+    },
+    {
+      "title": "尺 · 寸 · 分",
+      "text": "Cheok, chon, and bun are historical length units. The iron vessel is specified as two cheok high and eight chon in diameter. These are not silently converted to English feet and inches."
+    },
+    {
+      "title": "書雲觀 · Bureau of Astronomy",
+      "text": "The office’s responsibilities included observing the sky and weather. The English designation is descriptive."
+    }
+  ],
+  "keywords": [
+    "측우기",
+    "수표",
+    "강우량",
+    "호조",
+    "한강",
+    "과학",
+    "rain gauge",
+    "cheugugi"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "fb4a0fe5a2b3f4e97d14284b3431e04da29fc8bb577764d74ec7a99a56969224",
+    "license": "CC-BY-SA-4.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_11604001_002",
+  "title": "Incense and prayers for the summer sacrifice",
+  "topics": [
+    "Ritual & belief"
+  ],
+  "translation": [
+    "The king personally handed over the incense and written prayers for the summer sacrifice."
+  ],
+  "notes": [],
+  "keywords": [
+    "향",
+    "축문",
+    "하향",
+    "의례"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "8a38d13733b31dccc4f1820117342aba4e4870c7031652a323a00f381ba3cc70",
+    "license": "CC-BY-SA-4.0"
+  }
+}

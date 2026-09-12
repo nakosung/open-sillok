@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12512003_003",
+  "title": "Did the people die of hunger or disease?",
+  "topics": [
+    "Agriculture & relief",
+    "Historical writing",
+    "Health & medicine"
+  ],
+  "translation": [
+    "The Office of Remonstrance reported: “Ma Byeon-ja’s relatives and associates are spread throughout Hamgil Province, and his sources of information are extensive. What he sees and hears is unlikely to be false. His report is very detailed: it is clear that these were deaths from hunger, not an epidemic. Now Jeong Sik’s inquiry has been cursory and has failed to ascertain the circumstances, while Byeon-ja’s eyewitness account is instead treated as empty talk.",
+    "“If this happens, people will no longer report abuses among the population to the throne. Provincial governors and local magistrates will not work hard to save the hungry; even if many die of starvation, they will say they died of epidemic disease and conceal the truth from Your Majesty. We ask that firm and discerning men be sent again to travel through remote villages and search exhaustively. Then the truth of Byeon-ja’s frank account will become apparent, and the shortcomings of Jeong Sik’s inquiry will also be revealed.",
+    "“Moreover, even if these more than sixteen hundred people did not die of hunger but all died of disease, human life is of the greatest importance, and this is a calamity for an entire province. Governor Jeong Gap-son has been entrusted with great responsibility for the region. Yet while Ma Byeon-ja reported what he saw and heard, the governor concealed it and failed to report. This is most improper. We ask that the case be referred to the responsible authorities for investigation.”",
+    "The king did not approve.",
+    "The famine in Hamgil during the imsul and gyehae years was no different from that in the three southern provinces in the byeongjin year. Gap-son designated Gilju and Gyeongseong as places where the hungry were to gather. He lined them up in the courtyard and personally went around feeding them, but by the next day more than half were dead. The people’s deaths were indeed as Ma Byeon-ja had reported.",
+    "The high ministers did not report the truth and forced construction of the long wall. Famine and epidemic disease followed one another, and the dead were beyond counting. Those found by Jeong Sik’s inquiry alone already numbered sixteen hundred. How many thousands he had not found was unknown. The local officials acted together to conceal the matter, and in the end the king did not know."
+  ],
+  "notes": [
+    {
+      "title": "Two distinct voices",
+      "text": "The opening paragraphs translate the Office of Remonstrance’s petition. After the king refuses it, the annals’ narrative criticizes the concealment. That criticism is not the king’s own speech."
+    },
+    {
+      "title": "Numbers and their limits",
+      "text": "The petition says “more than sixteen hundred”; the later narrative gives sixteen hundred as the number located by the inquiry and says the uncounted total was unknown. The translation preserves that distinction."
+    },
+    {
+      "title": "Sexagenary year names",
+      "text": "The cyclical year names are retained in the prose. The entry is filed under Sejong’s twenty-fifth year, labeled 1443 in the source archive."
+    }
+  ],
+  "keywords": [
+    "기근",
+    "기아",
+    "전염병",
+    "함길도",
+    "마변자",
+    "정갑손",
+    "보고",
+    "은폐"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "071c5c81f17332a061cf27b570094cfe91a7818815b04ede33d0816b639ab3f4",
+    "license": "CC-BY-SA-4.0"
+  }
+}

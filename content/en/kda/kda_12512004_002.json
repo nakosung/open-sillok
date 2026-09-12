@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12512004_002",
+  "title": "Thanks for the return of people blown off course at sea",
+  "topics": [
+    "Diplomacy"
+  ],
+  "translation": [
+    "Yu Su-gang, Deputy Director of the Privy Council, was sent to offer thanks for the return of people who had been blown off course at sea. Three sea falcons were also presented. The memorial read:",
+    "“Your sacred heart is compassionate and loving, nurturing all things without omission. Your wise instructions are warm and earnest, and the whole country knows its gratitude. Your care for those afar is profound, and our joy is all the deeper. I humbly reflect that, with my mediocre abilities, I have undeservedly occupied this distant domain. Though I have not yet fulfilled my service as a protecting screen, I have repeatedly received praise. Recently some of our people traveling by boat suddenly suffered the misfortune of being driven off course. Your far-reaching discernment shone upon them, and your imperial command descended. Their remaining lives were preserved, and they again saw their old homes.",
+    "“You further considered that the borders of our maritime country are continually exposed to the designs of island raiders. You therefore instructed us in methods of defense and showed still greater concern for our lasting security. Favor such as this has rarely been heard of in the past. Your breadth embraces those afar, and your benevolence cherishes the small. Your virtue is like Heaven and Earth, enabling all beings to live out their lives; your beneficence reaches both the Chinese and the peoples beyond, leaving no one without a place. You have especially allowed this distant region to receive exceptional favor. I shall respectfully ensure that, generation after generation, we keep our charge of service as a border domain, and morning and evening offer our sincere praise and prayers.”",
+    "The memorial accompanying the local products read:",
+    "“Heavenly favor has been profound, extending particular compassion to us. Although our local products are humble, we offer them to express our thanks. We have respectfully prepared twenty bolts each of fine yellow ramie and fine white ramie, fifty bolts of fine black hemp cloth, ten each of yellow-flower mats, fully patterned flower mats, fully patterned square flower mats, and multicolored flower mats, and one hundred geun each of ginseng, schisandra berries, and pine nuts. These articles are neither finely made nor numerous in kind. We hope that you will appreciate the sincerity from which they come and graciously accept this offering to your superior position.”",
+    "Gifts presented to the empress dowager were ten bolts each of fine white and fine red ramie, and thirty bolts of fine black hemp cloth. The gifts for the empress were the same."
+  ],
+  "notes": [
+    {
+      "title": "Diplomatic voice",
+      "text": "The elaborate praise and subordinate self-description belong to the memorial. The translation preserves that historical diplomatic register."
+    },
+    {
+      "title": "Measures and presentation units",
+      "text": "Geun is a historical unit of weight. The source counts the falcons with 連, a presentation counter rendered here as individual birds; no modern weight conversion is supplied."
+    },
+    {
+      "title": "A corrected character",
+      "text": "The source marks 圍 as corrected to 圉 in the phrase concerning the country’s borders. The translation follows that correction."
+    }
+  ],
+  "keywords": [
+    "표류",
+    "유수강",
+    "명나라",
+    "외교",
+    "해청",
+    "인삼",
+    "무역"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "24bff0cbbe32dcd23748b98a538d5242d2262ba76915623259836ac18e16734c",
+    "license": "CC-BY-SA-4.0"
+  }
+}

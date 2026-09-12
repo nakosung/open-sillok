@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12512001_001",
+  "title": "Saturn approaches the Eastern Well lunar mansion",
+  "topics": [
+    "Sky & weather"
+  ],
+  "translation": [
+    "Saturn encroached upon the Eastern Well."
+  ],
+  "notes": [
+    {
+      "title": "鎭星 and 東井",
+      "text": "鎭星 denotes Saturn; 東井 is a traditional lunar mansion. “Encroached upon” preserves the observation of apparent proximity, not a physical impact."
+    }
+  ],
+  "keywords": [
+    "토성",
+    "진성",
+    "동정",
+    "천문"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "e117c657ad51d1d7b98fce9ab97451d54cdf9b0b8a6d73659798a79e6aaf562c",
+    "license": "CC-BY-SA-4.0"
+  }
+}

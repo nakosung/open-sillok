@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "kva_10101002_002",
+  "title": "Relief must let people live securely, not merely survive",
+  "topics": [
+    "Agriculture & relief",
+    "Law & administration"
+  ],
+  "translation": [
+    "The king instructed the governors of Hamgyeong and Gangwon and the royal inspector overseeing relief in the northern region:",
+    "“With my limited understanding, I have inherited the great foundation of our ancestors. My resolve is to love the people, and my first concern in government is to benefit living beings. Yet my rule has not lasted a full year, and its influence has not reached the people. Day and night I remain reverently fearful, without a moment of ease. Now, at the New Year, the first year of my reign, the warming spring brings harmony and all things begin to flourish. I wish to respond to Heaven’s seasons, embody Heaven’s benevolence, and bring relief to all our people. Unfortunately, famine is most severe in the eastern and northern regions.",
+    "“Drought, flooding, wind, and hail have left almost no harvest. People groan with cold and hunger, and many have scattered from their homes. Those with land have no grain to eat; those without land have lost their place and have no one on whom to depend. Taxes and rents are pressed upon them, and their households are empty. Supporting the old and leading the young, they beg along the roads. Alas! As ruler and shepherd of the people, I feel one person’s hunger as my own hunger and one person’s cold as my own cold. How much more so now, when so many are emaciated, like fish in a dried-up rut? As a parent to the people, I have failed to let my children find a place of security. When I quietly consider my fault, even fine food has no savor.",
+    "“I have studied measures for relief day and night. I have entrusted them to the governors and reinforced them through royal inspectors. Whenever local magistrates take leave of the court, I have earnestly instructed them face to face. All who share the responsibility of relieving my concern must understand my intention, devote themselves sincerely to comforting the people, and give their whole hearts to helping them. Let those suffering hunger escape death in the ditches, and let those who have fled settle in peace again.",
+    "“For those lacking both seed and food grain, and those not equipped with plow oxen, make arrangements and encourage sharing. Do not let the season of spring cultivation be missed and thereby bring anxiety upon the coming year. Alas! Even a man in the lowest office can do some good if he keeps the welfare of living beings in his heart. As ruler of a whole country, can I not save the people of these two provinces?",
+    "“You governors and royal inspectors must instruct the counties and make this known to the elders. In whatever can benefit and save our people, act as circumstances require or report for authorization, so that real results are achieved. If gentlemen in the eastern and northern regions who have private stores understand the court’s benevolent intention, regard saving only themselves as shameful, and help those in urgent need and poverty, saving many people, why should I withhold rewards and recognition?",
+    "“Alas! My virtue has not moved Heaven, nor has my kindness reached the people, and they have been driven from their homes and scattered. Even if we now open the granaries, transfer grain, and supervise its distribution, this does no more than keep the hungry from dying and bring back those who have fled. How can that suffice as the true benefit of enabling people to live securely and work with contentment?”"
+  ],
+  "notes": [
+    {
+      "title": "Emergency relief and recovery",
+      "text": "The instruction distinguishes immediate survival from restoring secure life and work. Seed grain, food grain, and plow oxen are all expressly mentioned."
+    },
+    {
+      "title": "“Like fish in a dried-up rut”",
+      "text": "The source uses the image of being in a dried wheel rut. The English makes the implied fish image explicit to convey the allusion; the original wording remains available."
+    },
+    {
+      "title": "A royal statement of intention",
+      "text": "This entry records an instruction. It does not by itself establish how much relief was delivered or what outcomes followed."
+    }
+  ],
+  "keywords": [
+    "정조",
+    "구휼",
+    "기근",
+    "함경도",
+    "강원도",
+    "종자",
+    "농업",
+    "회복"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "9949c9696ad825c06ed4b8e81a8e8757fbbcf9513f199bc9cec07e058c967526",
+    "license": "CC-BY-SA-4.0"
+  }
+}

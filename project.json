@@ -1,0 +1,11 @@
+{
+  "name": "Open Sillok",
+  "edition": "0.2",
+  "editionDate": "2026-09-12",
+  "guidelineVersion": "1.0",
+  "pilotTarget": 500,
+  "repository": "nakosung/open-sillok",
+  "siteUrl": "https://sillok-english.deif79.chatgpt.site",
+  "codeLicense": "MIT",
+  "translationLicense": "CC-BY-SA-4.0"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402010_002",
+  "title": "Requisitioned horses are to be returned to the people",
+  "topics": [
+    "Labor & status",
+    "Law & administration"
+  ],
+  "translation": [
+    "The king ordered that horses requisitioned from the people be released and returned. He had heard that all supplies for his temporary residence were being transported using the people’s cattle and horses. He said to Bak Seok-myeong:",
+    "“The station personnel in the various provinces receive land and maintain horses. They have no other labor obligations; transporting government goods is their duty. Ordinary people already bear many labor obligations. To make them also provide cattle and horses for transport creates a considerable burden. This brings the people’s resentment upon me. From now on, I will not come again.”",
+    "It was then that this order was issued."
+  ],
+  "notes": [
+    {
+      "title": "The burden of a royal visit",
+      "text": "The complaint is directed at requisitioning from ordinary households when the transport duty belonged to station personnel."
+    }
+  ],
+  "keywords": [
+    "백성",
+    "말",
+    "부역",
+    "박석명",
+    "민폐"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "d656e5c59ff27ea9f8104549760be4c9a4679fc47bd09b04d6c5aaa021e43dc7",
+    "license": "CC-BY-SA-4.0"
+  }
+}

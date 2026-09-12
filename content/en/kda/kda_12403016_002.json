@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12403016_002",
+  "title": "Jang Yeong-sil is questioned over a broken royal palanquin",
+  "topics": [
+    "Craft & technology",
+    "Law & administration"
+  ],
+  "translation": [
+    "Jang Yeong-sil, a senior military officer, had supervised the making of the royal palanquin. It was not firmly constructed and broke apart. He was handed over to the State Tribunal for interrogation."
+  ],
+  "notes": [
+    {
+      "title": "What this entry does not say",
+      "text": "The passage records the failure of the palanquin and an interrogation. It does not say here whether the king was riding in it, what penalty followed, or what later happened to Jang Yeong-sil."
+    },
+    {
+      "title": "大護軍 · daehogun",
+      "text": "A military office held by Jang Yeong-sil. “Senior military officer” is a broad descriptive rendering, not a claim of equivalence to a present-day rank."
+    }
+  ],
+  "keywords": [
+    "장영실",
+    "가마",
+    "안여",
+    "의금부"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "97445ebeb4ebc94608532f2c6649338266219c33772d4841d3b95f0c466f58ca",
+    "license": "CC-BY-SA-4.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_11604002_003",
+  "title": "An Sung-seon asks to leave office",
+  "topics": [
+    "Law & administration"
+  ],
+  "translation": [
+    "An Sung-seon, Chief Royal Secretary, tendered his resignation, saying, “The duties of this office are extremely weighty. I fear only that I cannot fulfill them. I beg to be relieved of my post.” Permission was not granted."
+  ],
+  "notes": [],
+  "keywords": [
+    "안숭선",
+    "사직",
+    "도승지"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "77c16173698fb328cbd0937de8bad89c13b41e4d513afc2ff56d2e63ea946747",
+    "license": "CC-BY-SA-4.0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12403001_005",
+  "title": "A relay of smoke signals and horns",
+  "topics": [
+    "Defense & borders",
+    "Craft & technology"
+  ],
+  "translation": [
+    "Citing a report from the governor of Gyeongsang, the Ministry of Military Affairs submitted: “Geojildapo and Tsushima are within sight of one another’s smoke and fires. Bangwon Pass also has a road connecting it to this port. We ask that a smoke-signal platform be set up on the pass. In addition, station horn-blowers at points within hearing distance of one another. If there is a hostile incident, let the warning pass along in sequence so that the enemy cannot advance easily.” The king agreed."
+  ],
+  "notes": [
+    {
+      "title": "A relay, not an instantaneous broadcast",
+      "text": "The proposal explicitly describes warnings being passed on in sequence. Place names are romanized from Korean readings of the source."
+    }
+  ],
+  "keywords": [
+    "봉수",
+    "연대",
+    "신호",
+    "통신",
+    "대마도",
+    "취각"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "b23453300d162215761e0763267317d4623bdb2f30ea9b20d0a37a0ad1041b51",
+    "license": "CC-BY-SA-4.0"
+  }
+}

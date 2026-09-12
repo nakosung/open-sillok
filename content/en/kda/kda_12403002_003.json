@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12403002_003",
+  "title": "Sejong asks why the record of Taejo is so brief",
+  "topics": [
+    "Historical writing"
+  ],
+  "translation": [
+    "The king said to An Ji, a senior official of the Office of Royal Decrees, and Nam Su-mun, an official of the Hall of Worthies: “The instances of Taejo’s extraordinary martial prowess before he became king were not merely one or two. Looking now at the annals, why is the account so brief?”",
+    "An Ji replied, “We too have heard accounts of such matters. We only regret the brevity of the record.”",
+    "The king said, “Ask the elders and record the facts fully.”"
+  ],
+  "notes": [
+    {
+      "title": "潛邸 · before accession",
+      "text": "The expression refers to the period before Taejo became king. It does not describe a separate military office."
+    }
+  ],
+  "keywords": [
+    "세종",
+    "태조",
+    "사료",
+    "안지",
+    "남수문",
+    "집현전"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "54d49d07fbe0830f1d21213e8fefdaa6515177f0a09422c7a385c936cf599f49",
+    "license": "CC-BY-SA-4.0"
+  }
+}

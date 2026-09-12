@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10401009_004",
+  "title": "Cloth, skins, and provisions for Tsushima",
+  "topics": [
+    "Diplomacy"
+  ],
+  "translation": [
+    "The State Council sent a letter to Sō Sadashige, the military governor of Tsushima. It also sent three bolts each of nine-seung ramie and hemp cloth, two skins each of tiger and leopard, ten bottles of distilled liquor, ten du of garlic, ten bundles of dried persimmons, and ten du of yellow chestnuts."
+  ],
+  "notes": [
+    {
+      "title": "Textile and capacity measures",
+      "text": "Seung expresses a traditional count used in grading cloth. Du is a historical capacity measure. No modern metric conversion is assumed."
+    }
+  ],
+  "keywords": [
+    "대마도",
+    "종정무",
+    "모시",
+    "외교",
+    "Tsushima"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "2894d6f4f0d0e886f084ba7ef1281140fe237703aa093d06db91d04cbe3dee66",
+    "license": "CC-BY-SA-4.0"
+  }
+}

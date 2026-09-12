@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_11604002_001",
+  "title": "A routine audience, state business, and a royal lecture",
+  "topics": [
+    "Court life",
+    "Language & learning"
+  ],
+  "translation": [
+    "The king received the regular audience, attended to state affairs, and went to the royal lecture."
+  ],
+  "notes": [
+    {
+      "title": "經筵 · royal lecture",
+      "text": "A court setting for the ruler’s study and discussion of texts. The entry does not identify which text was discussed that day."
+    }
+  ],
+  "keywords": [
+    "상참",
+    "정사",
+    "경연"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "318f9192f21e36c7f81576dd93aeb8cecf7ebf568fe9f08489178e61cb68ae96",
+    "license": "CC-BY-SA-4.0"
+  }
+}

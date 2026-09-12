@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10401001_001",
+  "title": "New Year greetings and a screen of admonitions",
+  "topics": [
+    "Court life",
+    "Language & learning"
+  ],
+  "translation": [
+    "The king led the officials in offering New Year congratulations to the emperor from afar, then received the court’s congratulations. Yun Sa-su, governor of Gyeonggi, copied Wei Zheng’s Memorial on Ten Gradual Changes onto a folding screen and presented it."
+  ],
+  "notes": [
+    {
+      "title": "遙賀 · congratulations from afar",
+      "text": "The text describes a court ceremony honoring the emperor at a distance; it does not say that the emperor attended."
+    },
+    {
+      "title": "魏徵《十漸疏》",
+      "text": "Wei Zheng’s admonitory memorial is rendered by its title. The original Chinese title remains available for identifying the work."
+    }
+  ],
+  "keywords": [
+    "새해",
+    "병풍",
+    "위징",
+    "윤사수"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "8bc0928557ed953fb1f22b9a1c6d835212a939203777f684532278d80626a286",
+    "license": "CC-BY-SA-4.0"
+  }
+}

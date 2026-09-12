@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402008_004",
+  "title": "A fall from a horse, and an order to keep it quiet",
+  "topics": [
+    "Court life",
+    "Historical writing"
+  ],
+  "translation": [
+    "The king personally took up his bow and arrows and galloped on horseback to shoot a deer. His horse fell and he was thrown, but he was not injured.",
+    "Looking around at his attendants, he said, “Do not let the historians know about this.”"
+  ],
+  "notes": [
+    {
+      "title": "史官 · sagwan",
+      "text": "Officials responsible for recording court affairs. The king’s instruction is itself preserved in this entry."
+    },
+    {
+      "title": "獐 · deer",
+      "text": "The source uses a specific word for a small deer. The broader English term avoids claiming a precise modern species identification."
+    }
+  ],
+  "keywords": [
+    "낙마",
+    "사관",
+    "말",
+    "사냥"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "cdb3bf392cc34047a6815fd7938f888b2dcef594e3ec3b316b7c67c9dd1b215a",
+    "license": "CC-BY-SA-4.0"
+  }
+}

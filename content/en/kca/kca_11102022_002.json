@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_11102022_002",
+  "title": "An elephant arrives from Japan",
+  "topics": [
+    "Diplomacy",
+    "Animals"
+  ],
+  "translation": [
+    "Minamoto no Yoshimochi, styled king of Japan, sent an envoy to present an elephant. There had never been an elephant in our country. The Royal Stables were ordered to care for it. It consumed four or five du of beans a day."
+  ],
+  "notes": [
+    {
+      "title": "日本國王源義持",
+      "text": "The record calls Yoshimochi “king of Japan” and uses the surname Minamoto. The wording reflects the source’s diplomatic designation, not a modern description of Japan’s imperial succession."
+    },
+    {
+      "title": "斗 · du",
+      "text": "A historical measure of capacity. The original quantity is retained without an assumed conversion into modern liters."
+    }
+  ],
+  "keywords": [
+    "코끼리",
+    "일본",
+    "외교",
+    "Yoshimochi"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "e5a88dc8c4bcb263ea88a8442e65249c496a7c8cb1994931e4c1dd71c6f868b7",
+    "license": "CC-BY-SA-4.0"
+  }
+}

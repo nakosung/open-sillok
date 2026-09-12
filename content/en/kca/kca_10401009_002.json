@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10401009_002",
+  "title": "A regular sacrifice for a good harvest",
+  "topics": [
+    "Ritual & belief",
+    "Agriculture & relief"
+  ],
+  "translation": [
+    "A sacrifice to pray for grain was performed at the Round Altar in Hanyang. It was a regular annual observance."
+  ],
+  "notes": [],
+  "keywords": [
+    "원단제",
+    "제사",
+    "농사",
+    "한양"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "f2ed19b4a9507d1e29161d6926505a3e1cf0d2bd85c0bf2cce0be52531c1e04c",
+    "license": "CC-BY-SA-4.0"
+  }
+}

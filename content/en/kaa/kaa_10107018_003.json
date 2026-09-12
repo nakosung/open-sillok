@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kaa_10107018_003",
+  "title": "A new royal guard replaces the general military command",
+  "topics": [
+    "Defense & borders",
+    "Law & administration"
+  ],
+  "translation": [
+    "The Uiheung Royal Guard was established, and the General Command of All Armies within and outside the capital was abolished."
+  ],
+  "notes": [
+    {
+      "title": "義興親軍衛 · Uiheung Royal Guard",
+      "text": "An institutional name. “Royal Guard” is used descriptively; it is not a modern organizational equivalent."
+    }
+  ],
+  "keywords": [
+    "의흥친군위",
+    "군사",
+    "조직"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "e16893bd402c5dcc1ecebacbf9aa0b95577805e1ffd6c7837b71e8b5ee410996",
+    "license": "CC-BY-SA-4.0"
+  }
+}

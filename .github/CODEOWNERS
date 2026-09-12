@@ -1,0 +1,10 @@
+# Enforce with the required CODEOWNER review rule; this file alone is not protection.
+* @nakosung
+/.github/ @nakosung
+/governance/ @nakosung
+/reviews/ @nakosung
+/data/sources/ @nakosung
+/scripts/ @nakosung
+/AGENTS.md @nakosung
+/LICENSE* @nakosung
+/SOURCE_POLICY.md @nakosung

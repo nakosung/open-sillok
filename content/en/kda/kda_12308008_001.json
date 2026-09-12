@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12308008_001",
+  "title": "Night flooding inundates houses in the capital",
+  "topics": [
+    "Sky & weather"
+  ],
+  "translation": [
+    "There was heavy rain. That night, a great flood occurred within the city. Houses beside the water were swept away or submerged, and water on level ground stood about three cheok deep."
+  ],
+  "notes": [
+    {
+      "title": "尺 · cheok",
+      "text": "A historical unit of length. The approximate depth is preserved in the original unit rather than converted into an assumed number of meters."
+    }
+  ],
+  "keywords": [
+    "홍수",
+    "폭우",
+    "침수",
+    "서울",
+    "한양"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "93b0b92329feec6aee9ab49edf2742a6c5c8a7585d1d6ce9abaee5b277d9bda0",
+    "license": "CC-BY-SA-4.0"
+  }
+}

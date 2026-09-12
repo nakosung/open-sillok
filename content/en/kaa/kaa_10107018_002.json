@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "kaa_10107018_002",
+  "title": "A proposed message to the Ming court about the change of ruler",
+  "topics": [
+    "Diplomacy",
+    "Law & administration"
+  ],
+  "translation": [
+    "The Deliberative Council, officials of high and low rank, men without office, elders, and others requested that Jo Ban, an official of the Security Council, be sent to the imperial capital to submit the following to the Ministry of Rites:",
+    "“We respectfully state that, when King Gongmin of our small country died without an heir, Yi In-im and other powerful ministers installed U, the son of the treacherous minister Sin Don. U was benighted, violent, reckless, and unrestrained. He killed many innocent people and even raised an army intending to march on Liaodong. At that time, Yi, commander of the Right Army [the source identifies him as Taejo under his former personal name], held that the territory of the superior country must not be violated. He raised a righteous cause and turned the army back. Knowing that he had little support, U became fearful, relinquished the throne, and gave it to his son Chang.",
+    "“The people of the country respectfully followed the command of Lady An, consort of King Gongmin, and appointed Yo, Lord of Jeongchang and a kinsman of the Wang royal house, to administer the affairs of state provisionally. Four years have now passed. Yo too proved benighted and lawless. He alienated loyal and upright men, associated closely with slanderers and the wicked, confused right and wrong, and plotted to entrap longstanding men of merit. Beguiled by Buddhist divinities, he recklessly undertook building works and spent without restraint, so that the people could not endure their suffering. His son Seok was foolish and ignorant, indulged in drink and women, gathered petty men around him, and plotted to harm the loyal and upright.",
+    "“His minister Jeong Mong-ju and others secretly formed treacherous plans and sought to cause disorder. They slandered the meritorious ministers Yi [the source again identifies Taejo], Jo Jun, Jeong Do-jeon, and Nam Eun to the provisional administrator of state affairs, and had the authorities impeach them in order to bring them to harm. The people, indignant and resentful, together put Mong-ju to death. The provisional administrator still did not repent and again plotted killings. All the officials and people feared that the state and its living people would suffer harm. Terrified and at a loss, with no alternative, they agreed that a man who acted in this way could hardly govern the people and serve the altars of state. On the twelfth day of the seventh month of Hongwu year twenty-five, by the command of Lady An, consort of King Gongmin, he retired to a private residence.",
+    "“We earnestly considered that military and state affairs could not be left without direction for even a day. Among the royal relatives, no one could be found who met the people’s expectations. Only Yi, Chief Councillor [the source again identifies Taejo], had extended his beneficence to the people and rendered service to the state. Hearts within and outside the capital had long turned toward him. Accordingly, officials of all ranks, men without office, elders, soldiers, and people throughout the country wished to acclaim him. We are sending Jo Ban of the Security Council ahead to report to the imperial court. We humbly request that you examine this and convey it to the throne. May you graciously follow the people’s wishes and bring peace to the people of this country.”"
+  ],
+  "notes": [
+    {
+      "title": "A partisan account in a diplomatic petition",
+      "text": "The accusations about earlier rulers and ministers belong to the proposed message. They are translated as claims made by its authors, not as independently established facts."
+    },
+    {
+      "title": "The name represented as 李",
+      "text": "At several points, the displayed source gives only the surname Yi, with an annotation identifying Taejo’s former personal name. The English makes that annotation explicit rather than silently supplying a missing name."
+    },
+    {
+      "title": "社稷 · altars of state",
+      "text": "Literally the altars of soil and grain, also used to refer to the polity. The rendering follows the phrase’s role in each sentence."
+    }
+  ],
+  "keywords": [
+    "태조",
+    "명나라",
+    "즉위",
+    "조반",
+    "정도전",
+    "정몽주",
+    "공민왕"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "38fdc1944dff24cfdbb0d957051ab352d70af7cea5d1e98ede19488aa65975e8",
+    "license": "CC-BY-SA-4.0"
+  }
+}

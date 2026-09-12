@@ -1,0 +1,11 @@
+{
+  "seed-edition": {
+    "name": "Initial AI-generated edition",
+    "kind": "bootstrap"
+  },
+  "nakosung": {
+    "name": "Nako Sung",
+    "kind": "maintainer",
+    "profile": "https://github.com/nakosung"
+  }
+}

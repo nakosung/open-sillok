@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12308001_001",
+  "title": "Firearms instructors are sent to the two frontier regions",
+  "topics": [
+    "Craft & technology",
+    "Defense & borders"
+  ],
+  "translation": [
+    "The king ordered Jeong Yeon, Minister of Military Affairs; Sin In-son, Vice Minister; and the senior military officials Yi Sun-mong, Seong Dal-saeng, Kim Jong-seo, Nam Ji, and Bak Jong-u to deliberate together. They were to select court officials thoroughly familiar with the use of firearms and send them separately to the eastern and western frontier regions to provide instruction and prepare for unforeseen events.",
+    "They recommended Yi Ho-seong, a military officer, and Byeon Sang-geun, a former administrative officer. The two were sent separately to the two provinces under the title “training inspectors” to teach the use of firearms. If frontier commanders, local magistrates, or manho commanders of any level failed to apply themselves, officials of the fourth rank or below could be dealt with directly; those of the third rank or above were to be reported to the throne for punishment."
+  ],
+  "notes": [
+    {
+      "title": "火炮 · firearms",
+      "text": "The source uses a general term for gunpowder weapons. The translation does not narrow it to a specific firearm or cannon design."
+    },
+    {
+      "title": "Ranks and authority",
+      "text": "The fourth-rank and third-rank thresholds are retained because they determine who could be disciplined locally and whose case required a royal report."
+    }
+  ],
+  "keywords": [
+    "화포",
+    "화약",
+    "김종서",
+    "훈련",
+    "국방"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "7fde31f4c78a65d3df6f28d8672d355495b082d686a65d6c4aa1cb6692d34450",
+    "license": "CC-BY-SA-4.0"
+  }
+}

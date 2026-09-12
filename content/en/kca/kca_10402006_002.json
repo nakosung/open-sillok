@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402006_002",
+  "title": "Zengzi and Zisi are raised to places beside Confucius",
+  "topics": [
+    "Ritual & belief",
+    "Language & learning"
+  ],
+  "translation": [
+    "Zengzi, Duke of Cheng, and Zisi, Duke of Yi, were raised to positions of associated worship beside the First Sage. Previously, Zengzi had been among the Ten Philosophers and Zisi among the other figures receiving subsidiary sacrifices.",
+    "Ha Ryun, the Left State Councillor, had obtained portraits of the two while serving as an envoy at the imperial court and brought them back. He proposed making statues and raising them to the associated positions. A statue of Zizhang was also to be made and placed among the Ten Philosophers."
+  ],
+  "notes": [
+    {
+      "title": "The First Sage",
+      "text": "先聖 here refers to Confucius. The passage concerns ritual positions, rather than appointments to government office."
+    }
+  ],
+  "keywords": [
+    "공자",
+    "증자",
+    "자사",
+    "배향",
+    "하륜",
+    "Confucius"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "000c57a9ae9e43d64a7ccabdd6dead81f6fea38135829f379540acda69074d54",
+    "license": "CC-BY-SA-4.0"
+  }
+}

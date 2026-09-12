@@ -1,0 +1,233 @@
+[
+  {
+    "id": "kca_10401004_001",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 4,
+    "ordinal": 1,
+    "characters": 139,
+    "title": "Translate Taejong, year 4, month 1, day 4, entry 1"
+  },
+  {
+    "id": "kca_10401004_002",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 4,
+    "ordinal": 2,
+    "characters": 79,
+    "title": "Translate Taejong, year 4, month 1, day 4, entry 2"
+  },
+  {
+    "id": "kca_10401007_002",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 7,
+    "ordinal": 2,
+    "characters": 10,
+    "title": "Translate Taejong, year 4, month 1, day 7, entry 2"
+  },
+  {
+    "id": "kca_10401009_003",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 9,
+    "ordinal": 3,
+    "characters": 24,
+    "title": "Translate Taejong, year 4, month 1, day 9, entry 3"
+  },
+  {
+    "id": "kca_10401012_001",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 12,
+    "ordinal": 1,
+    "characters": 235,
+    "title": "Translate Taejong, year 4, month 1, day 12, entry 1"
+  },
+  {
+    "id": "kca_10401012_002",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 12,
+    "ordinal": 2,
+    "characters": 258,
+    "title": "Translate Taejong, year 4, month 1, day 12, entry 2"
+  },
+  {
+    "id": "kca_10401013_001",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 13,
+    "ordinal": 1,
+    "characters": 20,
+    "title": "Translate Taejong, year 4, month 1, day 13, entry 1"
+  },
+  {
+    "id": "kca_10401015_001",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 15,
+    "ordinal": 1,
+    "characters": 9,
+    "title": "Translate Taejong, year 4, month 1, day 15, entry 1"
+  },
+  {
+    "id": "kca_10401015_002",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 15,
+    "ordinal": 2,
+    "characters": 21,
+    "title": "Translate Taejong, year 4, month 1, day 15, entry 2"
+  },
+  {
+    "id": "kca_10401017_001",
+    "kind": "translate",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 17,
+    "ordinal": 1,
+    "characters": 406,
+    "title": "Translate Taejong, year 4, month 1, day 17, entry 1"
+  },
+  {
+    "id": "kda_12308018_001",
+    "kind": "translate",
+    "king": "Sejong",
+    "year": 1441,
+    "month": 8,
+    "day": 18,
+    "ordinal": 1,
+    "characters": 8,
+    "title": "Translate Sejong, year 23, month 8, day 18, entry 1"
+  },
+  {
+    "id": "kca_10402008_004",
+    "kind": "review",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 2,
+    "day": 8,
+    "ordinal": 4,
+    "characters": 39,
+    "title": "A fall from a horse, and an order to keep it quiet"
+  },
+  {
+    "id": "kda_12512030_002",
+    "kind": "review",
+    "king": "Sejong",
+    "year": 1443,
+    "month": 12,
+    "day": 30,
+    "ordinal": 2,
+    "characters": 92,
+    "title": "The king creates twenty-eight letters"
+  },
+  {
+    "id": "kda_12308018_004",
+    "kind": "review",
+    "king": "Sejong",
+    "year": 1441,
+    "month": 8,
+    "day": 18,
+    "ordinal": 4,
+    "characters": 243,
+    "title": "A proposal to measure rain and river levels"
+  },
+  {
+    "id": "kda_11604026_003",
+    "kind": "review",
+    "king": "Sejong",
+    "year": 1434,
+    "month": 4,
+    "day": 26,
+    "ordinal": 3,
+    "characters": 106,
+    "title": "Thirty days away from service to care for a wife after childbirth"
+  },
+  {
+    "id": "kda_12403016_002",
+    "kind": "review",
+    "king": "Sejong",
+    "year": 1442,
+    "month": 3,
+    "day": 16,
+    "ordinal": 2,
+    "characters": 27,
+    "title": "Jang Yeong-sil is questioned over a broken royal palanquin"
+  },
+  {
+    "id": "kva_10101002_002",
+    "kind": "review",
+    "king": "Jeongjo",
+    "year": 1777,
+    "month": 1,
+    "day": 2,
+    "ordinal": 2,
+    "characters": 632,
+    "title": "Relief must let people live securely, not merely survive"
+  },
+  {
+    "id": "kda_12512003_003",
+    "kind": "review",
+    "king": "Sejong",
+    "year": 1443,
+    "month": 12,
+    "day": 3,
+    "ordinal": 3,
+    "characters": 449,
+    "title": "Did the people die of hunger or disease?"
+  },
+  {
+    "id": "kca_11102022_002",
+    "kind": "review",
+    "king": "Taejong",
+    "year": 1411,
+    "month": 2,
+    "day": 22,
+    "ordinal": 2,
+    "characters": 41,
+    "title": "An elephant arrives from Japan"
+  },
+  {
+    "id": "kda_10303014_005",
+    "kind": "review",
+    "king": "Sejong",
+    "year": 1421,
+    "month": 3,
+    "day": 14,
+    "ordinal": 5,
+    "characters": 127,
+    "title": "Where should the elephant live?"
+  },
+  {
+    "id": "kca_10401001_001",
+    "kind": "review",
+    "king": "Taejong",
+    "year": 1404,
+    "month": 1,
+    "day": 1,
+    "ordinal": 1,
+    "characters": 48,
+    "title": "New Year greetings and a screen of admonitions"
+  }
+]

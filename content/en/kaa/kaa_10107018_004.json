@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kaa_10107018_004",
+  "title": "Officials are asked to assess the previous dynasty’s institutions",
+  "topics": [
+    "Law & administration"
+  ],
+  "translation": [
+    "The king instructed all officials to set down and report in detail the merits and faults of the preceding dynasty’s administrative orders, laws, and institutions, together with what should be retained or changed."
+  ],
+  "notes": [
+    {
+      "title": "前朝 · the preceding dynasty",
+      "text": "In this entry from Taejo’s first year, the expression refers to Goryeo."
+    }
+  ],
+  "keywords": [
+    "고려",
+    "제도",
+    "법",
+    "개혁"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "5f37ef6fe83a9f8e82531dcf3e0fcbc653c2d3d84952cfff898d3b64e41de12b",
+    "license": "CC-BY-SA-4.0"
+  }
+}

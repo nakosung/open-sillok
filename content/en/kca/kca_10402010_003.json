@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402010_003",
+  "title": "Station inspectors are ordered to curb disorder",
+  "topics": [
+    "Law & administration"
+  ],
+  "translation": [
+    "The station inspectors of Gyeonggi and Punghae were ordered to suppress disorder. This followed a request from the censorial and remonstrance officials."
+  ],
+  "notes": [],
+  "keywords": [
+    "찰방",
+    "금란",
+    "경기",
+    "풍해"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "ab5d788d1df389b3cbd1c67d2df083dbbe80d663885b9ffcea10ee038879ea6a",
+    "license": "CC-BY-SA-4.0"
+  }
+}

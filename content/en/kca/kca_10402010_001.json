@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402010_001",
+  "title": "A solar halo with luminous spots",
+  "topics": [
+    "Sky & weather"
+  ],
+  "translation": [
+    "There was a halo around the sun, with attendant luminous spots to the north and south."
+  ],
+  "notes": [
+    {
+      "title": "日暈 and 珥",
+      "text": "The wording distinguishes the halo from the additional luminous features. Their reported directions are preserved without reinterpreting the observation as a modern measurement."
+    }
+  ],
+  "keywords": [
+    "햇무리",
+    "일이",
+    "천문",
+    "날씨"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "53cb7d52714d40bfa6f0cac46814ea66864ca8c96977146be12cf28bc4e14d4a",
+    "license": "CC-BY-SA-4.0"
+  }
+}

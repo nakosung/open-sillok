@@ -1,0 +1,38 @@
+name: Work on an article
+description: Propose a small translation or review task.
+title: 'Work: ARTICLE_ID'
+body:
+  - type: input
+    id: article
+    attributes:
+      label: Article ID
+      placeholder: kca_10401007_002
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Contribution
+      options:
+        - New translation
+        - Improve an existing draft
+        - Review English language
+        - Review against the complete original
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: Plan and scope
+      description: State your approach, AI usage if any, and the scope you can assess. Do not claim expertise you have not demonstrated.
+    validations:
+      required: true
+  - type: checkboxes
+    id: availability
+    attributes:
+      label: Before starting
+      options:
+        - label: I checked open issues and PRs for this article and understand that a maintainer confirms the claim.
+          required: true
+        - label: I read the contribution and source policies and will work on one article first.
+          required: true

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12308007_003",
+  "title": "A ritual follows a lightning strike",
+  "topics": [
+    "Sky & weather",
+    "Ritual & belief"
+  ],
+  "translation": [
+    "Lightning struck two people, including Choe Ja-ta, a dietary physician of the Office of Royal Cuisine. A ritual to dispel the anomaly was performed."
+  ],
+  "notes": [
+    {
+      "title": "What is stated",
+      "text": "The passage records a lightning strike and a ritual. It does not explicitly state that the two people died."
+    }
+  ],
+  "keywords": [
+    "벼락",
+    "번개",
+    "최자타",
+    "해괴제"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "e333dc2a37158bf7a9701559a40b0709bc7d5b6ea5be56a733316af7fa8731e5",
+    "license": "CC-BY-SA-4.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12512002_001",
+  "title": "A halo around the sun",
+  "topics": [
+    "Sky & weather"
+  ],
+  "translation": [
+    "There was a halo around the sun."
+  ],
+  "notes": [],
+  "keywords": [
+    "햇무리",
+    "태양",
+    "날씨"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "e0948fd6d6974421a7682b59c82e6aae8fa4c38dc87cd69fa7d95734b9f657cd",
+    "license": "CC-BY-SA-4.0"
+  }
+}

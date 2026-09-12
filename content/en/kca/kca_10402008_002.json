@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402008_002",
+  "title": "A banquet at the temporary royal residence",
+  "topics": [
+    "Court life"
+  ],
+  "translation": [
+    "The State Council held a banquet at the king’s temporary residence."
+  ],
+  "notes": [
+    {
+      "title": "行在所 · temporary royal residence",
+      "text": "The place where the king was staying while away from his usual seat."
+    }
+  ],
+  "keywords": [
+    "연회",
+    "행재소",
+    "의정부"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "f653e6bf3996b9bbe2362c07566e5987220917faf66380a107cb5c2471bebb73",
+    "license": "CC-BY-SA-4.0"
+  }
+}

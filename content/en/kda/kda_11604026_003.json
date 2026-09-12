@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_11604026_003",
+  "title": "Thirty days away from service to care for a wife after childbirth",
+  "topics": [
+    "Women & family",
+    "Labor & status"
+  ],
+  "translation": [
+    "The king instructed the Ministry of Punishments: “It has already been established by law that enslaved women in the capital and the provinces are not to be put to work in the month when childbirth is imminent or during the hundred days after giving birth. Yet their husbands are given no leave at all and continue to be put to work, so they cannot care for and protect them. This not only runs counter to the duty of husband and wife to help one another; sometimes lives are lost as a result. This is truly deserving of concern. From now on, when the wife of a person in service gives birth, her husband is to resume service only after thirty full days.”"
+  ],
+  "notes": [
+    {
+      "title": "婢子 · enslaved women",
+      "text": "The order concerns women of servile status and their husbands. It should not be read as a universal or modern paid-leave entitlement."
+    },
+    {
+      "title": "刑曹 · Hyeongjo",
+      "text": "The Ministry of Punishments, responsible for judicial and penal affairs. Its name is translated consistently throughout this edition."
+    }
+  ],
+  "keywords": [
+    "출산",
+    "휴가",
+    "노비",
+    "여성",
+    "육아",
+    "남편"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "3928b988969061c58455114c5e9cc77e4607a072185e46254d3e34acf3f5fce1",
+    "license": "CC-BY-SA-4.0"
+  }
+}

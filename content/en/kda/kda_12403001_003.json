@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12403001_003",
+  "title": "Gathering memories of Taejo’s campaign",
+  "topics": [
+    "Historical writing",
+    "Defense & borders"
+  ],
+  "translation": [
+    "A royal instruction was sent to the governors of Gyeongsang and Jeolla:",
+    "“In the ninth month of the gyeongsin year, Hongwu year thirteen, Japanese raiders landed in groups and plundered those regions. Our Taejo organized and led his troops directly to Unbong and swept them away in one action. Such extraordinary achievement and great valor must be transmitted to later generations. There must still be people who witnessed the numbers of troops and horses, the plans used against the enemy, the number of engagements, and the actions taken to defeat them. Make extensive inquiries among the elders scattered through the counties of your provinces, write down the details, and report them.”",
+    "At this time, the king wished to compose Songs of the Dragons Flying to Heaven, and therefore issued this instruction."
+  ],
+  "notes": [
+    {
+      "title": "龍飛御天歌 · Yongbieocheonga",
+      "text": "The work’s title is rendered as Songs of the Dragons Flying to Heaven. The final sentence supplies the annals’ explanation for collecting the testimony."
+    },
+    {
+      "title": "The language of commemoration",
+      "text": "The praise of Taejo belongs to the royal instruction. The translation preserves its voice without treating it as an independent modern assessment."
+    }
+  ],
+  "keywords": [
+    "태조",
+    "용비어천가",
+    "황산대첩",
+    "운봉",
+    "구술",
+    "역사"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "b88088a213664c48869eb25e08369c9be692055cb94c46ceedd565eac0c965bb",
+    "license": "CC-BY-SA-4.0"
+  }
+}

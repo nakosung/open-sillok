@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "kva_10101003_001",
+  "title": "An extraordinary examination in the king’s first year",
+  "topics": [
+    "Language & learning",
+    "Law & administration"
+  ],
+  "translation": [
+    "The Ministry of Rites reported: “This year is the first year of Your Majesty’s accession. Holding an examination to select men in the first year was an established practice under the ancestral kings. Extraordinary examinations were held in the eulmyo, sinchuk, and eulsa years. It would be appropriate to follow those precedents now.”",
+    "The king approved. The second stage of the regular triennial examination was postponed and set for the autumn."
+  ],
+  "notes": [
+    {
+      "title": "Examination cycles",
+      "text": "The source gives the precedent years by their sexagenary names. They are retained without guessing which sixty-year cycle is intended."
+    }
+  ],
+  "keywords": [
+    "과거",
+    "증광시",
+    "식년시",
+    "시험"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "db0e6a7f84fb471de47b64352e3469c458c90a1a351bf70e5efa41b5b1087ac8",
+    "license": "CC-BY-SA-4.0"
+  }
+}

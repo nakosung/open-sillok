@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "kaa_10107020_001",
+  "title": "Jeong Do-jeon is assigned central deliberative duties",
+  "topics": [
+    "Law & administration"
+  ],
+  "translation": [
+    "Jeong Do-jeon, formerly a senior councillor with the title Jeongdang Munhak, was ordered to participate in deliberating the important affairs of the Deliberative Council and to share responsibility for the Office of Royal Seals."
+  ],
+  "notes": [
+    {
+      "title": "Office titles",
+      "text": "The English names describe the roles of 都評議使司 and 尙瑞司. The source’s exact titles remain in the parallel text."
+    }
+  ],
+  "keywords": [
+    "정도전",
+    "도평의사사",
+    "상서사"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "2e9c649a3f270be4fb26521aac644b17da144fcb1ea11a09239a8caf3411843d",
+    "license": "CC-BY-SA-4.0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "kca_10402006_001",
+  "title": "Who should accompany the king on a military hunt?",
+  "topics": [
+    "Defense & borders",
+    "Law & administration"
+  ],
+  "translation": [
+    "A military hunting exercise was held at Haeju. Earlier, the king had summoned the official in charge of the Office of the Inspector-General and said, “Your office has no time to spare from hearing lawsuits. Let only the Office of Remonstrance and the Ministry of Punishments accompany the royal procession.”",
+    "The censorial office petitioned, “It is an ancient rule that the three offices accompany the royal procession. We ask to join the escort.” The king did not listen. The following day the office again asked to accompany him, and again he did not listen. Choe Yu-gyeong, Chief Inspector-General, was absent from duty in mourning for his elder brother. He happened to visit the palace on private business and heard that the office was not permitted to accompany the king. He went in and explained that the established rule must not be abandoned. The king gave permission.",
+    "The Office of Remonstrance then came to the palace and submitted: “You must personally attend the summer sacrifice at the Royal Ancestral Shrine. If you now tire the troops by hunting far away and then also visit the new capital, the soldiers and horses will be further exhausted. Moreover, Punghae Province lies on the route traveled by Chinese envoys. The burden of holding military hunts there in spring and autumn is considerable. We ask that you hold the military hunt in Gyeonggi and attend to affairs at the new capital. If the hunt is to be held in Punghae, please wait until next year.”",
+    "The king became angry and ordered that the censorial and remonstrance offices and the Ministry of Punishments should all refrain from accompanying him. Ha Ryun, the Left State Councillor, and others pressed their request, and he then ordered them to accompany him."
+  ],
+  "notes": [
+    {
+      "title": "講武 · military hunting exercise",
+      "text": "The term concerns training through a royal hunt. Translating it simply as leisure hunting would miss its military role."
+    },
+    {
+      "title": "A complete petition",
+      "text": "The remonstrance and the king’s changing decisions are part of this single entry; they have not been reduced to a summary."
+    }
+  ],
+  "keywords": [
+    "강무",
+    "최유경",
+    "하륜",
+    "해주",
+    "간언",
+    "사헌부"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "a92460d73f2d0e6186d17e870f4a5b486226324437cb35dc2877cf5a9346ad4e",
+    "license": "CC-BY-SA-4.0"
+  }
+}

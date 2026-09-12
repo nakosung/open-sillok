@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "kda_12512030_002",
+  "title": "The king creates twenty-eight letters",
+  "topics": [
+    "Language & learning"
+  ],
+  "translation": [
+    "This month, the king personally devised twenty-eight letters of the vernacular script. Their forms imitated ancient seal-script characters. They were divided into initial, medial, and final sounds; only after being combined did they form a written syllable. Everything concerning written language, as well as the vernacular speech of this country, could be written with them. Although the letters were simple and concise, their combinations were inexhaustible. This was called Hunminjeongeum.",
+    "End of volume 102 of the Veritable Records of King Sejong Jangheon."
+  ],
+  "notes": [
+    {
+      "title": "An entry for the month",
+      "text": "The source begins 是月, “this month.” The archive places it under day 30 of month 12, but the text does not give an exact day of creation."
+    },
+    {
+      "title": "訓民正音 · Hunminjeongeum",
+      "text": "Literally, “Correct Sounds for Instructing the People.” The phrase names the new writing system in this entry. “Hangul” is its familiar modern name."
+    },
+    {
+      "title": "古篆 · ancient seal script",
+      "text": "This is the account given by the annals. The translation preserves that statement; it does not settle scholarly questions about the letters’ design."
+    }
+  ],
+  "dateScope": "month",
+  "keywords": [
+    "훈민정음",
+    "한글",
+    "문자",
+    "Hangul",
+    "Hangeul"
+  ],
+  "provenance": {
+    "method": "ai-generated",
+    "contributors": [
+      "seed-edition"
+    ],
+    "model": "not-recorded",
+    "created": "2026-09-12",
+    "updated": "2026-09-12",
+    "guidelineVersion": "1.0",
+    "sourceSha256": "70571be429fc59ba0918c74ec45163e1d83518231ed958a5674de2b64e5db8e5",
+    "license": "CC-BY-SA-4.0"
+  }
+}
